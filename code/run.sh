@@ -26,6 +26,7 @@
 #   figures [args]         Render manuscript figure panels (make_figures.py)
 #   assemble-figures       Assemble and export final figures (Inkscape)
 #   prepare-data [args]    Download GEO inputs and build Dicty/Elegans H5ADs
+#   ortholog-annotate      Add tracked consensus ortholog tiers to the H5ADs
 #   inspect-genes <h5ad>   Inspect gene ID columns before adding a dataset
 #   convert-h5ad [args]    Convert processed matrix series + metadata to H5AD
 #   workflow               Print the recommended end-to-end command sequence
@@ -46,28 +47,35 @@ FOUNDATION_WRAP="${EMB}/run_foundation_analysis_locally.sh"
 EVAL_WRAP="${REPO_ROOT}/code/evaluation/run_evaluation_locally.sh"
 MODELS="pca scvi scgpt geneformer uce"
 
-usage()    { sed -n '2,36p' "$0" | sed 's/^# \{0,1\}//'; }
+usage()    { sed -n '2,39p' "$0" | sed 's/^# \{0,1\}//'; }
 
 workflow() {
   cat <<EOF
 End-to-end workflow for a dataset (example: dicty)
 (Use 'xspecies <command>' if installed, or 'bash code/run.sh <command>'.)
 
-  1. Embeddings — one pinned env per model; run the models you need:
+  1. Prepare the clean source matrix:
+       xspecies prepare-data --dataset dicty
+
+  2. Add the tracked consensus human-ortholog tiers required by the
+     fixed-vocabulary models:
+       xspecies ortholog-annotate --dataset dicty
+
+  3. Embeddings — one pinned env per model; run the models you need:
        xspecies embed pca        --dataset dicty
        xspecies embed scvi       --dataset dicty
        xspecies embed scgpt      --dataset dicty
        xspecies embed geneformer --dataset dicty
        xspecies embed uce        --dataset dicty
 
-  2. UMAP coordinates (foundation env) — writes <key>_umap into the H5AD:
+  4. UMAP coordinates (foundation env) — writes <key>_umap into the H5AD:
        xspecies umap --dataset dicty
 
-  3. Annotate cell labels — marker-based; produces the cell_type / gene-set
+  5. Annotate cell labels — marker-based; produces the cell_type / gene-set
      columns that avgBIO and the figures consume:
        xspecies annotate --dataset dicty
 
-  4. Evaluation metrics (evaluation env) — each writes a timestamped run:
+  6. Evaluation metrics (evaluation env) — each writes a timestamped run:
        xspecies avgbio     --dataset dicty
        xspecies pseudotime --dataset dicty
 
@@ -76,14 +84,14 @@ End-to-end workflow for a dataset (example: dicty)
      graph + DPT per repeat (20 roots). This is the method the manuscript
      describes. Pass --inference bootstrap for the legacy fixed-matrix bootstrap.
 
-  5. Pin which run the figures should use (or a specific --run <timestamp>):
+  7. Pin which run the figures should use (or a specific --run <timestamp>):
        xspecies select --dataset dicty --run latest
        xspecies runs   --dataset dicty            # inspect available runs
 
-  6. Render manuscript figure panels (foundation env):
+  8. Render manuscript figure panels (foundation env):
        xspecies figures --dataset dicty
 
-  7. Assemble and export the final SVG/PDF/PNG figures (requires Inkscape):
+  9. Assemble and export the final SVG/PDF/PNG figures (requires Inkscape):
        xspecies assemble-figures --dataset dicty
 
 Which embeddings every step compares is the MAIN set in code/embedding_sets.py
@@ -145,6 +153,10 @@ case "${cmd}" in
   prepare-data | download-data | geo-data)
     require_wrapper "${FOUNDATION_WRAP}"
     run bash "${FOUNDATION_WRAP}" code/datasets/prepare_geo_data.py "$@" ;;
+
+  ortholog-annotate | annotate-orthologs)
+    require_wrapper "${FOUNDATION_WRAP}"
+    run bash "${FOUNDATION_WRAP}" code/orthologs/orthologs_04_annotate_h5ad.py "$@" ;;
 
   convert-h5ad | matrix-to-h5ad)
     require_wrapper "${FOUNDATION_WRAP}"

@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the repository."
+title: "Crossing the species barrier in single-cell foundation models"
+type: software
+version: 0.1.0
+authors:
+  - family-names: Trnovec
+    given-names: Lena
+  - family-names: Katoh-Kurasawa
+    given-names: Mariko
+  - family-names: Arey
+    given-names: Rachel N.
+  - family-names: Shaulsky
+    given-names: Gad
+  - family-names: Zupan
+    given-names: Blaž
+repository-code: "https://github.com/lenatr99/crossspecies-benchmark"
+url: "https://github.com/lenatr99/crossspecies-benchmark"
+keywords:
+  - single-cell RNA sequencing
+  - foundation models
+  - cross-species benchmarking
+  - orthology
+  - developmental biology
