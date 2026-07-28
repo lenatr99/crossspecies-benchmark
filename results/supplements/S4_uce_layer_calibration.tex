@@ -1,0 +1,27 @@
+\begin{table}[H]
+\centering
+\caption{\textbf{UCE checkpoint-depth sensitivity.} The upper block reports full-data avgBIO point estimates. The lower block reports full-data developmental-ordering estimates with 2.5th--97.5th percentile stability intervals from 30 repeated 90\% subsamples. Correlations are displayed on $[0,1]$ via $(r+1)/2$.}
+\label{tab:s4}
+\small
+\begin{tabular}{@{}llcc@{}}
+\toprule
+Organism & Annotation & UCE-4L & UCE-33L \\
+\midrule
+\species{D.~discoideum} & Cell type & 0.618 & 0.252 \\
+ & cAMP-pulse-induced genes & 0.781 & 0.500 \\
+ & Milestones & 0.298 & 0.250 \\
+\addlinespace
+\species{C.~elegans} & Cell/tissue classes & 0.699 & 0.717 \\
+ & Lineage categories & 0.610 & 0.614 \\
+ & Developmental markers & 0.509 & 0.514 \\
+\midrule
+Organism & Metric & UCE-4L [interval] & UCE-33L [interval] \\
+\midrule
+\species{D.~discoideum} & Spearman $\rho$ & 0.911 [0.885, 0.915] & 0.704 [0.683, 0.719] \\
+ & Consensus Lin's CCC & 0.892 [0.881, 0.896] & 0.904 [0.819, 0.920] \\
+\addlinespace
+\species{C.~elegans} & Spearman $\rho$ & 0.868 [0.862, 0.872] & 0.851 [0.846, 0.855] \\
+ & Consensus Lin's CCC & 0.734 [0.644, 0.767] & 0.646 [0.611, 0.679] \\
+\bottomrule
+\end{tabular}
+\end{table}

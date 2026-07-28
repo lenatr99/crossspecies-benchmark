@@ -1,0 +1,102 @@
+{
+  "dataset": "dicty",
+  "generated_utc": "2026-05-06T22:56:30.360764+00:00",
+  "h5ad_path": "/Users/lenatrnovec/crossspecies-benchmark/data/dicty.h5ad",
+  "h5ad_sha256_before": "f024ec9c319a9e44bd1bcca3dafdc943a1ba7f0229e75afd1bc1b52d9652f75b",
+  "model_dir": "/Users/lenatrnovec/crossspecies-benchmark/models/scGPT",
+  "model_files_downloaded": [],
+  "runtime": {
+    "batch_size": 128,
+    "max_cells": null,
+    "overwrite": true,
+    "seed": 42
+  },
+  "step": "scgpt_embed",
+  "variants": [
+    {
+      "embedding_shape": [
+        48983,
+        512
+      ],
+      "n_cells": 48983,
+      "n_collapsed_paralog_rows": 0,
+      "n_mapped_ids": 959,
+      "n_scgpt_vocab_size": 60697,
+      "n_selected_ortholog_symbols": 975,
+      "n_source_genes": 12883,
+      "n_unique_ids": 959,
+      "obsm_keys_written": [
+        "X_scGPT_ortholog_tier1",
+        "X_scGPT_ortholog_tier1_50"
+      ],
+      "pca_shape": [
+        48983,
+        50
+      ],
+      "smoke_embedding_arrays": [],
+      "temporary_h5ad_removed": "/Users/lenatrnovec/crossspecies-benchmark/data/scgpt/work/dicty/tier1/dicty_tier1.h5ad",
+      "tier_columns": [
+        "ortholog_tier_1"
+      ],
+      "variant": "tier1"
+    },
+    {
+      "embedding_shape": [
+        48983,
+        512
+      ],
+      "n_cells": 48983,
+      "n_collapsed_paralog_rows": 7,
+      "n_mapped_ids": 2296,
+      "n_scgpt_vocab_size": 60697,
+      "n_selected_ortholog_symbols": 2337,
+      "n_source_genes": 12883,
+      "n_unique_ids": 2289,
+      "obsm_keys_written": [
+        "X_scGPT_ortholog_tier12",
+        "X_scGPT_ortholog_tier12_50"
+      ],
+      "pca_shape": [
+        48983,
+        50
+      ],
+      "smoke_embedding_arrays": [],
+      "temporary_h5ad_removed": "/Users/lenatrnovec/crossspecies-benchmark/data/scgpt/work/dicty/tier12/dicty_tier12.h5ad",
+      "tier_columns": [
+        "ortholog_tier_1",
+        "ortholog_tier_2"
+      ],
+      "variant": "tier12"
+    },
+    {
+      "embedding_shape": [
+        48983,
+        512
+      ],
+      "n_cells": 48983,
+      "n_collapsed_paralog_rows": 1684,
+      "n_mapped_ids": 5721,
+      "n_scgpt_vocab_size": 60697,
+      "n_selected_ortholog_symbols": 5840,
+      "n_source_genes": 12883,
+      "n_unique_ids": 4037,
+      "obsm_keys_written": [
+        "X_scGPT_ortholog_tier123",
+        "X_scGPT_ortholog_tier123_50"
+      ],
+      "pca_shape": [
+        48983,
+        50
+      ],
+      "smoke_embedding_arrays": [],
+      "temporary_h5ad_removed": "/Users/lenatrnovec/crossspecies-benchmark/data/scgpt/work/dicty/tier123/dicty_tier123.h5ad",
+      "tier_columns": [
+        "ortholog_tier_1",
+        "ortholog_tier_2",
+        "ortholog_tier_3"
+      ],
+      "variant": "tier123"
+    }
+  ],
+  "work_dir": "/Users/lenatrnovec/crossspecies-benchmark/data/scgpt/work"
+}

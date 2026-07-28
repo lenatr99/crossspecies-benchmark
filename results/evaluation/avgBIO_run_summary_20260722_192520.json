@@ -1,0 +1,88 @@
+{
+  "summaries": [
+    {
+      "base_save_dir": "/Users/lenatrnovec/crossspecies-benchmark/results/biological_benchmarks_dicty",
+      "batch_key": "time",
+      "dataset": "dicty",
+      "elapsed_seconds": 948.6325790882111,
+      "embedding_preset": "dimension_matched_100_supp",
+      "label_key": "cell_type",
+      "n_embeddings_ok": 3,
+      "save_dir": "/Users/lenatrnovec/crossspecies-benchmark/results/biological_benchmarks_dicty/runs/20260722_192520",
+      "silhouette_subsample": null,
+      "subsample_frac": null,
+      "subsample_repeats": 0,
+      "timestamped_save_dir": true
+    },
+    {
+      "base_save_dir": "/Users/lenatrnovec/crossspecies-benchmark/results/biological_benchmarks_dicty",
+      "batch_key": "time",
+      "dataset": "dicty",
+      "elapsed_seconds": 2187.838037967682,
+      "embedding_preset": "dimension_matched_100_supp",
+      "label_key": "cAMP_genes",
+      "n_embeddings_ok": 3,
+      "save_dir": "/Users/lenatrnovec/crossspecies-benchmark/results/biological_benchmarks_dicty/runs/20260722_192520",
+      "silhouette_subsample": null,
+      "subsample_frac": null,
+      "subsample_repeats": 0,
+      "timestamped_save_dir": true
+    },
+    {
+      "base_save_dir": "/Users/lenatrnovec/crossspecies-benchmark/results/biological_benchmarks_dicty",
+      "batch_key": "time",
+      "dataset": "dicty",
+      "elapsed_seconds": 1290.0083570480347,
+      "embedding_preset": "dimension_matched_100_supp",
+      "label_key": "milestones",
+      "n_embeddings_ok": 3,
+      "save_dir": "/Users/lenatrnovec/crossspecies-benchmark/results/biological_benchmarks_dicty/runs/20260722_192520",
+      "silhouette_subsample": null,
+      "subsample_frac": null,
+      "subsample_repeats": 0,
+      "timestamped_save_dir": true
+    },
+    {
+      "base_save_dir": "/Users/lenatrnovec/crossspecies-benchmark/results/biological_benchmarks_elegans",
+      "batch_key": "batch",
+      "dataset": "elegans",
+      "elapsed_seconds": 864.1275949478149,
+      "embedding_preset": "dimension_matched_100_supp",
+      "label_key": "cell_type",
+      "n_embeddings_ok": 3,
+      "save_dir": "/Users/lenatrnovec/crossspecies-benchmark/results/biological_benchmarks_elegans/runs/20260722_192520",
+      "silhouette_subsample": null,
+      "subsample_frac": null,
+      "subsample_repeats": 0,
+      "timestamped_save_dir": true
+    },
+    {
+      "base_save_dir": "/Users/lenatrnovec/crossspecies-benchmark/results/biological_benchmarks_elegans",
+      "batch_key": "batch",
+      "dataset": "elegans",
+      "elapsed_seconds": 362.57874608039856,
+      "embedding_preset": "dimension_matched_100_supp",
+      "label_key": "developmental_markers",
+      "n_embeddings_ok": 3,
+      "save_dir": "/Users/lenatrnovec/crossspecies-benchmark/results/biological_benchmarks_elegans/runs/20260722_192520",
+      "silhouette_subsample": null,
+      "subsample_frac": null,
+      "subsample_repeats": 0,
+      "timestamped_save_dir": true
+    },
+    {
+      "base_save_dir": "/Users/lenatrnovec/crossspecies-benchmark/results/biological_benchmarks_elegans",
+      "batch_key": "batch",
+      "dataset": "elegans",
+      "elapsed_seconds": 261.5018298625946,
+      "embedding_preset": "dimension_matched_100_supp",
+      "label_key": "lineage_markers",
+      "n_embeddings_ok": 3,
+      "save_dir": "/Users/lenatrnovec/crossspecies-benchmark/results/biological_benchmarks_elegans/runs/20260722_192520",
+      "silhouette_subsample": null,
+      "subsample_frac": null,
+      "subsample_repeats": 0,
+      "timestamped_save_dir": true
+    }
+  ]
+}

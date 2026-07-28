@@ -1,0 +1,38 @@
+\begin{table}[H]
+\centering
+\caption{\textbf{UCE protein-space calibration sensitivity.} The upper block reports full-data avgBIO before and after two cell-label-free protein-space adapters. ``Global'' denotes global moment matching; ``macrogene'' denotes global matching followed by a residual transform estimated from Tier~1 anchor pairs. The lower block reports mean nearest-human and assigned-ortholog cosine values for the same raw and adapted protein vectors. Global matching used 13{,}209 \species{D.~discoideum} or 19{,}985 \species{C.~elegans} target proteins and one shared set of 19{,}790 human proteins; the macrogene adapter used 960 or 1{,}638 Tier~1 anchor pairs, respectively.}
+\label{tab:s12}
+\scriptsize
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{@{}llccccc@{}}
+\toprule
+Organism & Annotation & 4L raw & 4L global & 33L raw & 33L global & 33L macrogene \\
+\midrule
+\species{D.~discoideum} & Cell type & 0.618 & 0.456 & 0.252 & 0.430 & 0.591 \\
+ & cAMP-pulse-induced genes & 0.781 & 0.778 & 0.500 & 0.771 & 0.769 \\
+ & Milestones & 0.298 & 0.329 & 0.250 & 0.306 & 0.303 \\
+\addlinespace
+\species{C.~elegans} & Cell/tissue classes & 0.699 & 0.692 & 0.717 & 0.689 & 0.661 \\
+ & Lineage categories & 0.610 & 0.612 & 0.614 & 0.607 & 0.603 \\
+ & Developmental markers & 0.509 & 0.508 & 0.514 & 0.508 & 0.510 \\
+\bottomrule
+\end{tabular}%
+}
+\medskip
+
+\begin{tabular}{@{}llcccc@{}}
+\toprule
+Organism & Protein diagnostic & Raw & Global & Macrogene & Evaluation $n$ \\
+\midrule
+\species{D.~discoideum} & Nearest human & 0.761 & 0.806 & 0.809 & 13,209 \\
+ & Assigned ortholog T1 & 0.721 & 0.810 & 0.815 & 960 \\
+ & Assigned ortholog T2 & 0.731 & 0.807 & 0.812 & 1,331 \\
+ & Assigned ortholog T3 & 0.661 & 0.764 & 0.767 & 3,415 \\
+\addlinespace
+\species{C.~elegans} & Nearest human & 0.813 & 0.828 & 0.829 & 19,985 \\
+ & Assigned ortholog T1 & 0.781 & 0.832 & 0.835 & 1,638 \\
+ & Assigned ortholog T2 & 0.801 & 0.835 & 0.838 & 1,809 \\
+ & Assigned ortholog T3 & 0.730 & 0.784 & 0.786 & 6,085 \\
+\bottomrule
+\end{tabular}
+\end{table}

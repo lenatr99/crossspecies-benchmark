@@ -1,0 +1,114 @@
+{
+  "dataset": "dicty",
+  "model": "main",
+  "h5ad_path": "/Users/lenatrnovec/crossspecies-benchmark/data/dicty.h5ad",
+  "generated_utc": "2026-07-03T10:15:32.724794+00:00",
+  "embedding_template": "X_geneformer_ortholog_{variant}{representation_suffix}",
+  "embedding_keys": [
+    "X_pca",
+    "X_scVI",
+    "X_scGPT_ortholog_tier12",
+    "X_geneformer_ortholog_tier12",
+    "X_uce_4L"
+  ],
+  "output_prefix": "main",
+  "output_dir_template": "{output_prefix}/{dataset}",
+  "random_state": 42,
+  "min_dist": 0.1,
+  "n_neighbors": 15,
+  "size": 5,
+  "alpha": 1.0,
+  "dpi": 180,
+  "outputs": [
+    {
+      "model": "main",
+      "variant": null,
+      "representation": "custom",
+      "embedding_key": "X_pca",
+      "umap_key": "X_pca_umap",
+      "color": "time",
+      "figure": "/Users/lenatrnovec/crossspecies-benchmark/results/embeddings/umaps/main/dicty/dicty_pca_umap_by_time.png"
+    },
+    {
+      "model": "main",
+      "variant": null,
+      "representation": "custom",
+      "embedding_key": "X_pca",
+      "umap_key": "X_pca_umap",
+      "color": "cell_type",
+      "figure": "/Users/lenatrnovec/crossspecies-benchmark/results/embeddings/umaps/main/dicty/dicty_pca_umap_by_cell_type.png"
+    },
+    {
+      "model": "main",
+      "variant": null,
+      "representation": "custom",
+      "embedding_key": "X_scVI",
+      "umap_key": "X_scVI_umap",
+      "color": "time",
+      "figure": "/Users/lenatrnovec/crossspecies-benchmark/results/embeddings/umaps/main/dicty/dicty_scVI_umap_by_time.png"
+    },
+    {
+      "model": "main",
+      "variant": null,
+      "representation": "custom",
+      "embedding_key": "X_scVI",
+      "umap_key": "X_scVI_umap",
+      "color": "cell_type",
+      "figure": "/Users/lenatrnovec/crossspecies-benchmark/results/embeddings/umaps/main/dicty/dicty_scVI_umap_by_cell_type.png"
+    },
+    {
+      "model": "main",
+      "variant": null,
+      "representation": "custom",
+      "embedding_key": "X_scGPT_ortholog_tier12",
+      "umap_key": "X_scGPT_ortholog_tier12_umap",
+      "color": "time",
+      "figure": "/Users/lenatrnovec/crossspecies-benchmark/results/embeddings/umaps/main/dicty/dicty_scGPT_ortholog_tier12_umap_by_time.png"
+    },
+    {
+      "model": "main",
+      "variant": null,
+      "representation": "custom",
+      "embedding_key": "X_scGPT_ortholog_tier12",
+      "umap_key": "X_scGPT_ortholog_tier12_umap",
+      "color": "cell_type",
+      "figure": "/Users/lenatrnovec/crossspecies-benchmark/results/embeddings/umaps/main/dicty/dicty_scGPT_ortholog_tier12_umap_by_cell_type.png"
+    },
+    {
+      "model": "main",
+      "variant": null,
+      "representation": "custom",
+      "embedding_key": "X_geneformer_ortholog_tier12",
+      "umap_key": "X_geneformer_ortholog_tier12_umap",
+      "color": "time",
+      "figure": "/Users/lenatrnovec/crossspecies-benchmark/results/embeddings/umaps/main/dicty/dicty_geneformer_ortholog_tier12_umap_by_time.png"
+    },
+    {
+      "model": "main",
+      "variant": null,
+      "representation": "custom",
+      "embedding_key": "X_geneformer_ortholog_tier12",
+      "umap_key": "X_geneformer_ortholog_tier12_umap",
+      "color": "cell_type",
+      "figure": "/Users/lenatrnovec/crossspecies-benchmark/results/embeddings/umaps/main/dicty/dicty_geneformer_ortholog_tier12_umap_by_cell_type.png"
+    },
+    {
+      "model": "main",
+      "variant": null,
+      "representation": "custom",
+      "embedding_key": "X_uce_4L",
+      "umap_key": "X_uce_4L_umap",
+      "color": "time",
+      "figure": "/Users/lenatrnovec/crossspecies-benchmark/results/embeddings/umaps/main/dicty/dicty_uce_4L_umap_by_time.png"
+    },
+    {
+      "model": "main",
+      "variant": null,
+      "representation": "custom",
+      "embedding_key": "X_uce_4L",
+      "umap_key": "X_uce_4L_umap",
+      "color": "cell_type",
+      "figure": "/Users/lenatrnovec/crossspecies-benchmark/results/embeddings/umaps/main/dicty/dicty_uce_4L_umap_by_cell_type.png"
+    }
+  ]
+}

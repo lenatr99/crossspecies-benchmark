@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "crossspecies-benchmark"
+version = "0.1.0"
+description = "Workflow launcher for the cross-species single-cell embedding benchmark"
+requires-python = ">=3.9"
+# Intentionally dependency-free: `xspecies` is a thin launcher that delegates to
+# code/run.sh, which runs each step in its own pinned conda env. The per-step
+# Python deps live in those envs, not here.
+dependencies = []
+
+[project.scripts]
+# The installed command name. Change "xspecies" here to rename the program.
+xspecies = "crossspecies_cli:main"
+
+[tool.setuptools]
+py-modules = ["crossspecies_cli"]

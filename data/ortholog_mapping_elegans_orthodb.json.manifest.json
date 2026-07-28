@@ -1,0 +1,23 @@
+{
+  "consensus_sha256": "6b48c3d44695234955799b76b20731467d36213e85191d477d9986a0589b2b90",
+  "consensus_tsv": "/workspace/results/orthologs/02_consensus_elegans.tsv",
+  "evidence_sources": [
+    "orthofinder",
+    "orthodb_og",
+    "oma",
+    "curated"
+  ],
+  "generated_utc": "2026-04-30T23:29:35.091327+00:00",
+  "min_tier": 2,
+  "n_genes_in_main": 3504,
+  "n_genes_with_evidence": 9933,
+  "organism": "elegans",
+  "orthodb_release": "odb12v1",
+  "output_evidence_json": "/workspace/data/ortholog_mapping_elegans_orthodb.evidence.json",
+  "output_json": "/workspace/data/ortholog_mapping_elegans_orthodb.json",
+  "step": "03_build_symbol_mapping",
+  "tier_counts_in_main": {
+    "1": 1654,
+    "2": 1850
+  }
+}

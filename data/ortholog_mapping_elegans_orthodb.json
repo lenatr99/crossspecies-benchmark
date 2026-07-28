@@ -1,0 +1,10514 @@
+{
+  "WBGene00000020": [
+    "ABCA2"
+  ],
+  "WBGene00000022": [
+    "ABCA3"
+  ],
+  "WBGene00000035": [
+    "BCHE"
+  ],
+  "WBGene00000038": [
+    "BCHE"
+  ],
+  "WBGene00000039": [
+    "ACE"
+  ],
+  "WBGene00000040": [
+    "ACO1"
+  ],
+  "WBGene00000041": [
+    "ACO2"
+  ],
+  "WBGene00000064": [
+    "ACTB"
+  ],
+  "WBGene00000068": [
+    "ADCY9"
+  ],
+  "WBGene00000072": [
+    "ADD1"
+  ],
+  "WBGene00000075": [
+    "ADAM17"
+  ],
+  "WBGene00000081": [
+    "AGPS"
+  ],
+  "WBGene00000086": [
+    "MADD"
+  ],
+  "WBGene00000089": [
+    "RAB27A"
+  ],
+  "WBGene00000090": [
+    "PIK3CA"
+  ],
+  "WBGene00000092": [
+    "GPSM1"
+  ],
+  "WBGene00000096": [
+    "AHR"
+  ],
+  "WBGene00000097": [
+    "ZFAND2A"
+  ],
+  "WBGene00000099": [
+    "AURKC"
+  ],
+  "WBGene00000102": [
+    "AKT1"
+  ],
+  "WBGene00000106": [
+    "AGO2"
+  ],
+  "WBGene00000107": [
+    "ALDH2"
+  ],
+  "WBGene00000109": [
+    "ALDH1L2"
+  ],
+  "WBGene00000112": [
+    "ALDH4A1"
+  ],
+  "WBGene00000113": [
+    "ALDH5A1"
+  ],
+  "WBGene00000114": [
+    "ALDH6A1"
+  ],
+  "WBGene00000115": [
+    "ALDH7A1"
+  ],
+  "WBGene00000116": [
+    "ALDH8A1"
+  ],
+  "WBGene00000118": [
+    "ALDH9A1"
+  ],
+  "WBGene00000121": [
+    "ALYREF"
+  ],
+  "WBGene00000123": [
+    "POLR2A"
+  ],
+  "WBGene00000137": [
+    "KDM1B"
+  ],
+  "WBGene00000142": [
+    "SAE1"
+  ],
+  "WBGene00000143": [
+    "ANAPC2"
+  ],
+  "WBGene00000145": [
+    "ANAPC11"
+  ],
+  "WBGene00000148": [
+    "NCSTN"
+  ],
+  "WBGene00000150": [
+    "AP1M2"
+  ],
+  "WBGene00000155": [
+    "XPNPEP1"
+  ],
+  "WBGene00000156": [
+    "APC2"
+  ],
+  "WBGene00000157": [
+    "AP2S1"
+  ],
+  "WBGene00000158": [
+    "AP1G1"
+  ],
+  "WBGene00000159": [
+    "AP1S1"
+  ],
+  "WBGene00000160": [
+    "AP1B1"
+  ],
+  "WBGene00000161": [
+    "AP2A2"
+  ],
+  "WBGene00000162": [
+    "AP3D1"
+  ],
+  "WBGene00000164": [
+    "AP3M1"
+  ],
+  "WBGene00000165": [
+    "AP3S1"
+  ],
+  "WBGene00000166": [
+    "GGA1"
+  ],
+  "WBGene00000173": [
+    "AQP8"
+  ],
+  "WBGene00000175": [
+    "AQP7"
+  ],
+  "WBGene00000177": [
+    "AQP11"
+  ],
+  "WBGene00000180": [
+    "TRIM23"
+  ],
+  "WBGene00000181": [
+    "HSD17B10"
+  ],
+  "WBGene00000182": [
+    "ARF1"
+  ],
+  "WBGene00000183": [
+    "ARF5"
+  ],
+  "WBGene00000184": [
+    "ARF6"
+  ],
+  "WBGene00000186": [
+    "MAST3"
+  ],
+  "WBGene00000187": [
+    "ARL1"
+  ],
+  "WBGene00000192": [
+    "ARL8B"
+  ],
+  "WBGene00000193": [
+    "ARL6"
+  ],
+  "WBGene00000195": [
+    "ARRB2"
+  ],
+  "WBGene00000198": [
+    "TECR"
+  ],
+  "WBGene00000199": [
+    "ACTR3"
+  ],
+  "WBGene00000200": [
+    "ACTR2"
+  ],
+  "WBGene00000201": [
+    "ARPC1A"
+  ],
+  "WBGene00000203": [
+    "ARPC3"
+  ],
+  "WBGene00000208": [
+    "TRIP4"
+  ],
+  "WBGene00000212": [
+    "SMPD1"
+  ],
+  "WBGene00000216": [
+    "CTSE"
+  ],
+  "WBGene00000217": [
+    "CTSD"
+  ],
+  "WBGene00000228": [
+    "ACTN2"
+  ],
+  "WBGene00000229": [
+    "ATP5F1B"
+  ],
+  "WBGene00000230": [
+    "ATP5PO"
+  ],
+  "WBGene00000231": [
+    "ATXN2L"
+  ],
+  "WBGene00000235": [
+    "BANF1"
+  ],
+  "WBGene00000236": [
+    "BAG1"
+  ],
+  "WBGene00000240": [
+    "PAH"
+  ],
+  "WBGene00000241": [
+    "BBS1"
+  ],
+  "WBGene00000242": [
+    "BBS2"
+  ],
+  "WBGene00000244": [
+    "TTC8"
+  ],
+  "WBGene00000257": [
+    "KIF11"
+  ],
+  "WBGene00000269": [
+    "B4GALT3"
+  ],
+  "WBGene00000271": [
+    "BRF1"
+  ],
+  "WBGene00000274": [
+    "BTAF1"
+  ],
+  "WBGene00000276": [
+    "BYSL"
+  ],
+  "WBGene00000277": [
+    "NPDC1"
+  ],
+  "WBGene00000293": [
+    "CAPZB"
+  ],
+  "WBGene00000295": [
+    "SLC18A2"
+  ],
+  "WBGene00000298": [
+    "GCH1"
+  ],
+  "WBGene00000367": [
+    "CACNA1I"
+  ],
+  "WBGene00000368": [
+    "CACNB4"
+  ],
+  "WBGene00000371": [
+    "COX5B"
+  ],
+  "WBGene00000375": [
+    "CYP24A1"
+  ],
+  "WBGene00000377": [
+    "TCP1"
+  ],
+  "WBGene00000378": [
+    "CCT2"
+  ],
+  "WBGene00000379": [
+    "CCT4"
+  ],
+  "WBGene00000380": [
+    "CCT5"
+  ],
+  "WBGene00000381": [
+    "CCT6A"
+  ],
+  "WBGene00000382": [
+    "CDC6"
+  ],
+  "WBGene00000392": [
+    "CDA"
+  ],
+  "WBGene00000393": [
+    "SLC30A1"
+  ],
+  "WBGene00000396": [
+    "FAT1"
+  ],
+  "WBGene00000405": [
+    "CDK1"
+  ],
+  "WBGene00000407": [
+    "CDK5"
+  ],
+  "WBGene00000408": [
+    "CDK7"
+  ],
+  "WBGene00000409": [
+    "CDK8"
+  ],
+  "WBGene00000410": [
+    "CDK9"
+  ],
+  "WBGene00000411": [
+    "SLBP"
+  ],
+  "WBGene00000413": [
+    "CDT1"
+  ],
+  "WBGene00000420": [
+    "GULP1"
+  ],
+  "WBGene00000422": [
+    "XKR7"
+  ],
+  "WBGene00000428": [
+    "NKX1-1"
+  ],
+  "WBGene00000431": [
+    "POU3F4"
+  ],
+  "WBGene00000432": [
+    "VENTX"
+  ],
+  "WBGene00000433": [
+    "RAX2"
+  ],
+  "WBGene00000435": [
+    "VSX2"
+  ],
+  "WBGene00000436": [
+    "MNX1"
+  ],
+  "WBGene00000437": [
+    "HOXB1"
+  ],
+  "WBGene00000439": [
+    "EN2"
+  ],
+  "WBGene00000441": [
+    "POU2F3"
+  ],
+  "WBGene00000448": [
+    "PROX1"
+  ],
+  "WBGene00000453": [
+    "SIX3"
+  ],
+  "WBGene00000466": [
+    "RNGTT"
+  ],
+  "WBGene00000472": [
+    "YBX1"
+  ],
+  "WBGene00000476": [
+    "ARID3A"
+  ],
+  "WBGene00000478": [
+    "FZD5"
+  ],
+  "WBGene00000479": [
+    "DDX6"
+  ],
+  "WBGene00000480": [
+    "GTPBP1"
+  ],
+  "WBGene00000482": [
+    "CHD4"
+  ],
+  "WBGene00000484": [
+    "IFT80"
+  ],
+  "WBGene00000485": [
+    "DYNC2H1"
+  ],
+  "WBGene00000490": [
+    "IFT140"
+  ],
+  "WBGene00000492": [
+    "IFT57"
+  ],
+  "WBGene00000500": [
+    "STUB1"
+  ],
+  "WBGene00000501": [
+    "SLC5A7"
+  ],
+  "WBGene00000503": [
+    "CHIT1"
+  ],
+  "WBGene00000506": [
+    "CCNC"
+  ],
+  "WBGene00000510": [
+    "CHKB"
+  ],
+  "WBGene00000517": [
+    "CDKN1B"
+  ],
+  "WBGene00000518": [
+    "CAMKK1"
+  ],
+  "WBGene00000519": [
+    "XRCC6"
+  ],
+  "WBGene00000520": [
+    "XRCC5"
+  ],
+  "WBGene00000521": [
+    "NPAS4"
+  ],
+  "WBGene00000527": [
+    "COL15A1"
+  ],
+  "WBGene00000530": [
+    "CLCN2"
+  ],
+  "WBGene00000532": [
+    "CLCN4"
+  ],
+  "WBGene00000533": [
+    "CLCN7"
+  ],
+  "WBGene00000536": [
+    "COQ7"
+  ],
+  "WBGene00000537": [
+    "TELO2"
+  ],
+  "WBGene00000542": [
+    "CAPN9"
+  ],
+  "WBGene00000543": [
+    "CAPN7"
+  ],
+  "WBGene00000550": [
+    "CLUH"
+  ],
+  "WBGene00000552": [
+    "CALM3"
+  ],
+  "WBGene00000554": [
+    "PPP3R1"
+  ],
+  "WBGene00000564": [
+    "CNKSR2"
+  ],
+  "WBGene00000567": [
+    "CANX"
+  ],
+  "WBGene00000585": [
+    "COG2"
+  ],
+  "WBGene00000698": [
+    "BBC3"
+  ],
+  "WBGene00000761": [
+    "PDSS1"
+  ],
+  "WBGene00000762": [
+    "COQ2"
+  ],
+  "WBGene00000763": [
+    "COQ3"
+  ],
+  "WBGene00000764": [
+    "COQ4"
+  ],
+  "WBGene00000765": [
+    "COQ5"
+  ],
+  "WBGene00000766": [
+    "COQ6"
+  ],
+  "WBGene00000767": [
+    "COQ8A"
+  ],
+  "WBGene00000772": [
+    "CPEB1"
+  ],
+  "WBGene00000773": [
+    "CSTF1"
+  ],
+  "WBGene00000775": [
+    "GDA"
+  ],
+  "WBGene00000778": [
+    "TAGLN3"
+  ],
+  "WBGene00000787": [
+    "ENDOG"
+  ],
+  "WBGene00000788": [
+    "CTSZ"
+  ],
+  "WBGene00000794": [
+    "FEN1"
+  ],
+  "WBGene00000795": [
+    "TATDN1"
+  ],
+  "WBGene00000796": [
+    "EXOSC10"
+  ],
+  "WBGene00000798": [
+    "EXOSC5"
+  ],
+  "WBGene00000799": [
+    "DNASE2B"
+  ],
+  "WBGene00000802": [
+    "CALR"
+  ],
+  "WBGene00000813": [
+    "GPS1"
+  ],
+  "WBGene00000814": [
+    "COPS2"
+  ],
+  "WBGene00000815": [
+    "COPS3"
+  ],
+  "WBGene00000816": [
+    "COPS4"
+  ],
+  "WBGene00000817": [
+    "COPS5"
+  ],
+  "WBGene00000818": [
+    "COPS6"
+  ],
+  "WBGene00000831": [
+    "CAT"
+  ],
+  "WBGene00000832": [
+    "CTNNAL1"
+  ],
+  "WBGene00000833": [
+    "CS"
+  ],
+  "WBGene00000835": [
+    "ATOX1"
+  ],
+  "WBGene00000836": [
+    "CUL1"
+  ],
+  "WBGene00000837": [
+    "CUL2"
+  ],
+  "WBGene00000838": [
+    "CUL3"
+  ],
+  "WBGene00000840": [
+    "CUL5"
+  ],
+  "WBGene00000843": [
+    "DERL1"
+  ],
+  "WBGene00000854": [
+    "AKAP17A"
+  ],
+  "WBGene00000857": [
+    "WNT4"
+  ],
+  "WBGene00000869": [
+    "CYC1"
+  ],
+  "WBGene00000875": [
+    "RACGAP1"
+  ],
+  "WBGene00000880": [
+    "PPIL2"
+  ],
+  "WBGene00000881": [
+    "PPIB"
+  ],
+  "WBGene00000886": [
+    "PPIL3"
+  ],
+  "WBGene00000887": [
+    "PPIH"
+  ],
+  "WBGene00000888": [
+    "PPIL1"
+  ],
+  "WBGene00000889": [
+    "PPIE"
+  ],
+  "WBGene00000890": [
+    "PPIL4"
+  ],
+  "WBGene00000891": [
+    "PPWD1"
+  ],
+  "WBGene00000892": [
+    "CWC27"
+  ],
+  "WBGene00000894": [
+    "DAB1"
+  ],
+  "WBGene00000896": [
+    "DAD1"
+  ],
+  "WBGene00000906": [
+    "IFT122"
+  ],
+  "WBGene00000911": [
+    "RPTOR"
+  ],
+  "WBGene00000915": [
+    "HSP90AB1"
+  ],
+  "WBGene00000917": [
+    "ANKMY2"
+  ],
+  "WBGene00000923": [
+    "NAA10"
+  ],
+  "WBGene00000931": [
+    "NOLC1"
+  ],
+  "WBGene00000933": [
+    "DAP3"
+  ],
+  "WBGene00000934": [
+    "SLC6A2"
+  ],
+  "WBGene00000935": [
+    "BOLL"
+  ],
+  "WBGene00000936": [
+    "BMP10"
+  ],
+  "WBGene00000937": [
+    "DBR1"
+  ],
+  "WBGene00000939": [
+    "DICER1"
+  ],
+  "WBGene00000940": [
+    "DCPS"
+  ],
+  "WBGene00000942": [
+    "VCL"
+  ],
+  "WBGene00000958": [
+    "DGKQ"
+  ],
+  "WBGene00000959": [
+    "DGKE"
+  ],
+  "WBGene00000961": [
+    "DAG1"
+  ],
+  "WBGene00000962": [
+    "DYNC1H1"
+  ],
+  "WBGene00000964": [
+    "DPYS"
+  ],
+  "WBGene00000966": [
+    "BDH1"
+  ],
+  "WBGene00000970": [
+    "HSDL2"
+  ],
+  "WBGene00000984": [
+    "DCXR"
+  ],
+  "WBGene00000996": [
+    "SLC25A20"
+  ],
+  "WBGene00001001": [
+    "DIS3"
+  ],
+  "WBGene00001002": [
+    "POLA2"
+  ],
+  "WBGene00001008": [
+    "MAP3K12"
+  ],
+  "WBGene00001016": [
+    "DNA2"
+  ],
+  "WBGene00001017": [
+    "DCTN1"
+  ],
+  "WBGene00001018": [
+    "DCTN2"
+  ],
+  "WBGene00001020": [
+    "DNAJC25"
+  ],
+  "WBGene00001023": [
+    "DNAJC14"
+  ],
+  "WBGene00001025": [
+    "DNAJC3"
+  ],
+  "WBGene00001026": [
+    "DNAJC16"
+  ],
+  "WBGene00001027": [
+    "DNAJC11"
+  ],
+  "WBGene00001028": [
+    "DNAJA3"
+  ],
+  "WBGene00001029": [
+    "DNAJC2"
+  ],
+  "WBGene00001030": [
+    "DNAJA1"
+  ],
+  "WBGene00001031": [
+    "DNAJB4"
+  ],
+  "WBGene00001032": [
+    "DNAJC5G"
+  ],
+  "WBGene00001033": [
+    "HSCB"
+  ],
+  "WBGene00001035": [
+    "DNAJC21"
+  ],
+  "WBGene00001037": [
+    "DNAJA2"
+  ],
+  "WBGene00001038": [
+    "DNAJB11"
+  ],
+  "WBGene00001039": [
+    "DNAJC19"
+  ],
+  "WBGene00001041": [
+    "DNAJC9"
+  ],
+  "WBGene00001045": [
+    "DNAJC10"
+  ],
+  "WBGene00001047": [
+    "SEC63"
+  ],
+  "WBGene00001048": [
+    "DNAJC8"
+  ],
+  "WBGene00001049": [
+    "BRIP1"
+  ],
+  "WBGene00001050": [
+    "DXO"
+  ],
+  "WBGene00001051": [
+    "CKS1B"
+  ],
+  "WBGene00001052": [
+    "DRD1"
+  ],
+  "WBGene00001058": [
+    "APEH"
+  ],
+  "WBGene00001073": [
+    "TMX1"
+  ],
+  "WBGene00001080": [
+    "RSBN1L"
+  ],
+  "WBGene00001082": [
+    "AP2M1"
+  ],
+  "WBGene00001086": [
+    "SMC4"
+  ],
+  "WBGene00001087": [
+    "NCAPD2"
+  ],
+  "WBGene00001088": [
+    "DPY30"
+  ],
+  "WBGene00001089": [
+    "FBXO11"
+  ],
+  "WBGene00001092": [
+    "DR1"
+  ],
+  "WBGene00001093": [
+    "DNM1L"
+  ],
+  "WBGene00001094": [
+    "DARS1"
+  ],
+  "WBGene00001095": [
+    "DARS2"
+  ],
+  "WBGene00001122": [
+    "IFT46"
+  ],
+  "WBGene00001127": [
+    "IFT54"
+  ],
+  "WBGene00001129": [
+    "IFT56"
+  ],
+  "WBGene00001130": [
+    "DNM1"
+  ],
+  "WBGene00001134": [
+    "OPA1"
+  ],
+  "WBGene00001135": [
+    "SLC17A7"
+  ],
+  "WBGene00001137": [
+    "ATP1A1"
+  ],
+  "WBGene00001149": [
+    "BCAT1"
+  ],
+  "WBGene00001151": [
+    "ECHDC3"
+  ],
+  "WBGene00001153": [
+    "ECI2"
+  ],
+  "WBGene00001154": [
+    "ECHDC2"
+  ],
+  "WBGene00001155": [
+    "ECHS1"
+  ],
+  "WBGene00001160": [
+    "EEF2K"
+  ],
+  "WBGene00001166": [
+    "EFTUD2"
+  ],
+  "WBGene00001167": [
+    "EEF2"
+  ],
+  "WBGene00001171": [
+    "KCNH5"
+  ],
+  "WBGene00001172": [
+    "PCSK2"
+  ],
+  "WBGene00001173": [
+    "PRKG1"
+  ],
+  "WBGene00001177": [
+    "PLCB4"
+  ],
+  "WBGene00001179": [
+    "RGS7"
+  ],
+  "WBGene00001188": [
+    "WNT16"
+  ],
+  "WBGene00001189": [
+    "CPE"
+  ],
+  "WBGene00001196": [
+    "GNAQ"
+  ],
+  "WBGene00001209": [
+    "EIF3A"
+  ],
+  "WBGene00001210": [
+    "INSM1"
+  ],
+  "WBGene00001215": [
+    "PTPN23"
+  ],
+  "WBGene00001224": [
+    "EPS15L1"
+  ],
+  "WBGene00001225": [
+    "EIF3B"
+  ],
+  "WBGene00001227": [
+    "EIF3D"
+  ],
+  "WBGene00001228": [
+    "EIF3E"
+  ],
+  "WBGene00001229": [
+    "EIF3F"
+  ],
+  "WBGene00001230": [
+    "EIF3G"
+  ],
+  "WBGene00001231": [
+    "EIF3H"
+  ],
+  "WBGene00001232": [
+    "EIF3I"
+  ],
+  "WBGene00001233": [
+    "EIF3K"
+  ],
+  "WBGene00001234": [
+    "EIF6"
+  ],
+  "WBGene00001235": [
+    "ELOB"
+  ],
+  "WBGene00001241": [
+    "ELOVL6"
+  ],
+  "WBGene00001258": [
+    "AQR"
+  ],
+  "WBGene00001259": [
+    "SUPT6H"
+  ],
+  "WBGene00001262": [
+    "POR"
+  ],
+  "WBGene00001263": [
+    "COL4A3"
+  ],
+  "WBGene00001281": [
+    "CDC16"
+  ],
+  "WBGene00001303": [
+    "SEC61G"
+  ],
+  "WBGene00001309": [
+    "LEMD1"
+  ],
+  "WBGene00001328": [
+    "LAMA5"
+  ],
+  "WBGene00001331": [
+    "KDELR1"
+  ],
+  "WBGene00001333": [
+    "EZR"
+  ],
+  "WBGene00001335": [
+    "SH3GLB1"
+  ],
+  "WBGene00001336": [
+    "QARS1"
+  ],
+  "WBGene00001338": [
+    "EARS2"
+  ],
+  "WBGene00001358": [
+    "ARL2"
+  ],
+  "WBGene00001366": [
+    "FGD2"
+  ],
+  "WBGene00001372": [
+    "APEX1"
+  ],
+  "WBGene00001404": [
+    "FBP1"
+  ],
+  "WBGene00001405": [
+    "ZMPSTE24"
+  ],
+  "WBGene00001412": [
+    "PPM1F"
+  ],
+  "WBGene00001423": [
+    "FBL"
+  ],
+  "WBGene00001425": [
+    "FIS1"
+  ],
+  "WBGene00001431": [
+    "FKBP4"
+  ],
+  "WBGene00001434": [
+    "FOXG1"
+  ],
+  "WBGene00001443": [
+    "FLII"
+  ],
+  "WBGene00001485": [
+    "NDOR1"
+  ],
+  "WBGene00001486": [
+    "FXN"
+  ],
+  "WBGene00001489": [
+    "EPB41L5"
+  ],
+  "WBGene00001492": [
+    "FRMPD2"
+  ],
+  "WBGene00001497": [
+    "FARSA"
+  ],
+  "WBGene00001498": [
+    "FARSB"
+  ],
+  "WBGene00001499": [
+    "FBXO45"
+  ],
+  "WBGene00001503": [
+    "FH"
+  ],
+  "WBGene00001508": [
+    "EIF1AXP2"
+  ],
+  "WBGene00001510": [
+    "FZR1"
+  ],
+  "WBGene00001513": [
+    "WDR70"
+  ],
+  "WBGene00001519": [
+    "CHRM3"
+  ],
+  "WBGene00001522": [
+    "BBOX1-AS1"
+  ],
+  "WBGene00001523": [
+    "TMLHE"
+  ],
+  "WBGene00001527": [
+    "GCLC"
+  ],
+  "WBGene00001558": [
+    "GDI2"
+  ],
+  "WBGene00001560": [
+    "CIC"
+  ],
+  "WBGene00001568": [
+    "SNAPC4"
+  ],
+  "WBGene00001579": [
+    "CYFIP1"
+  ],
+  "WBGene00001580": [
+    "NCKAP1"
+  ],
+  "WBGene00001585": [
+    "YEATS4"
+  ],
+  "WBGene00001590": [
+    "LIPT1"
+  ],
+  "WBGene00001604": [
+    "GLUL"
+  ],
+  "WBGene00001620": [
+    "SLC1A2"
+  ],
+  "WBGene00001627": [
+    "MGAT5"
+  ],
+  "WBGene00001628": [
+    "GALNT1"
+  ],
+  "WBGene00001632": [
+    "GALNT7"
+  ],
+  "WBGene00001645": [
+    "MGAT2"
+  ],
+  "WBGene00001646": [
+    "GNPNAT1"
+  ],
+  "WBGene00001648": [
+    "GNAO1"
+  ],
+  "WBGene00001650": [
+    "ADAMTS9"
+  ],
+  "WBGene00001651": [
+    "TRPM3"
+  ],
+  "WBGene00001661": [
+    "GPN1"
+  ],
+  "WBGene00001662": [
+    "SAMM50"
+  ],
+  "WBGene00001674": [
+    "GNA12"
+  ],
+  "WBGene00001679": [
+    "GNB2"
+  ],
+  "WBGene00001680": [
+    "GNB5"
+  ],
+  "WBGene00001682": [
+    "GNG13"
+  ],
+  "WBGene00001708": [
+    "GRK6"
+  ],
+  "WBGene00001709": [
+    "GRK2"
+  ],
+  "WBGene00001740": [
+    "TRIT1"
+  ],
+  "WBGene00001744": [
+    "GARS1"
+  ],
+  "WBGene00001746": [
+    "GSK3B"
+  ],
+  "WBGene00001747": [
+    "PPP1CB"
+  ],
+  "WBGene00001748": [
+    "PPP1CA"
+  ],
+  "WBGene00001759": [
+    "HPGDS"
+  ],
+  "WBGene00001808": [
+    "LSM2"
+  ],
+  "WBGene00001813": [
+    "ABCB10"
+  ],
+  "WBGene00001814": [
+    "ABCB9"
+  ],
+  "WBGene00001815": [
+    "ABCB6"
+  ],
+  "WBGene00001816": [
+    "ABCB8"
+  ],
+  "WBGene00001820": [
+    "STOX1"
+  ],
+  "WBGene00001823": [
+    "ITPA"
+  ],
+  "WBGene00001827": [
+    "HCFC2"
+  ],
+  "WBGene00001834": [
+    "HDAC1"
+  ],
+  "WBGene00001838": [
+    "HDAC10"
+  ],
+  "WBGene00001840": [
+    "DDX39A"
+  ],
+  "WBGene00001843": [
+    "HGD"
+  ],
+  "WBGene00001844": [
+    "HID1"
+  ],
+  "WBGene00001860": [
+    "SMC1A"
+  ],
+  "WBGene00001863": [
+    "HMCN1"
+  ],
+  "WBGene00001872": [
+    "MSH4"
+  ],
+  "WBGene00001949": [
+    "TCF4"
+  ],
+  "WBGene00001953": [
+    "TWIST2"
+  ],
+  "WBGene00001955": [
+    "TFAP4"
+  ],
+  "WBGene00001957": [
+    "FERD3L"
+  ],
+  "WBGene00001959": [
+    "NHLH1"
+  ],
+  "WBGene00001972": [
+    "HMGB4"
+  ],
+  "WBGene00001975": [
+    "TFAM"
+  ],
+  "WBGene00001976": [
+    "HMGA2"
+  ],
+  "WBGene00001983": [
+    "ELAC2"
+  ],
+  "WBGene00001993": [
+    "HPD"
+  ],
+  "WBGene00001994": [
+    "HIPK1"
+  ],
+  "WBGene00001997": [
+    "RAD9B"
+  ],
+  "WBGene00001998": [
+    "RAD17"
+  ],
+  "WBGene00002004": [
+    "HSF1"
+  ],
+  "WBGene00002005": [
+    "HSPA8"
+  ],
+  "WBGene00002007": [
+    "HSPA5"
+  ],
+  "WBGene00002010": [
+    "HSPA9"
+  ],
+  "WBGene00002023": [
+    "HSPB1"
+  ],
+  "WBGene00002025": [
+    "SNORA105B"
+  ],
+  "WBGene00002027": [
+    "TP53BP1"
+  ],
+  "WBGene00002028": [
+    "NDST1"
+  ],
+  "WBGene00002029": [
+    "HS2ST1"
+  ],
+  "WBGene00002030": [
+    "HS3ST1"
+  ],
+  "WBGene00002031": [
+    "HS6ST1"
+  ],
+  "WBGene00002035": [
+    "MYO1E"
+  ],
+  "WBGene00002037": [
+    "MYO15A"
+  ],
+  "WBGene00002039": [
+    "MYO7A"
+  ],
+  "WBGene00002040": [
+    "MYO9B"
+  ],
+  "WBGene00002045": [
+    "BTF3L4"
+  ],
+  "WBGene00002046": [
+    "CLNS1A"
+  ],
+  "WBGene00002047": [
+    "INCENP"
+  ],
+  "WBGene00002058": [
+    "KRT15"
+  ],
+  "WBGene00002062": [
+    "EIF4E2"
+  ],
+  "WBGene00002070": [
+    "LMAN1"
+  ],
+  "WBGene00002071": [
+    "LMAN2"
+  ],
+  "WBGene00002075": [
+    "KPNB1"
+  ],
+  "WBGene00002076": [
+    "TNPO2"
+  ],
+  "WBGene00002078": [
+    "XPO1"
+  ],
+  "WBGene00002079": [
+    "CSE1L"
+  ],
+  "WBGene00002080": [
+    "XPOT"
+  ],
+  "WBGene00002083": [
+    "EIF4A2"
+  ],
+  "WBGene00002146": [
+    "INPP5A"
+  ],
+  "WBGene00002147": [
+    "ERN1"
+  ],
+  "WBGene00002149": [
+    "KCNJ15"
+  ],
+  "WBGene00002152": [
+    "IARS1"
+  ],
+  "WBGene00002153": [
+    "IARS2"
+  ],
+  "WBGene00002162": [
+    "UQCRFS1"
+  ],
+  "WBGene00002169": [
+    "SMARCA5"
+  ],
+  "WBGene00002174": [
+    "CNTNAP2"
+  ],
+  "WBGene00002179": [
+    "JPH3"
+  ],
+  "WBGene00002180": [
+    "JTB"
+  ],
+  "WBGene00002181": [
+    "ANOS1"
+  ],
+  "WBGene00002183": [
+    "ACAT1"
+  ],
+  "WBGene00002185": [
+    "KLHL18"
+  ],
+  "WBGene00002189": [
+    "PRKACB"
+  ],
+  "WBGene00002191": [
+    "CSNK2A1"
+  ],
+  "WBGene00002196": [
+    "CSNK2B"
+  ],
+  "WBGene00002213": [
+    "PTK2"
+  ],
+  "WBGene00002215": [
+    "KLC4"
+  ],
+  "WBGene00002216": [
+    "KIFC3"
+  ],
+  "WBGene00002219": [
+    "KIF2B"
+  ],
+  "WBGene00002222": [
+    "KIF3B"
+  ],
+  "WBGene00002223": [
+    "KIF21B"
+  ],
+  "WBGene00002224": [
+    "KIF19"
+  ],
+  "WBGene00002228": [
+    "KIF15"
+  ],
+  "WBGene00002230": [
+    "KIF3A"
+  ],
+  "WBGene00002233": [
+    "KCNQ4"
+  ],
+  "WBGene00002235": [
+    "KCNQ1"
+  ],
+  "WBGene00002238": [
+    "KARS1"
+  ],
+  "WBGene00002244": [
+    "DDX3Y"
+  ],
+  "WBGene00002248": [
+    "LAMA2"
+  ],
+  "WBGene00002249": [
+    "NPEPL1"
+  ],
+  "WBGene00002251": [
+    "ADGRL4"
+  ],
+  "WBGene00002257": [
+    "FABP4"
+  ],
+  "WBGene00002275": [
+    "LEMD3"
+  ],
+  "WBGene00002278": [
+    "MKRN2"
+  ],
+  "WBGene00002282": [
+    "GP1BA"
+  ],
+  "WBGene00002297": [
+    "ECT2"
+  ],
+  "WBGene00002324": [
+    "MED7"
+  ],
+  "WBGene00002335": [
+    "HRAS"
+  ],
+  "WBGene00002344": [
+    "UBE2D1"
+  ],
+  "WBGene00002363": [
+    "PPP2CB"
+  ],
+  "WBGene00002497": [
+    "PLOD3"
+  ],
+  "WBGene00002694": [
+    "ROCK1"
+  ],
+  "WBGene00002696": [
+    "NKAP"
+  ],
+  "WBGene00002783": [
+    "CREB3L4"
+  ],
+  "WBGene00002804": [
+    "PTCD3"
+  ],
+  "WBGene00002845": [
+    "CNOT1"
+  ],
+  "WBGene00002850": [
+    "PDCD11"
+  ],
+  "WBGene00002855": [
+    "ETFDH"
+  ],
+  "WBGene00002879": [
+    "AK2"
+  ],
+  "WBGene00002889": [
+    "SBNO1"
+  ],
+  "WBGene00002957": [
+    "CWC22"
+  ],
+  "WBGene00002976": [
+    "C4BPA"
+  ],
+  "WBGene00002979": [
+    "ITPKA"
+  ],
+  "WBGene00002980": [
+    "GABARAP"
+  ],
+  "WBGene00002982": [
+    "ATG12"
+  ],
+  "WBGene00002985": [
+    "LIG1"
+  ],
+  "WBGene00002986": [
+    "LIG4"
+  ],
+  "WBGene00002991": [
+    "CASK"
+  ],
+  "WBGene00002996": [
+    "LIN7C"
+  ],
+  "WBGene00002998": [
+    "LIN9"
+  ],
+  "WBGene00002999": [
+    "APBA2"
+  ],
+  "WBGene00003000": [
+    "LHX1"
+  ],
+  "WBGene00003007": [
+    "RYK"
+  ],
+  "WBGene00003017": [
+    "FOXB1"
+  ],
+  "WBGene00003018": [
+    "ATOH7"
+  ],
+  "WBGene00003026": [
+    "TRIM71"
+  ],
+  "WBGene00003030": [
+    "BRAF"
+  ],
+  "WBGene00003035": [
+    "LIN52"
+  ],
+  "WBGene00003036": [
+    "RBBP4"
+  ],
+  "WBGene00003037": [
+    "LIN54"
+  ],
+  "WBGene00003048": [
+    "NLK"
+  ],
+  "WBGene00003059": [
+    "NGDN"
+  ],
+  "WBGene00003060": [
+    "BLTP1"
+  ],
+  "WBGene00003061": [
+    "NDUFS4"
+  ],
+  "WBGene00003063": [
+    "PES1"
+  ],
+  "WBGene00003064": [
+    "NFU1"
+  ],
+  "WBGene00003066": [
+    "LIPT2"
+  ],
+  "WBGene00003068": [
+    "LRRK2"
+  ],
+  "WBGene00003071": [
+    "LRP2"
+  ],
+  "WBGene00003073": [
+    "LARS1"
+  ],
+  "WBGene00003074": [
+    "LARS2"
+  ],
+  "WBGene00003076": [
+    "LSM1"
+  ],
+  "WBGene00003077": [
+    "LSM3"
+  ],
+  "WBGene00003079": [
+    "LSM5"
+  ],
+  "WBGene00003080": [
+    "LSM6"
+  ],
+  "WBGene00003081": [
+    "LSM7"
+  ],
+  "WBGene00003082": [
+    "LSM8"
+  ],
+  "WBGene00003084": [
+    "ZFYVE28"
+  ],
+  "WBGene00003085": [
+    "CCAR1"
+  ],
+  "WBGene00003086": [
+    "SNX33"
+  ],
+  "WBGene00003089": [
+    "KY"
+  ],
+  "WBGene00003106": [
+    "TBX20"
+  ],
+  "WBGene00003107": [
+    "NAB2"
+  ],
+  "WBGene00003112": [
+    "MAB21L2"
+  ],
+  "WBGene00003129": [
+    "METAP1"
+  ],
+  "WBGene00003130": [
+    "METAP2"
+  ],
+  "WBGene00003132": [
+    "CDC27"
+  ],
+  "WBGene00003134": [
+    "CDC23"
+  ],
+  "WBGene00003136": [
+    "MAU2"
+  ],
+  "WBGene00003148": [
+    "EDF1"
+  ],
+  "WBGene00003149": [
+    "DYRK1A"
+  ],
+  "WBGene00003153": [
+    "ATP2B2"
+  ],
+  "WBGene00003154": [
+    "MCM2"
+  ],
+  "WBGene00003155": [
+    "MCM3"
+  ],
+  "WBGene00003156": [
+    "MCM4"
+  ],
+  "WBGene00003157": [
+    "MCM5"
+  ],
+  "WBGene00003159": [
+    "MCM7"
+  ],
+  "WBGene00003160": [
+    "MAD1L1"
+  ],
+  "WBGene00003162": [
+    "MDH2"
+  ],
+  "WBGene00003163": [
+    "MXD1"
+  ],
+  "WBGene00003164": [
+    "MED6"
+  ],
+  "WBGene00003175": [
+    "TUBA1A"
+  ],
+  "WBGene00003177": [
+    "FBXW9"
+  ],
+  "WBGene00003178": [
+    "ATAT1"
+  ],
+  "WBGene00003182": [
+    "MEF2B"
+  ],
+  "WBGene00003183": [
+    "KATNA1"
+  ],
+  "WBGene00003185": [
+    "MAP2K7"
+  ],
+  "WBGene00003186": [
+    "MAP2K1"
+  ],
+  "WBGene00003196": [
+    "PPP1R12C"
+  ],
+  "WBGene00003210": [
+    "AHCTF1"
+  ],
+  "WBGene00003214": [
+    "SHMT1"
+  ],
+  "WBGene00003224": [
+    "EED"
+  ],
+  "WBGene00003225": [
+    "SDHC"
+  ],
+  "WBGene00003229": [
+    "MEX3A"
+  ],
+  "WBGene00003232": [
+    "GRM3"
+  ],
+  "WBGene00003233": [
+    "GRM1"
+  ],
+  "WBGene00003234": [
+    "MIF"
+  ],
+  "WBGene00003235": [
+    "DDTL"
+  ],
+  "WBGene00003243": [
+    "RAPH1"
+  ],
+  "WBGene00003246": [
+    "WLS"
+  ],
+  "WBGene00003258": [
+    "COG1"
+  ],
+  "WBGene00003367": [
+    "SMC2"
+  ],
+  "WBGene00003368": [
+    "MAP2K4"
+  ],
+  "WBGene00003372": [
+    "MYL9"
+  ],
+  "WBGene00003387": [
+    "SLC6A4"
+  ],
+  "WBGene00003389": [
+    "DHX38"
+  ],
+  "WBGene00003391": [
+    "CWC25"
+  ],
+  "WBGene00003392": [
+    "DHX16"
+  ],
+  "WBGene00003393": [
+    "DHX8"
+  ],
+  "WBGene00003394": [
+    "PORCN"
+  ],
+  "WBGene00003401": [
+    "MAPK1"
+  ],
+  "WBGene00003404": [
+    "MPDZ"
+  ],
+  "WBGene00003405": [
+    "MRE11"
+  ],
+  "WBGene00003407": [
+    "ABCC1"
+  ],
+  "WBGene00003411": [
+    "ABCC5"
+  ],
+  "WBGene00003412": [
+    "ABCC4"
+  ],
+  "WBGene00003415": [
+    "MARS1"
+  ],
+  "WBGene00003417": [
+    "RAD1"
+  ],
+  "WBGene00003418": [
+    "MSH2"
+  ],
+  "WBGene00003421": [
+    "MSH5"
+  ],
+  "WBGene00003423": [
+    "MSI2"
+  ],
+  "WBGene00003475": [
+    "MTM1"
+  ],
+  "WBGene00003478": [
+    "MTMR7"
+  ],
+  "WBGene00003479": [
+    "MTMR9"
+  ],
+  "WBGene00003510": [
+    "MLX"
+  ],
+  "WBGene00003517": [
+    "SLC13A5"
+  ],
+  "WBGene00003555": [
+    "TLL1"
+  ],
+  "WBGene00003561": [
+    "NPC1"
+  ],
+  "WBGene00003563": [
+    "NCS1"
+  ],
+  "WBGene00003566": [
+    "SLC8A2"
+  ],
+  "WBGene00003567": [
+    "SLC8A3"
+  ],
+  "WBGene00003569": [
+    "SLC24A2"
+  ],
+  "WBGene00003576": [
+    "NDC80"
+  ],
+  "WBGene00003578": [
+    "NUDT18"
+  ],
+  "WBGene00003579": [
+    "NUDT5"
+  ],
+  "WBGene00003580": [
+    "NUDT8"
+  ],
+  "WBGene00003581": [
+    "NUDT2"
+  ],
+  "WBGene00003582": [
+    "DCP2"
+  ],
+  "WBGene00003583": [
+    "NUDT9"
+  ],
+  "WBGene00003584": [
+    "NUDT19"
+  ],
+  "WBGene00003585": [
+    "NUDT7"
+  ],
+  "WBGene00003586": [
+    "NUDT13"
+  ],
+  "WBGene00003587": [
+    "NEDD8"
+  ],
+  "WBGene00003588": [
+    "ANXA13"
+  ],
+  "WBGene00003594": [
+    "NIT1"
+  ],
+  "WBGene00003596": [
+    "GNL2"
+  ],
+  "WBGene00003657": [
+    "NR2E1"
+  ],
+  "WBGene00003681": [
+    "NR6A1"
+  ],
+  "WBGene00003735": [
+    "SLC9A8"
+  ],
+  "WBGene00003774": [
+    "GRIN1"
+  ],
+  "WBGene00003776": [
+    "MYH10"
+  ],
+  "WBGene00003778": [
+    "NNT"
+  ],
+  "WBGene00003787": [
+    "NUP54"
+  ],
+  "WBGene00003788": [
+    "NUP85"
+  ],
+  "WBGene00003789": [
+    "NUP205"
+  ],
+  "WBGene00003790": [
+    "NUP58"
+  ],
+  "WBGene00003792": [
+    "NUP160"
+  ],
+  "WBGene00003794": [
+    "NUP155"
+  ],
+  "WBGene00003795": [
+    "RANBP1"
+  ],
+  "WBGene00003799": [
+    "NUP93"
+  ],
+  "WBGene00003801": [
+    "NUP133"
+  ],
+  "WBGene00003803": [
+    "RAE1"
+  ],
+  "WBGene00003804": [
+    "SEH1L"
+  ],
+  "WBGene00003805": [
+    "NUP35"
+  ],
+  "WBGene00003806": [
+    "SEC13"
+  ],
+  "WBGene00003815": [
+    "NARS1"
+  ],
+  "WBGene00003816": [
+    "ASNS"
+  ],
+  "WBGene00003818": [
+    "NSF"
+  ],
+  "WBGene00003821": [
+    "GNL3L"
+  ],
+  "WBGene00003822": [
+    "MAP3K15"
+  ],
+  "WBGene00003825": [
+    "CNOT2"
+  ],
+  "WBGene00003826": [
+    "CNOT3"
+  ],
+  "WBGene00003827": [
+    "CNOT4"
+  ],
+  "WBGene00003829": [
+    "NUDC"
+  ],
+  "WBGene00003831": [
+    "NDUFV1"
+  ],
+  "WBGene00003844": [
+    "ODC1"
+  ],
+  "WBGene00003851": [
+    "ODR4"
+  ],
+  "WBGene00003858": [
+    "OGT"
+  ],
+  "WBGene00003876": [
+    "SLC15A1"
+  ],
+  "WBGene00003878": [
+    "SLC15A2"
+  ],
+  "WBGene00003882": [
+    "ORC2"
+  ],
+  "WBGene00003883": [
+    "IFT172"
+  ],
+  "WBGene00003884": [
+    "KIF17"
+  ],
+  "WBGene00003885": [
+    "IFT88"
+  ],
+  "WBGene00003886": [
+    "IFT52"
+  ],
+  "WBGene00003892": [
+    "BBS7"
+  ],
+  "WBGene00003898": [
+    "UBE3B"
+  ],
+  "WBGene00003901": [
+    "PPP2R1A"
+  ],
+  "WBGene00003909": [
+    "GFI1"
+  ],
+  "WBGene00003919": [
+    "STK11"
+  ],
+  "WBGene00003921": [
+    "PARD6G"
+  ],
+  "WBGene00003922": [
+    "PSMA6"
+  ],
+  "WBGene00003923": [
+    "PSMA2"
+  ],
+  "WBGene00003924": [
+    "PSMA4"
+  ],
+  "WBGene00003925": [
+    "PSMA7"
+  ],
+  "WBGene00003926": [
+    "PSMA5"
+  ],
+  "WBGene00003927": [
+    "PSMA1"
+  ],
+  "WBGene00003928": [
+    "PSMA3"
+  ],
+  "WBGene00003929": [
+    "ITGA2B"
+  ],
+  "WBGene00003930": [
+    "ITGB1"
+  ],
+  "WBGene00003932": [
+    "PARVA"
+  ],
+  "WBGene00003948": [
+    "PSMB7"
+  ],
+  "WBGene00003949": [
+    "PSMB3"
+  ],
+  "WBGene00003950": [
+    "PSMB2"
+  ],
+  "WBGene00003952": [
+    "PSMB1"
+  ],
+  "WBGene00003953": [
+    "PSMB4"
+  ],
+  "WBGene00003954": [
+    "PCMT1"
+  ],
+  "WBGene00003955": [
+    "PCNA"
+  ],
+  "WBGene00003963": [
+    "P4HB"
+  ],
+  "WBGene00003964": [
+    "PDIA3"
+  ],
+  "WBGene00003965": [
+    "PDPK1"
+  ],
+  "WBGene00003966": [
+    "PDE6D"
+  ],
+  "WBGene00003967": [
+    "PRKN"
+  ],
+  "WBGene00003969": [
+    "PPEF1"
+  ],
+  "WBGene00003970": [
+    "EIF2AK3"
+  ],
+  "WBGene00003975": [
+    "PSENEN"
+  ],
+  "WBGene00004003": [
+    "ABCB1"
+  ],
+  "WBGene00004011": [
+    "HHEX"
+  ],
+  "WBGene00004014": [
+    "PHB1"
+  ],
+  "WBGene00004015": [
+    "PHB2"
+  ],
+  "WBGene00004016": [
+    "PHF5A"
+  ],
+  "WBGene00004017": [
+    "GAS1"
+  ],
+  "WBGene00004023": [
+    "ACP2"
+  ],
+  "WBGene00004024": [
+    "HOXA10"
+  ],
+  "WBGene00004025": [
+    "P4HA1"
+  ],
+  "WBGene00004029": [
+    "IRAK4"
+  ],
+  "WBGene00004031": [
+    "PAXIP1"
+  ],
+  "WBGene00004032": [
+    "PRKCE"
+  ],
+  "WBGene00004033": [
+    "PRKCA"
+  ],
+  "WBGene00004034": [
+    "PRKCI"
+  ],
+  "WBGene00004035": [
+    "PKD2L1"
+  ],
+  "WBGene00004038": [
+    "PLCG1"
+  ],
+  "WBGene00004040": [
+    "PLD1"
+  ],
+  "WBGene00004042": [
+    "PLK1"
+  ],
+  "WBGene00004049": [
+    "PARP1"
+  ],
+  "WBGene00004050": [
+    "PARP2"
+  ],
+  "WBGene00004055": [
+    "MAPK11"
+  ],
+  "WBGene00004059": [
+    "ABCD3"
+  ],
+  "WBGene00004060": [
+    "ABCD4"
+  ],
+  "WBGene00004063": [
+    "ATP2C1"
+  ],
+  "WBGene00004064": [
+    "PMS2"
+  ],
+  "WBGene00004085": [
+    "PPP4C"
+  ],
+  "WBGene00004088": [
+    "PIP4K2A"
+  ],
+  "WBGene00004089": [
+    "MYL6BP1"
+  ],
+  "WBGene00004090": [
+    "EIF2B3"
+  ],
+  "WBGene00004091": [
+    "PAPSS2"
+  ],
+  "WBGene00004092": [
+    "PPT1"
+  ],
+  "WBGene00004101": [
+    "HGS"
+  ],
+  "WBGene00004107": [
+    "KRTAP5-3"
+  ],
+  "WBGene00004132": [
+    "EIF4ENIF1"
+  ],
+  "WBGene00004140": [
+    "ZSWIM8"
+  ],
+  "WBGene00004147": [
+    "LARP4"
+  ],
+  "WBGene00004166": [
+    "KRT18P31"
+  ],
+  "WBGene00004178": [
+    "PIWIL1"
+  ],
+  "WBGene00004185": [
+    "WDR18"
+  ],
+  "WBGene00004187": [
+    "PRPF8"
+  ],
+  "WBGene00004188": [
+    "SF3A1"
+  ],
+  "WBGene00004190": [
+    "PARS2"
+  ],
+  "WBGene00004191": [
+    "PEX1"
+  ],
+  "WBGene00004192": [
+    "PEX2"
+  ],
+  "WBGene00004193": [
+    "PEX3"
+  ],
+  "WBGene00004194": [
+    "PEX5"
+  ],
+  "WBGene00004197": [
+    "PEX12"
+  ],
+  "WBGene00004198": [
+    "PEX13"
+  ],
+  "WBGene00004199": [
+    "PEX14"
+  ],
+  "WBGene00004201": [
+    "PEX19"
+  ],
+  "WBGene00004203": [
+    "SMARCC1"
+  ],
+  "WBGene00004204": [
+    "SMARCA2"
+  ],
+  "WBGene00004205": [
+    "JMJD6"
+  ],
+  "WBGene00004206": [
+    "MIR4647"
+  ],
+  "WBGene00004213": [
+    "PTPN4"
+  ],
+  "WBGene00004224": [
+    "PTCHD3"
+  ],
+  "WBGene00004248": [
+    "PUS1"
+  ],
+  "WBGene00004258": [
+    "PC"
+  ],
+  "WBGene00004259": [
+    "CAD"
+  ],
+  "WBGene00004266": [
+    "RAB1A"
+  ],
+  "WBGene00004267": [
+    "RAB3C"
+  ],
+  "WBGene00004268": [
+    "RAB5A"
+  ],
+  "WBGene00004270": [
+    "RAB6A"
+  ],
+  "WBGene00004271": [
+    "RN7SL698P"
+  ],
+  "WBGene00004272": [
+    "RAB8B"
+  ],
+  "WBGene00004273": [
+    "RAB10"
+  ],
+  "WBGene00004274": [
+    "RAB11A"
+  ],
+  "WBGene00004276": [
+    "RAB14"
+  ],
+  "WBGene00004277": [
+    "RAB18"
+  ],
+  "WBGene00004278": [
+    "RAB19"
+  ],
+  "WBGene00004279": [
+    "RAB21"
+  ],
+  "WBGene00004281": [
+    "RAB28"
+  ],
+  "WBGene00004282": [
+    "RAB30"
+  ],
+  "WBGene00004284": [
+    "RAB35"
+  ],
+  "WBGene00004296": [
+    "RAD50"
+  ],
+  "WBGene00004297": [
+    "RAD51"
+  ],
+  "WBGene00004298": [
+    "RAD54L"
+  ],
+  "WBGene00004302": [
+    "RAN"
+  ],
+  "WBGene00004303": [
+    "RANGAP1"
+  ],
+  "WBGene00004304": [
+    "RCC1"
+  ],
+  "WBGene00004305": [
+    "NUTF2"
+  ],
+  "WBGene00004306": [
+    "RANBP3"
+  ],
+  "WBGene00004307": [
+    "RAP1B"
+  ],
+  "WBGene00004308": [
+    "RAP2A"
+  ],
+  "WBGene00004310": [
+    "RRAS2"
+  ],
+  "WBGene00004311": [
+    "MRAS"
+  ],
+  "WBGene00004313": [
+    "DMXL1"
+  ],
+  "WBGene00004314": [
+    "WDR7"
+  ],
+  "WBGene00004315": [
+    "RBM19"
+  ],
+  "WBGene00004317": [
+    "RAB3GAP1"
+  ],
+  "WBGene00004318": [
+    "RAB3GAP2"
+  ],
+  "WBGene00004320": [
+    "RBX1"
+  ],
+  "WBGene00004322": [
+    "RECQL5"
+  ],
+  "WBGene00004337": [
+    "RFC1"
+  ],
+  "WBGene00004338": [
+    "RFC2"
+  ],
+  "WBGene00004339": [
+    "RFC3"
+  ],
+  "WBGene00004340": [
+    "RFC4"
+  ],
+  "WBGene00004341": [
+    "UBA3"
+  ],
+  "WBGene00004343": [
+    "MED14"
+  ],
+  "WBGene00004348": [
+    "AKAP10"
+  ],
+  "WBGene00004349": [
+    "RGS14"
+  ],
+  "WBGene00004355": [
+    "DHX9"
+  ],
+  "WBGene00004357": [
+    "RHOA"
+  ],
+  "WBGene00004358": [
+    "RHAG"
+  ],
+  "WBGene00004364": [
+    "SNAP25"
+  ],
+  "WBGene00004368": [
+    "ICA1L"
+  ],
+  "WBGene00004373": [
+    "EHD3"
+  ],
+  "WBGene00004377": [
+    "GAPVD1"
+  ],
+  "WBGene00004378": [
+    "DNAJC13"
+  ],
+  "WBGene00004381": [
+    "RNF185"
+  ],
+  "WBGene00004383": [
+    "RNASEH2A"
+  ],
+  "WBGene00004386": [
+    "SNRPB2"
+  ],
+  "WBGene00004387": [
+    "RBM8A"
+  ],
+  "WBGene00004388": [
+    "RNPS1"
+  ],
+  "WBGene00004389": [
+    "PUF60"
+  ],
+  "WBGene00004390": [
+    "SNRNP70"
+  ],
+  "WBGene00004391": [
+    "RRM1"
+  ],
+  "WBGene00004392": [
+    "RRM2B"
+  ],
+  "WBGene00004400": [
+    "RHBDL2"
+  ],
+  "WBGene00004404": [
+    "PARL"
+  ],
+  "WBGene00004405": [
+    "RO60"
+  ],
+  "WBGene00004408": [
+    "RPLP0"
+  ],
+  "WBGene00004409": [
+    "RPLP1"
+  ],
+  "WBGene00004411": [
+    "POLR3A"
+  ],
+  "WBGene00004412": [
+    "RPL10A"
+  ],
+  "WBGene00004413": [
+    "RPL8"
+  ],
+  "WBGene00004414": [
+    "RPL3"
+  ],
+  "WBGene00004415": [
+    "RPL4"
+  ],
+  "WBGene00004416": [
+    "RPL5"
+  ],
+  "WBGene00004417": [
+    "RPL6"
+  ],
+  "WBGene00004418": [
+    "RPL7"
+  ],
+  "WBGene00004419": [
+    "RPL7A"
+  ],
+  "WBGene00004420": [
+    "RPL9"
+  ],
+  "WBGene00004421": [
+    "RPL10L"
+  ],
+  "WBGene00004424": [
+    "RPL12"
+  ],
+  "WBGene00004425": [
+    "RPL13"
+  ],
+  "WBGene00004426": [
+    "RPL14"
+  ],
+  "WBGene00004427": [
+    "RPL15"
+  ],
+  "WBGene00004430": [
+    "RPL18"
+  ],
+  "WBGene00004431": [
+    "RPL19"
+  ],
+  "WBGene00004432": [
+    "RPL18A"
+  ],
+  "WBGene00004433": [
+    "RPL21"
+  ],
+  "WBGene00004435": [
+    "RPL23"
+  ],
+  "WBGene00004436": [
+    "RPL24"
+  ],
+  "WBGene00004437": [
+    "RSL24D1"
+  ],
+  "WBGene00004441": [
+    "RPL27"
+  ],
+  "WBGene00004442": [
+    "RPL28"
+  ],
+  "WBGene00004443": [
+    "RPL29"
+  ],
+  "WBGene00004444": [
+    "RPL30"
+  ],
+  "WBGene00004445": [
+    "RPL31"
+  ],
+  "WBGene00004446": [
+    "RPL32"
+  ],
+  "WBGene00004447": [
+    "RPL35A"
+  ],
+  "WBGene00004448": [
+    "RPL34"
+  ],
+  "WBGene00004449": [
+    "RPL35"
+  ],
+  "WBGene00004450": [
+    "RPL36"
+  ],
+  "WBGene00004452": [
+    "RPL38"
+  ],
+  "WBGene00004454": [
+    "RPL36AL"
+  ],
+  "WBGene00004456": [
+    "RPL37A"
+  ],
+  "WBGene00004457": [
+    "MYCBP2"
+  ],
+  "WBGene00004458": [
+    "PSMD2"
+  ],
+  "WBGene00004459": [
+    "PSMD1"
+  ],
+  "WBGene00004460": [
+    "PSMD3"
+  ],
+  "WBGene00004461": [
+    "PSMD12"
+  ],
+  "WBGene00004462": [
+    "PSMD11"
+  ],
+  "WBGene00004463": [
+    "PSMD6"
+  ],
+  "WBGene00004464": [
+    "PSMD7"
+  ],
+  "WBGene00004465": [
+    "PSMD13"
+  ],
+  "WBGene00004466": [
+    "PSMD4"
+  ],
+  "WBGene00004467": [
+    "PSMD14"
+  ],
+  "WBGene00004468": [
+    "PSMD8"
+  ],
+  "WBGene00004470": [
+    "RPS3A"
+  ],
+  "WBGene00004471": [
+    "RPS2"
+  ],
+  "WBGene00004473": [
+    "RPS4X"
+  ],
+  "WBGene00004474": [
+    "RPS5"
+  ],
+  "WBGene00004475": [
+    "RPS6P10"
+  ],
+  "WBGene00004476": [
+    "RPS7"
+  ],
+  "WBGene00004477": [
+    "RPS8"
+  ],
+  "WBGene00004478": [
+    "RPS9"
+  ],
+  "WBGene00004479": [
+    "RPS10"
+  ],
+  "WBGene00004480": [
+    "RPS11"
+  ],
+  "WBGene00004482": [
+    "RPS13"
+  ],
+  "WBGene00004483": [
+    "RPS14"
+  ],
+  "WBGene00004484": [
+    "RPS15"
+  ],
+  "WBGene00004485": [
+    "RPS16"
+  ],
+  "WBGene00004486": [
+    "RPS17"
+  ],
+  "WBGene00004487": [
+    "RPS18"
+  ],
+  "WBGene00004488": [
+    "RPS19"
+  ],
+  "WBGene00004489": [
+    "RPS20"
+  ],
+  "WBGene00004490": [
+    "RPS21"
+  ],
+  "WBGene00004491": [
+    "RPS15A"
+  ],
+  "WBGene00004492": [
+    "RPS23"
+  ],
+  "WBGene00004493": [
+    "RPS24"
+  ],
+  "WBGene00004494": [
+    "RPS25"
+  ],
+  "WBGene00004495": [
+    "RPS26"
+  ],
+  "WBGene00004496": [
+    "RPS27"
+  ],
+  "WBGene00004497": [
+    "RPS28"
+  ],
+  "WBGene00004498": [
+    "RPS29"
+  ],
+  "WBGene00004499": [
+    "FAU"
+  ],
+  "WBGene00004501": [
+    "PSMC2"
+  ],
+  "WBGene00004502": [
+    "PSMC1"
+  ],
+  "WBGene00004503": [
+    "PSMC4"
+  ],
+  "WBGene00004504": [
+    "PSMC6"
+  ],
+  "WBGene00004505": [
+    "PSMC3"
+  ],
+  "WBGene00004506": [
+    "PSMC5"
+  ],
+  "WBGene00004507": [
+    "RAPSN"
+  ],
+  "WBGene00004680": [
+    "RARS2"
+  ],
+  "WBGene00004682": [
+    "CLINT1"
+  ],
+  "WBGene00004700": [
+    "SRSF9"
+  ],
+  "WBGene00004701": [
+    "SRSF2"
+  ],
+  "WBGene00004706": [
+    "SRRM1"
+  ],
+  "WBGene00004723": [
+    "SF3B4"
+  ],
+  "WBGene00004729": [
+    "ROBO4"
+  ],
+  "WBGene00004736": [
+    "ATP2A1"
+  ],
+  "WBGene00004738": [
+    "STAG1"
+  ],
+  "WBGene00004740": [
+    "ALK"
+  ],
+  "WBGene00004743": [
+    "SCAMP5"
+  ],
+  "WBGene00004744": [
+    "SCAP"
+  ],
+  "WBGene00004748": [
+    "PTPN1"
+  ],
+  "WBGene00004752": [
+    "EXOC2"
+  ],
+  "WBGene00004753": [
+    "EXOC4"
+  ],
+  "WBGene00004754": [
+    "SEC23B"
+  ],
+  "WBGene00004755": [
+    "SEC24C"
+  ],
+  "WBGene00004759": [
+    "SEL1L"
+  ],
+  "WBGene00004760": [
+    "LRBA"
+  ],
+  "WBGene00004762": [
+    "AAK1"
+  ],
+  "WBGene00004766": [
+    "TMED2"
+  ],
+  "WBGene00004768": [
+    "SYVN1"
+  ],
+  "WBGene00004769": [
+    "PSEN1"
+  ],
+  "WBGene00004773": [
+    "ZNF48"
+  ],
+  "WBGene00004774": [
+    "GRB2"
+  ],
+  "WBGene00004781": [
+    "KMT5A"
+  ],
+  "WBGene00004782": [
+    "SETD1A"
+  ],
+  "WBGene00004787": [
+    "SURF1"
+  ],
+  "WBGene00004788": [
+    "SURF4"
+  ],
+  "WBGene00004789": [
+    "SGK2"
+  ],
+  "WBGene00004800": [
+    "SIRT1"
+  ],
+  "WBGene00004801": [
+    "SIRT4"
+  ],
+  "WBGene00004803": [
+    "SIRT6"
+  ],
+  "WBGene00004806": [
+    "SNW1"
+  ],
+  "WBGene00004824": [
+    "RPAP1"
+  ],
+  "WBGene00004829": [
+    "CBL"
+  ],
+  "WBGene00004831": [
+    "KCNT2"
+  ],
+  "WBGene00004858": [
+    "SMAD4"
+  ],
+  "WBGene00004860": [
+    "BMPR1B"
+  ],
+  "WBGene00004873": [
+    "SMC3"
+  ],
+  "WBGene00004875": [
+    "RBISP4"
+  ],
+  "WBGene00004876": [
+    "SLC11A2"
+  ],
+  "WBGene00004878": [
+    "SLC11A1"
+  ],
+  "WBGene00004879": [
+    "SMG1"
+  ],
+  "WBGene00004880": [
+    "UPF1"
+  ],
+  "WBGene00004882": [
+    "UPF3A"
+  ],
+  "WBGene00004886": [
+    "GEMIN2"
+  ],
+  "WBGene00004888": [
+    "SUMO1"
+  ],
+  "WBGene00004890": [
+    "SEMA7A"
+  ],
+  "WBGene00004891": [
+    "SMNDC1"
+  ],
+  "WBGene00004895": [
+    "SMU1"
+  ],
+  "WBGene00004896": [
+    "MIR3655"
+  ],
+  "WBGene00004897": [
+    "VAMP3"
+  ],
+  "WBGene00004910": [
+    "SLC6A1-AS1"
+  ],
+  "WBGene00004914": [
+    "SNRPD3"
+  ],
+  "WBGene00004916": [
+    "SNRPD1"
+  ],
+  "WBGene00004917": [
+    "SNRPD2"
+  ],
+  "WBGene00004918": [
+    "SNRPF"
+  ],
+  "WBGene00004919": [
+    "SNRPE"
+  ],
+  "WBGene00004920": [
+    "SNRPG"
+  ],
+  "WBGene00004921": [
+    "SYT1"
+  ],
+  "WBGene00004923": [
+    "SYT1"
+  ],
+  "WBGene00004928": [
+    "GAB3"
+  ],
+  "WBGene00004929": [
+    "SHOC2"
+  ],
+  "WBGene00004951": [
+    "SPTAN1"
+  ],
+  "WBGene00004952": [
+    "PRC1"
+  ],
+  "WBGene00004975": [
+    "VIPAS39"
+  ],
+  "WBGene00004978": [
+    "AFG3L2"
+  ],
+  "WBGene00004980": [
+    "SRPK3"
+  ],
+  "WBGene00004981": [
+    "SGPL1"
+  ],
+  "WBGene00004985": [
+    "SPO11"
+  ],
+  "WBGene00005014": [
+    "SUPT4H1"
+  ],
+  "WBGene00005015": [
+    "SUPT5H"
+  ],
+  "WBGene00005019": [
+    "UXS1"
+  ],
+  "WBGene00005020": [
+    "B3GALT6"
+  ],
+  "WBGene00005021": [
+    "B4GALT7"
+  ],
+  "WBGene00005022": [
+    "UGDH"
+  ],
+  "WBGene00005025": [
+    "SLC35D1"
+  ],
+  "WBGene00005026": [
+    "B3GAT3"
+  ],
+  "WBGene00005078": [
+    "FRK"
+  ],
+  "WBGene00005662": [
+    "SARS2"
+  ],
+  "WBGene00005663": [
+    "SARS1"
+  ],
+  "WBGene00006059": [
+    "HSPA13"
+  ],
+  "WBGene00006061": [
+    "STOML2"
+  ],
+  "WBGene00006062": [
+    "SNTB2"
+  ],
+  "WBGene00006064": [
+    "STOM"
+  ],
+  "WBGene00006307": [
+    "CSTF3"
+  ],
+  "WBGene00006308": [
+    "SULF2"
+  ],
+  "WBGene00006318": [
+    "KCNK9"
+  ],
+  "WBGene00006324": [
+    "ADAM10"
+  ],
+  "WBGene00006349": [
+    "MED23"
+  ],
+  "WBGene00006351": [
+    "AACS"
+  ],
+  "WBGene00006359": [
+    "SFSWAP"
+  ],
+  "WBGene00006363": [
+    "SYDE2"
+  ],
+  "WBGene00006366": [
+    "NYX"
+  ],
+  "WBGene00006369": [
+    "WDR44"
+  ],
+  "WBGene00006373": [
+    "STX5"
+  ],
+  "WBGene00006380": [
+    "BSX"
+  ],
+  "WBGene00006386": [
+    "TAF5"
+  ],
+  "WBGene00006396": [
+    "TAF12"
+  ],
+  "WBGene00006397": [
+    "TAF13"
+  ],
+  "WBGene00006414": [
+    "RRAGA"
+  ],
+  "WBGene00006415": [
+    "BTBD1"
+  ],
+  "WBGene00006423": [
+    "QKI"
+  ],
+  "WBGene00006424": [
+    "CTBP1"
+  ],
+  "WBGene00006433": [
+    "SDHB"
+  ],
+  "WBGene00006434": [
+    "PRDX2"
+  ],
+  "WBGene00006436": [
+    "IGSF10"
+  ],
+  "WBGene00006437": [
+    "CDC42BPA"
+  ],
+  "WBGene00006442": [
+    "CHERP"
+  ],
+  "WBGene00006443": [
+    "PAK4"
+  ],
+  "WBGene00006447": [
+    "RNMT"
+  ],
+  "WBGene00006448": [
+    "GLOD4"
+  ],
+  "WBGene00006450": [
+    "FGD6"
+  ],
+  "WBGene00006463": [
+    "NDUFS2"
+  ],
+  "WBGene00006465": [
+    "FNTB"
+  ],
+  "WBGene00006466": [
+    "SAC3D1"
+  ],
+  "WBGene00006468": [
+    "ARHGEF12"
+  ],
+  "WBGene00006472": [
+    "TM9SF2"
+  ],
+  "WBGene00006473": [
+    "PUS3"
+  ],
+  "WBGene00006478": [
+    "CYB5D2"
+  ],
+  "WBGene00006479": [
+    "TMBIM4"
+  ],
+  "WBGene00006481": [
+    "PLRG1"
+  ],
+  "WBGene00006489": [
+    "ZNHIT6"
+  ],
+  "WBGene00006491": [
+    "TAFAZZIN"
+  ],
+  "WBGene00006493": [
+    "IVNS1ABP"
+  ],
+  "WBGene00006494": [
+    "SLC39A7"
+  ],
+  "WBGene00006497": [
+    "TSR1"
+  ],
+  "WBGene00006503": [
+    "SNX12"
+  ],
+  "WBGene00006510": [
+    "MTRR"
+  ],
+  "WBGene00006512": [
+    "ABCF1"
+  ],
+  "WBGene00006513": [
+    "RIMBP2"
+  ],
+  "WBGene00006514": [
+    "TARDBP"
+  ],
+  "WBGene00006515": [
+    "TXNDC9"
+  ],
+  "WBGene00006516": [
+    "VPS16"
+  ],
+  "WBGene00006517": [
+    "CLK2"
+  ],
+  "WBGene00006518": [
+    "BCKDHB"
+  ],
+  "WBGene00006520": [
+    "TMEM41B"
+  ],
+  "WBGene00006524": [
+    "TAB1"
+  ],
+  "WBGene00006525": [
+    "CNGB3"
+  ],
+  "WBGene00006526": [
+    "CNGA1"
+  ],
+  "WBGene00006527": [
+    "PPP3CA"
+  ],
+  "WBGene00006538": [
+    "TUBB4B"
+  ],
+  "WBGene00006541": [
+    "DBH"
+  ],
+  "WBGene00006542": [
+    "TBPL2"
+  ],
+  "WBGene00006543": [
+    "TBX2"
+  ],
+  "WBGene00006562": [
+    "DDC"
+  ],
+  "WBGene00006563": [
+    "CD2BP2"
+  ],
+  "WBGene00006565": [
+    "TFG"
+  ],
+  "WBGene00006566": [
+    "QTRT1"
+  ],
+  "WBGene00006567": [
+    "QTRT2"
+  ],
+  "WBGene00006568": [
+    "TK1"
+  ],
+  "WBGene00006571": [
+    "TIMELESS"
+  ],
+  "WBGene00006572": [
+    "TIMM9"
+  ],
+  "WBGene00006573": [
+    "TIMM10"
+  ],
+  "WBGene00006574": [
+    "TIMM13"
+  ],
+  "WBGene00006575": [
+    "SARM1"
+  ],
+  "WBGene00006578": [
+    "TOLLIP"
+  ],
+  "WBGene00006590": [
+    "SLC30A6"
+  ],
+  "WBGene00006595": [
+    "TOP1"
+  ],
+  "WBGene00006596": [
+    "TOP3A"
+  ],
+  "WBGene00006599": [
+    "PRKCD"
+  ],
+  "WBGene00006601": [
+    "TPI1"
+  ],
+  "WBGene00006606": [
+    "CAPN5"
+  ],
+  "WBGene00006609": [
+    "TREH"
+  ],
+  "WBGene00006613": [
+    "TRMT1"
+  ],
+  "WBGene00006615": [
+    "TRPC5"
+  ],
+  "WBGene00006617": [
+    "TARS1"
+  ],
+  "WBGene00006626": [
+    "SND1"
+  ],
+  "WBGene00006637": [
+    "CD82"
+  ],
+  "WBGene00006647": [
+    "TNPO3"
+  ],
+  "WBGene00006648": [
+    "GTF2B"
+  ],
+  "WBGene00006697": [
+    "U2AF2"
+  ],
+  "WBGene00006698": [
+    "U2AF1"
+  ],
+  "WBGene00006699": [
+    "UBA1"
+  ],
+  "WBGene00006700": [
+    "UBA2"
+  ],
+  "WBGene00006701": [
+    "UBE2A"
+  ],
+  "WBGene00006702": [
+    "UBE2R2"
+  ],
+  "WBGene00006703": [
+    "UBE2J1"
+  ],
+  "WBGene00006704": [
+    "UBE2G1"
+  ],
+  "WBGene00006705": [
+    "UBE2H"
+  ],
+  "WBGene00006706": [
+    "UBE2I"
+  ],
+  "WBGene00006707": [
+    "UBE2F"
+  ],
+  "WBGene00006708": [
+    "UBE2N"
+  ],
+  "WBGene00006709": [
+    "UBE2G2"
+  ],
+  "WBGene00006711": [
+    "UBE2W"
+  ],
+  "WBGene00006712": [
+    "BIRC6"
+  ],
+  "WBGene00006714": [
+    "AKTIP"
+  ],
+  "WBGene00006720": [
+    "UBE2Q2"
+  ],
+  "WBGene00006724": [
+    "UCHL5"
+  ],
+  "WBGene00006725": [
+    "RPS27A"
+  ],
+  "WBGene00006726": [
+    "UBL5"
+  ],
+  "WBGene00006727": [
+    "UBC"
+  ],
+  "WBGene00006729": [
+    "SLC25A27"
+  ],
+  "WBGene00006730": [
+    "UBE2V2"
+  ],
+  "WBGene00006733": [
+    "UFD1"
+  ],
+  "WBGene00006735": [
+    "NAE1"
+  ],
+  "WBGene00006736": [
+    "SENP1"
+  ],
+  "WBGene00006737": [
+    "SENP7"
+  ],
+  "WBGene00006738": [
+    "RPL21P115"
+  ],
+  "WBGene00006743": [
+    "EBF1"
+  ],
+  "WBGene00006746": [
+    "NTN1"
+  ],
+  "WBGene00006751": [
+    "PICALM"
+  ],
+  "WBGene00006752": [
+    "UNC13C"
+  ],
+  "WBGene00006756": [
+    "SLC18A3"
+  ],
+  "WBGene00006757": [
+    "STXBP1"
+  ],
+  "WBGene00006759": [
+    "TTN"
+  ],
+  "WBGene00006760": [
+    "BAG2"
+  ],
+  "WBGene00006761": [
+    "STOML1"
+  ],
+  "WBGene00006762": [
+    "GAD1"
+  ],
+  "WBGene00006763": [
+    "SYNJ1"
+  ],
+  "WBGene00006768": [
+    "ATP6V0A1"
+  ],
+  "WBGene00006777": [
+    "STON2"
+  ],
+  "WBGene00006778": [
+    "PROP1"
+  ],
+  "WBGene00006779": [
+    "CAMK2A"
+  ],
+  "WBGene00006783": [
+    "SLC32A1"
+  ],
+  "WBGene00006785": [
+    "UNC50"
+  ],
+  "WBGene00006787": [
+    "HSPG2"
+  ],
+  "WBGene00006797": [
+    "CHRNA3"
+  ],
+  "WBGene00006801": [
+    "RYR2"
+  ],
+  "WBGene00006803": [
+    "SPTBN1"
+  ],
+  "WBGene00006805": [
+    "ARHGEF25"
+  ],
+  "WBGene00006812": [
+    "UNC80"
+  ],
+  "WBGene00006818": [
+    "POU4F1"
+  ],
+  "WBGene00006820": [
+    "OBSCN"
+  ],
+  "WBGene00006822": [
+    "UNC93A"
+  ],
+  "WBGene00006823": [
+    "TMOD1"
+  ],
+  "WBGene00006826": [
+    "LIMS2"
+  ],
+  "WBGene00006827": [
+    "ZNF660"
+  ],
+  "WBGene00006829": [
+    "AP1M1"
+  ],
+  "WBGene00006831": [
+    "KIF1B"
+  ],
+  "WBGene00006833": [
+    "RAB2A"
+  ],
+  "WBGene00006836": [
+    "FERMT2"
+  ],
+  "WBGene00006843": [
+    "UNC119B"
+  ],
+  "WBGene00006844": [
+    "SRF"
+  ],
+  "WBGene00006852": [
+    "GDF10"
+  ],
+  "WBGene00006853": [
+    "FOXD3"
+  ],
+  "WBGene00006856": [
+    "USP14"
+  ],
+  "WBGene00006862": [
+    "PANK4"
+  ],
+  "WBGene00006875": [
+    "TMEM47"
+  ],
+  "WBGene00006881": [
+    "MSX1"
+  ],
+  "WBGene00006882": [
+    "KANK3"
+  ],
+  "WBGene00006889": [
+    "VBP1"
+  ],
+  "WBGene00006890": [
+    "PGRMC1"
+  ],
+  "WBGene00006896": [
+    "FLT1"
+  ],
+  "WBGene00006913": [
+    "ATP6V0B"
+  ],
+  "WBGene00006917": [
+    "ATP6V1E1"
+  ],
+  "WBGene00006918": [
+    "ATP6V1F"
+  ],
+  "WBGene00006920": [
+    "ATP6V1C1"
+  ],
+  "WBGene00006921": [
+    "ATP6V1B2"
+  ],
+  "WBGene00006922": [
+    "VHL"
+  ],
+  "WBGene00006924": [
+    "SERBP1"
+  ],
+  "WBGene00006931": [
+    "VPS26B"
+  ],
+  "WBGene00006932": [
+    "PIK3C3"
+  ],
+  "WBGene00006933": [
+    "VPS35"
+  ],
+  "WBGene00006934": [
+    "VPS54"
+  ],
+  "WBGene00006936": [
+    "VARS1"
+  ],
+  "WBGene00006937": [
+    "AIFM1"
+  ],
+  "WBGene00006944": [
+    "WRN"
+  ],
+  "WBGene00006945": [
+    "WARS1"
+  ],
+  "WBGene00006946": [
+    "WARS2"
+  ],
+  "WBGene00006958": [
+    "WASF3"
+  ],
+  "WBGene00006959": [
+    "XBP1"
+  ],
+  "WBGene00006960": [
+    "DYNC2LI1"
+  ],
+  "WBGene00006961": [
+    "ATRX"
+  ],
+  "WBGene00006963": [
+    "XPA"
+  ],
+  "WBGene00006964": [
+    "XRN2"
+  ],
+  "WBGene00006968": [
+    "YARS2"
+  ],
+  "WBGene00006970": [
+    "ZNF219"
+  ],
+  "WBGene00006971": [
+    "MAP3K20"
+  ],
+  "WBGene00006974": [
+    "KIF23"
+  ],
+  "WBGene00006994": [
+    "CKAP5"
+  ],
+  "WBGene00007000": [
+    "TUFM"
+  ],
+  "WBGene00007007": [
+    "MAPKAPK3"
+  ],
+  "WBGene00007010": [
+    "PDCD6IP"
+  ],
+  "WBGene00007012": [
+    "MED4"
+  ],
+  "WBGene00007013": [
+    "MED8"
+  ],
+  "WBGene00007014": [
+    "MED10"
+  ],
+  "WBGene00007015": [
+    "MED11"
+  ],
+  "WBGene00007016": [
+    "MED15"
+  ],
+  "WBGene00007017": [
+    "MED17"
+  ],
+  "WBGene00007018": [
+    "MED18"
+  ],
+  "WBGene00007019": [
+    "MED19"
+  ],
+  "WBGene00007020": [
+    "MED20"
+  ],
+  "WBGene00007021": [
+    "IMMP1L"
+  ],
+  "WBGene00007022": [
+    "MED22"
+  ],
+  "WBGene00007026": [
+    "MED31"
+  ],
+  "WBGene00007027": [
+    "SRCAP"
+  ],
+  "WBGene00007029": [
+    "KAT5"
+  ],
+  "WBGene00007030": [
+    "EPC2"
+  ],
+  "WBGene00007048": [
+    "NFX1"
+  ],
+  "WBGene00007050": [
+    "UTP20"
+  ],
+  "WBGene00007053": [
+    "CHD8"
+  ],
+  "WBGene00007054": [
+    "CTDSP2"
+  ],
+  "WBGene00007055": [
+    "CTSF"
+  ],
+  "WBGene00007056": [
+    "DNASE2"
+  ],
+  "WBGene00007059": [
+    "VPS52"
+  ],
+  "WBGene00007099": [
+    "TXN2"
+  ],
+  "WBGene00007100": [
+    "ASPSCR1"
+  ],
+  "WBGene00007101": [
+    "PUS7"
+  ],
+  "WBGene00007102": [
+    "SRD5A3"
+  ],
+  "WBGene00007105": [
+    "ZNF207"
+  ],
+  "WBGene00007106": [
+    "MACROD1"
+  ],
+  "WBGene00007107": [
+    "PFDN4"
+  ],
+  "WBGene00007108": [
+    "G6PD"
+  ],
+  "WBGene00007110": [
+    "LEO1"
+  ],
+  "WBGene00007111": [
+    "SART3"
+  ],
+  "WBGene00007114": [
+    "TRMU"
+  ],
+  "WBGene00007117": [
+    "DCST2"
+  ],
+  "WBGene00007118": [
+    "NDC1"
+  ],
+  "WBGene00007122": [
+    "HIBADH"
+  ],
+  "WBGene00007129": [
+    "HADH"
+  ],
+  "WBGene00007137": [
+    "LCMT1"
+  ],
+  "WBGene00007138": [
+    "SLC13A3"
+  ],
+  "WBGene00007143": [
+    "HACL1"
+  ],
+  "WBGene00007144": [
+    "PRELID1"
+  ],
+  "WBGene00007145": [
+    "NDUFAF6"
+  ],
+  "WBGene00007167": [
+    "TBC1D5"
+  ],
+  "WBGene00007175": [
+    "CRAT"
+  ],
+  "WBGene00007184": [
+    "CTR9"
+  ],
+  "WBGene00007186": [
+    "TMEM209"
+  ],
+  "WBGene00007188": [
+    "PPME1"
+  ],
+  "WBGene00007189": [
+    "PIGM"
+  ],
+  "WBGene00007194": [
+    "DPH5"
+  ],
+  "WBGene00007195": [
+    "THOC7"
+  ],
+  "WBGene00007197": [
+    "PRODH"
+  ],
+  "WBGene00007200": [
+    "VAMP8"
+  ],
+  "WBGene00007201": [
+    "EXOSC4"
+  ],
+  "WBGene00007202": [
+    "ALKBH6"
+  ],
+  "WBGene00007210": [
+    "AGMO"
+  ],
+  "WBGene00007215": [
+    "OXA1L"
+  ],
+  "WBGene00007216": [
+    "CHMP2B"
+  ],
+  "WBGene00007217": [
+    "RTF2"
+  ],
+  "WBGene00007226": [
+    "RNF11"
+  ],
+  "WBGene00007234": [
+    "CLYBL"
+  ],
+  "WBGene00007235": [
+    "AHSA1"
+  ],
+  "WBGene00007236": [
+    "MRI1"
+  ],
+  "WBGene00007237": [
+    "OSGEPL1"
+  ],
+  "WBGene00007256": [
+    "BRD7"
+  ],
+  "WBGene00007267": [
+    "SLC38A12"
+  ],
+  "WBGene00007268": [
+    "MBLAC2"
+  ],
+  "WBGene00007287": [
+    "STK10"
+  ],
+  "WBGene00007312": [
+    "TRMT112"
+  ],
+  "WBGene00007325": [
+    "BPI"
+  ],
+  "WBGene00007330": [
+    "OXCT1"
+  ],
+  "WBGene00007333": [
+    "PLAA"
+  ],
+  "WBGene00007349": [
+    "MXRA7"
+  ],
+  "WBGene00007351": [
+    "TRABD2B"
+  ],
+  "WBGene00007355": [
+    "POLR2F"
+  ],
+  "WBGene00007386": [
+    "STARD7"
+  ],
+  "WBGene00007387": [
+    "KDM8"
+  ],
+  "WBGene00007388": [
+    "SLC19A2"
+  ],
+  "WBGene00007400": [
+    "BUD31"
+  ],
+  "WBGene00007412": [
+    "TFIP11"
+  ],
+  "WBGene00007413": [
+    "NOC2L"
+  ],
+  "WBGene00007429": [
+    "REXO2"
+  ],
+  "WBGene00007433": [
+    "ARID2"
+  ],
+  "WBGene00007434": [
+    "ACTR6"
+  ],
+  "WBGene00007435": [
+    "ALG6"
+  ],
+  "WBGene00007436": [
+    "C1orf50"
+  ],
+  "WBGene00007443": [
+    "PFDN1"
+  ],
+  "WBGene00007444": [
+    "SUPV3L1"
+  ],
+  "WBGene00007463": [
+    "HDLBP"
+  ],
+  "WBGene00007464": [
+    "ALG8"
+  ],
+  "WBGene00007476": [
+    "TUSC2"
+  ],
+  "WBGene00007488": [
+    "DPH2"
+  ],
+  "WBGene00007514": [
+    "ATP13A1"
+  ],
+  "WBGene00007529": [
+    "MGRN1"
+  ],
+  "WBGene00007531": [
+    "CNPY4"
+  ],
+  "WBGene00007549": [
+    "SPNS1"
+  ],
+  "WBGene00007554": [
+    "PPP2R5D"
+  ],
+  "WBGene00007555": [
+    "DOHH"
+  ],
+  "WBGene00007556": [
+    "ALG9"
+  ],
+  "WBGene00007561": [
+    "PDCD10"
+  ],
+  "WBGene00007564": [
+    "MRPS22"
+  ],
+  "WBGene00007576": [
+    "DPH1"
+  ],
+  "WBGene00007581": [
+    "ALKBH8"
+  ],
+  "WBGene00007588": [
+    "PSME4"
+  ],
+  "WBGene00007591": [
+    "SLC39A13"
+  ],
+  "WBGene00007592": [
+    "CEP89"
+  ],
+  "WBGene00007593": [
+    "PDXDC1"
+  ],
+  "WBGene00007595": [
+    "TMEM145"
+  ],
+  "WBGene00007603": [
+    "POP4"
+  ],
+  "WBGene00007606": [
+    "LRPAP1"
+  ],
+  "WBGene00007616": [
+    "POLR1H"
+  ],
+  "WBGene00007617": [
+    "RRS1"
+  ],
+  "WBGene00007621": [
+    "SYAP1"
+  ],
+  "WBGene00007622": [
+    "SLC25A40"
+  ],
+  "WBGene00007623": [
+    "UTP11"
+  ],
+  "WBGene00007625": [
+    "SAP18"
+  ],
+  "WBGene00007626": [
+    "RNF121"
+  ],
+  "WBGene00007628": [
+    "LYAR"
+  ],
+  "WBGene00007630": [
+    "CHCHD2"
+  ],
+  "WBGene00007645": [
+    "VPS72"
+  ],
+  "WBGene00007683": [
+    "SEC62"
+  ],
+  "WBGene00007684": [
+    "NDUFB3"
+  ],
+  "WBGene00007697": [
+    "DUSP12"
+  ],
+  "WBGene00007698": [
+    "NADSYN1"
+  ],
+  "WBGene00007702": [
+    "GEMIN7"
+  ],
+  "WBGene00007704": [
+    "MED21"
+  ],
+  "WBGene00007705": [
+    "PSME3IP1"
+  ],
+  "WBGene00007707": [
+    "FA2H"
+  ],
+  "WBGene00007710": [
+    "PPP2R3C"
+  ],
+  "WBGene00007711": [
+    "ABHD4"
+  ],
+  "WBGene00007712": [
+    "MRPL43"
+  ],
+  "WBGene00007730": [
+    "OVCA2"
+  ],
+  "WBGene00007744": [
+    "PYROXD1"
+  ],
+  "WBGene00007745": [
+    "FCSK"
+  ],
+  "WBGene00007756": [
+    "ASPG"
+  ],
+  "WBGene00007760": [
+    "C6orf136"
+  ],
+  "WBGene00007784": [
+    "RUVBL1"
+  ],
+  "WBGene00007786": [
+    "RMDN2"
+  ],
+  "WBGene00007787": [
+    "MYG1"
+  ],
+  "WBGene00007801": [
+    "TRPA1"
+  ],
+  "WBGene00007836": [
+    "PHGDH"
+  ],
+  "WBGene00007859": [
+    "MRPS31"
+  ],
+  "WBGene00007880": [
+    "NDUFA5"
+  ],
+  "WBGene00007882": [
+    "C4orf33"
+  ],
+  "WBGene00007886": [
+    "ETHE1"
+  ],
+  "WBGene00007904": [
+    "MANBA"
+  ],
+  "WBGene00007912": [
+    "FIG4"
+  ],
+  "WBGene00007914": [
+    "KAT7"
+  ],
+  "WBGene00007917": [
+    "CHDH"
+  ],
+  "WBGene00007922": [
+    "PPP6C"
+  ],
+  "WBGene00007923": [
+    "SMIM14"
+  ],
+  "WBGene00007924": [
+    "RSU1"
+  ],
+  "WBGene00007927": [
+    "GRPEL1"
+  ],
+  "WBGene00007941": [
+    "TMEM129"
+  ],
+  "WBGene00007942": [
+    "IDH2"
+  ],
+  "WBGene00007952": [
+    "XPO7"
+  ],
+  "WBGene00007953": [
+    "HDAC11"
+  ],
+  "WBGene00007959": [
+    "TMEM164"
+  ],
+  "WBGene00007969": [
+    "ACSS2"
+  ],
+  "WBGene00007971": [
+    "POLR2C"
+  ],
+  "WBGene00007972": [
+    "PRPF4"
+  ],
+  "WBGene00007980": [
+    "RRN3"
+  ],
+  "WBGene00007982": [
+    "PLXDC1"
+  ],
+  "WBGene00007983": [
+    "NOSTRIN"
+  ],
+  "WBGene00007984": [
+    "IRX4"
+  ],
+  "WBGene00007993": [
+    "IDH3B"
+  ],
+  "WBGene00007994": [
+    "ADTRP"
+  ],
+  "WBGene00008000": [
+    "SLC17A5"
+  ],
+  "WBGene00008008": [
+    "METTL5"
+  ],
+  "WBGene00008019": [
+    "C1GALT1"
+  ],
+  "WBGene00008028": [
+    "GLIPR1"
+  ],
+  "WBGene00008034": [
+    "PRCC"
+  ],
+  "WBGene00008041": [
+    "LOC124900457"
+  ],
+  "WBGene00008052": [
+    "LOC105371493"
+  ],
+  "WBGene00008053": [
+    "VCP"
+  ],
+  "WBGene00008078": [
+    "VPS50"
+  ],
+  "WBGene00008093": [
+    "LRRC15"
+  ],
+  "WBGene00008107": [
+    "ASPM"
+  ],
+  "WBGene00008117": [
+    "GSR"
+  ],
+  "WBGene00008119": [
+    "DDX42"
+  ],
+  "WBGene00008121": [
+    "UBL3"
+  ],
+  "WBGene00008131": [
+    "UPRT"
+  ],
+  "WBGene00008132": [
+    "GALE"
+  ],
+  "WBGene00008133": [
+    "EEFSEC"
+  ],
+  "WBGene00008136": [
+    "DYM"
+  ],
+  "WBGene00008140": [
+    "ERCC4"
+  ],
+  "WBGene00008148": [
+    "EDEM1"
+  ],
+  "WBGene00008149": [
+    "PPA1"
+  ],
+  "WBGene00008151": [
+    "RRP1"
+  ],
+  "WBGene00008164": [
+    "TIMM22"
+  ],
+  "WBGene00008165": [
+    "LMBRD2"
+  ],
+  "WBGene00008222": [
+    "ABHD10"
+  ],
+  "WBGene00008224": [
+    "SLIRP"
+  ],
+  "WBGene00008225": [
+    "NDUFAF1"
+  ],
+  "WBGene00008236": [
+    "MTERF3"
+  ],
+  "WBGene00008237": [
+    "SLC35C1"
+  ],
+  "WBGene00008238": [
+    "NUDT14"
+  ],
+  "WBGene00008273": [
+    "SLC67A1"
+  ],
+  "WBGene00008274": [
+    "PDZD8"
+  ],
+  "WBGene00008281": [
+    "TXNDC15"
+  ],
+  "WBGene00008288": [
+    "CFAP20"
+  ],
+  "WBGene00008311": [
+    "RPS6KA5"
+  ],
+  "WBGene00008316": [
+    "ABHD18"
+  ],
+  "WBGene00008320": [
+    "SLC25A29"
+  ],
+  "WBGene00008331": [
+    "TTLL5"
+  ],
+  "WBGene00008338": [
+    "PAF1"
+  ],
+  "WBGene00008343": [
+    "RNF26"
+  ],
+  "WBGene00008345": [
+    "MICU3"
+  ],
+  "WBGene00008348": [
+    "ELMOD3"
+  ],
+  "WBGene00008361": [
+    "INTS7"
+  ],
+  "WBGene00008364": [
+    "SLC25A26"
+  ],
+  "WBGene00008366": [
+    "TPRA1"
+  ],
+  "WBGene00008370": [
+    "PNPLA4"
+  ],
+  "WBGene00008371": [
+    "SUGT1"
+  ],
+  "WBGene00008379": [
+    "SEPSECS"
+  ],
+  "WBGene00008380": [
+    "PRPF38A"
+  ],
+  "WBGene00008386": [
+    "CDC5L"
+  ],
+  "WBGene00008398": [
+    "PDCD5"
+  ],
+  "WBGene00008405": [
+    "TTLL12"
+  ],
+  "WBGene00008407": [
+    "SYT14"
+  ],
+  "WBGene00008410": [
+    "ADCK1"
+  ],
+  "WBGene00008411": [
+    "MAN1A2"
+  ],
+  "WBGene00008412": [
+    "CLPX"
+  ],
+  "WBGene00008414": [
+    "NDUFB7"
+  ],
+  "WBGene00008415": [
+    "MCEE"
+  ],
+  "WBGene00008419": [
+    "DCAF11"
+  ],
+  "WBGene00008424": [
+    "STK16"
+  ],
+  "WBGene00008428": [
+    "EIF2B5"
+  ],
+  "WBGene00008429": [
+    "UBE3C"
+  ],
+  "WBGene00008431": [
+    "PIGA"
+  ],
+  "WBGene00008435": [
+    "GLS2"
+  ],
+  "WBGene00008444": [
+    "TBC1D17"
+  ],
+  "WBGene00008452": [
+    "MRPS5"
+  ],
+  "WBGene00008455": [
+    "DIMT1"
+  ],
+  "WBGene00008456": [
+    "ERAL1"
+  ],
+  "WBGene00008457": [
+    "RTRAF"
+  ],
+  "WBGene00008458": [
+    "AK6"
+  ],
+  "WBGene00008459": [
+    "MRPL53"
+  ],
+  "WBGene00008480": [
+    "EIF2A"
+  ],
+  "WBGene00008502": [
+    "SKIC2"
+  ],
+  "WBGene00008504": [
+    "PIGQ"
+  ],
+  "WBGene00008505": [
+    "SLC25A3"
+  ],
+  "WBGene00008506": [
+    "TKT"
+  ],
+  "WBGene00008512": [
+    "LBP"
+  ],
+  "WBGene00008521": [
+    "CPB2"
+  ],
+  "WBGene00008531": [
+    "ACP5"
+  ],
+  "WBGene00008532": [
+    "DPP3"
+  ],
+  "WBGene00008546": [
+    "GFPT2"
+  ],
+  "WBGene00008548": [
+    "RBKS"
+  ],
+  "WBGene00008555": [
+    "FRMD4A"
+  ],
+  "WBGene00008571": [
+    "PROM1"
+  ],
+  "WBGene00008585": [
+    "RABL6"
+  ],
+  "WBGene00008606": [
+    "ZDHHC24"
+  ],
+  "WBGene00008624": [
+    "CRELD1"
+  ],
+  "WBGene00008639": [
+    "AAR2"
+  ],
+  "WBGene00008641": [
+    "TRIP13"
+  ],
+  "WBGene00008642": [
+    "INTS11"
+  ],
+  "WBGene00008643": [
+    "TMEM138"
+  ],
+  "WBGene00008645": [
+    "POLD1"
+  ],
+  "WBGene00008646": [
+    "EDEM2"
+  ],
+  "WBGene00008654": [
+    "PFAS"
+  ],
+  "WBGene00008664": [
+    "NUBP1"
+  ],
+  "WBGene00008665": [
+    "ERCC1"
+  ],
+  "WBGene00008667": [
+    "OXSM"
+  ],
+  "WBGene00008670": [
+    "EIF2B4"
+  ],
+  "WBGene00008683": [
+    "SF3A2"
+  ],
+  "WBGene00008684": [
+    "PCGF1"
+  ],
+  "WBGene00008685": [
+    "MON2"
+  ],
+  "WBGene00008687": [
+    "TMEM115"
+  ],
+  "WBGene00008688": [
+    "RBM34"
+  ],
+  "WBGene00008690": [
+    "CHCHD4"
+  ],
+  "WBGene00008722": [
+    "POLD2"
+  ],
+  "WBGene00008729": [
+    "IWS1"
+  ],
+  "WBGene00008745": [
+    "TPD52"
+  ],
+  "WBGene00008746": [
+    "AK5"
+  ],
+  "WBGene00008750": [
+    "NISCH"
+  ],
+  "WBGene00008765": [
+    "IMPA1"
+  ],
+  "WBGene00008768": [
+    "HYPK"
+  ],
+  "WBGene00008769": [
+    "MRPL13"
+  ],
+  "WBGene00008774": [
+    "SLC38A9"
+  ],
+  "WBGene00008775": [
+    "MOGS"
+  ],
+  "WBGene00008780": [
+    "GCK"
+  ],
+  "WBGene00008781": [
+    "POLR1B"
+  ],
+  "WBGene00008800": [
+    "GLG1"
+  ],
+  "WBGene00008806": [
+    "MBOAT7"
+  ],
+  "WBGene00008832": [
+    "OSBPL1A"
+  ],
+  "WBGene00008857": [
+    "TIMM23"
+  ],
+  "WBGene00008860": [
+    "ROMO1"
+  ],
+  "WBGene00008876": [
+    "RSPRY1"
+  ],
+  "WBGene00008877": [
+    "RTCB"
+  ],
+  "WBGene00008878": [
+    "PPP4R1"
+  ],
+  "WBGene00008887": [
+    "TBCD"
+  ],
+  "WBGene00008890": [
+    "ADRA1D"
+  ],
+  "WBGene00008918": [
+    "PIGT"
+  ],
+  "WBGene00008919": [
+    "VPS36"
+  ],
+  "WBGene00008920": [
+    "EEF1G"
+  ],
+  "WBGene00008921": [
+    "WDHD1"
+  ],
+  "WBGene00008925": [
+    "SERAC1"
+  ],
+  "WBGene00008934": [
+    "SRFBP1"
+  ],
+  "WBGene00008939": [
+    "SPRYD7"
+  ],
+  "WBGene00008948": [
+    "UCKL1"
+  ],
+  "WBGene00008956": [
+    "NEK7"
+  ],
+  "WBGene00008973": [
+    "CACFD1"
+  ],
+  "WBGene00008974": [
+    "TBC1D23"
+  ],
+  "WBGene00008977": [
+    "LRRN2"
+  ],
+  "WBGene00008980": [
+    "SMDT1"
+  ],
+  "WBGene00008990": [
+    "NBAS"
+  ],
+  "WBGene00009002": [
+    "HINT1"
+  ],
+  "WBGene00009004": [
+    "PFDN6"
+  ],
+  "WBGene00009006": [
+    "PGM3"
+  ],
+  "WBGene00009010": [
+    "PNKP"
+  ],
+  "WBGene00009011": [
+    "RNASEH2B"
+  ],
+  "WBGene00009012": [
+    "SRP54"
+  ],
+  "WBGene00009013": [
+    "MRPS33"
+  ],
+  "WBGene00009035": [
+    "GFPT1"
+  ],
+  "WBGene00009045": [
+    "TMCO1"
+  ],
+  "WBGene00009051": [
+    "NDUFS6"
+  ],
+  "WBGene00009064": [
+    "ANKFY1"
+  ],
+  "WBGene00009078": [
+    "POLR2K"
+  ],
+  "WBGene00009082": [
+    "DLAT"
+  ],
+  "WBGene00009084": [
+    "CEBPZ"
+  ],
+  "WBGene00009098": [
+    "EHBP1"
+  ],
+  "WBGene00009100": [
+    "RASGRP3"
+  ],
+  "WBGene00009103": [
+    "RTF1"
+  ],
+  "WBGene00009116": [
+    "SNX27"
+  ],
+  "WBGene00009119": [
+    "NME2"
+  ],
+  "WBGene00009122": [
+    "TPT1"
+  ],
+  "WBGene00009123": [
+    "METTL25B"
+  ],
+  "WBGene00009124": [
+    "RTEL1"
+  ],
+  "WBGene00009127": [
+    "CLSPN"
+  ],
+  "WBGene00009128": [
+    "MRPL54"
+  ],
+  "WBGene00009131": [
+    "TRMT10A"
+  ],
+  "WBGene00009132": [
+    "NAF1-AS1"
+  ],
+  "WBGene00009138": [
+    "PPCDC"
+  ],
+  "WBGene00009139": [
+    "SDHAF3"
+  ],
+  "WBGene00009141": [
+    "NCBP2"
+  ],
+  "WBGene00009145": [
+    "GPALPP1"
+  ],
+  "WBGene00009158": [
+    "TINAGL1"
+  ],
+  "WBGene00009162": [
+    "POSTN"
+  ],
+  "WBGene00009163": [
+    "DROSHA"
+  ],
+  "WBGene00009164": [
+    "AMFR"
+  ],
+  "WBGene00009172": [
+    "TAPT1"
+  ],
+  "WBGene00009174": [
+    "PHACTR4"
+  ],
+  "WBGene00009177": [
+    "PSAT1"
+  ],
+  "WBGene00009187": [
+    "ETFA"
+  ],
+  "WBGene00009189": [
+    "ZC3H15"
+  ],
+  "WBGene00009201": [
+    "PPP1R37"
+  ],
+  "WBGene00009204": [
+    "PIGG"
+  ],
+  "WBGene00009207": [
+    "PTPMT1"
+  ],
+  "WBGene00009211": [
+    "WDR46"
+  ],
+  "WBGene00009219": [
+    "DPM3"
+  ],
+  "WBGene00009238": [
+    "SELENOT"
+  ],
+  "WBGene00009245": [
+    "RICTOR"
+  ],
+  "WBGene00009246": [
+    "GFM1"
+  ],
+  "WBGene00009256": [
+    "CTU2"
+  ],
+  "WBGene00009258": [
+    "CCDC149"
+  ],
+  "WBGene00009260": [
+    "CIB2"
+  ],
+  "WBGene00009264": [
+    "SACM1L"
+  ],
+  "WBGene00009266": [
+    "FCF1"
+  ],
+  "WBGene00009267": [
+    "USP48"
+  ],
+  "WBGene00009276": [
+    "LETMD1"
+  ],
+  "WBGene00009277": [
+    "NAA60"
+  ],
+  "WBGene00009285": [
+    "BLTP2"
+  ],
+  "WBGene00009286": [
+    "SLC39A1"
+  ],
+  "WBGene00009287": [
+    "GINS2"
+  ],
+  "WBGene00009289": [
+    "EXOSC7"
+  ],
+  "WBGene00009290": [
+    "DCPH1"
+  ],
+  "WBGene00009292": [
+    "PLEKHD1"
+  ],
+  "WBGene00009304": [
+    "EVA1C"
+  ],
+  "WBGene00009305": [
+    "LOC124907435"
+  ],
+  "WBGene00009319": [
+    "MCCC1"
+  ],
+  "WBGene00009322": [
+    "TBC1D22B"
+  ],
+  "WBGene00009325": [
+    "INAFM2"
+  ],
+  "WBGene00009329": [
+    "PIH1D1"
+  ],
+  "WBGene00009334": [
+    "LDHD"
+  ],
+  "WBGene00009335": [
+    "PMVK"
+  ],
+  "WBGene00009336": [
+    "YIPF5"
+  ],
+  "WBGene00009337": [
+    "PLEKHG1"
+  ],
+  "WBGene00009341": [
+    "THOC3"
+  ],
+  "WBGene00009352": [
+    "ZCCHC4"
+  ],
+  "WBGene00009353": [
+    "SDHD"
+  ],
+  "WBGene00009354": [
+    "ILKAP"
+  ],
+  "WBGene00009364": [
+    "WBP11"
+  ],
+  "WBGene00009366": [
+    "FAM91A1"
+  ],
+  "WBGene00009368": [
+    "POLE"
+  ],
+  "WBGene00009369": [
+    "RMDN1"
+  ],
+  "WBGene00009372": [
+    "CDC45"
+  ],
+  "WBGene00009403": [
+    "PGAP4"
+  ],
+  "WBGene00009436": [
+    "ISOC2"
+  ],
+  "WBGene00009439": [
+    "MLYCD"
+  ],
+  "WBGene00009441": [
+    "WDR48"
+  ],
+  "WBGene00009443": [
+    "CUTA"
+  ],
+  "WBGene00009445": [
+    "PSMD5"
+  ],
+  "WBGene00009450": [
+    "UGT8"
+  ],
+  "WBGene00009452": [
+    "DUS1L"
+  ],
+  "WBGene00009455": [
+    "PHPT1"
+  ],
+  "WBGene00009460": [
+    "UBR5"
+  ],
+  "WBGene00009477": [
+    "RBBP6"
+  ],
+  "WBGene00009498": [
+    "ATP9A"
+  ],
+  "WBGene00009505": [
+    "NUS1"
+  ],
+  "WBGene00009507": [
+    "TOPBP1"
+  ],
+  "WBGene00009514": [
+    "IFI30"
+  ],
+  "WBGene00009542": [
+    "COPB2"
+  ],
+  "WBGene00009552": [
+    "PIK3C2A"
+  ],
+  "WBGene00009553": [
+    "HINFP"
+  ],
+  "WBGene00009554": [
+    "CRYZ"
+  ],
+  "WBGene00009556": [
+    "SOCS6"
+  ],
+  "WBGene00009557": [
+    "GTPBP3"
+  ],
+  "WBGene00009558": [
+    "GPR179"
+  ],
+  "WBGene00009563": [
+    "IBA57"
+  ],
+  "WBGene00009565": [
+    "CFDP1"
+  ],
+  "WBGene00009574": [
+    "TMEM184B"
+  ],
+  "WBGene00009576": [
+    "TMEM42"
+  ],
+  "WBGene00009583": [
+    "GANAB"
+  ],
+  "WBGene00009584": [
+    "DRAP1"
+  ],
+  "WBGene00009586": [
+    "TYW2"
+  ],
+  "WBGene00009594": [
+    "MIR3181"
+  ],
+  "WBGene00009619": [
+    "NPY2R"
+  ],
+  "WBGene00009627": [
+    "OSTM1"
+  ],
+  "WBGene00009628": [
+    "TAT"
+  ],
+  "WBGene00009636": [
+    "ADI1"
+  ],
+  "WBGene00009648": [
+    "ZNHIT2"
+  ],
+  "WBGene00009649": [
+    "CUEDC1"
+  ],
+  "WBGene00009650": [
+    "CCNK"
+  ],
+  "WBGene00009654": [
+    "SCFD1"
+  ],
+  "WBGene00009661": [
+    "PATL1"
+  ],
+  "WBGene00009664": [
+    "IDH3A"
+  ],
+  "WBGene00009666": [
+    "SLC25A42"
+  ],
+  "WBGene00009668": [
+    "NUDT21"
+  ],
+  "WBGene00009671": [
+    "MFAP1"
+  ],
+  "WBGene00009672": [
+    "PAXBP1"
+  ],
+  "WBGene00009678": [
+    "DLG5"
+  ],
+  "WBGene00009711": [
+    "RPF1"
+  ],
+  "WBGene00009712": [
+    "NDUFB2"
+  ],
+  "WBGene00009726": [
+    "TBC1D13"
+  ],
+  "WBGene00009731": [
+    "EXO1"
+  ],
+  "WBGene00009732": [
+    "COPE"
+  ],
+  "WBGene00009735": [
+    "MRM2"
+  ],
+  "WBGene00009740": [
+    "NDUFA7"
+  ],
+  "WBGene00009745": [
+    "COX19"
+  ],
+  "WBGene00009769": [
+    "GTPBP6"
+  ],
+  "WBGene00009771": [
+    "MTIF2"
+  ],
+  "WBGene00009772": [
+    "ZNF277"
+  ],
+  "WBGene00009776": [
+    "CZIB"
+  ],
+  "WBGene00009781": [
+    "PPP4R4"
+  ],
+  "WBGene00009783": [
+    "RER1"
+  ],
+  "WBGene00009784": [
+    "TBL2"
+  ],
+  "WBGene00009793": [
+    "PKN2"
+  ],
+  "WBGene00009800": [
+    "ARHGAP33"
+  ],
+  "WBGene00009801": [
+    "PLA2G6"
+  ],
+  "WBGene00009812": [
+    "SUCLA2"
+  ],
+  "WBGene00009813": [
+    "HAL"
+  ],
+  "WBGene00009829": [
+    "TMED10"
+  ],
+  "WBGene00009831": [
+    "RNF207"
+  ],
+  "WBGene00009867": [
+    "TUBAP14"
+  ],
+  "WBGene00009882": [
+    "ATP6V0E1"
+  ],
+  "WBGene00009897": [
+    "LPO"
+  ],
+  "WBGene00009899": [
+    "E2F8"
+  ],
+  "WBGene00009902": [
+    "FAXDC2"
+  ],
+  "WBGene00009922": [
+    "YTHDC2"
+  ],
+  "WBGene00009924": [
+    "CXXC1"
+  ],
+  "WBGene00009925": [
+    "PMM2"
+  ],
+  "WBGene00009930": [
+    "FAM43A"
+  ],
+  "WBGene00009940": [
+    "STAR"
+  ],
+  "WBGene00009944": [
+    "MTO1"
+  ],
+  "WBGene00009947": [
+    "TTC36"
+  ],
+  "WBGene00009952": [
+    "ACAA2"
+  ],
+  "WBGene00009958": [
+    "ADAMTSL5"
+  ],
+  "WBGene00009976": [
+    "DCAF7"
+  ],
+  "WBGene00009978": [
+    "KLHDC3"
+  ],
+  "WBGene00009987": [
+    "TBCB"
+  ],
+  "WBGene00009992": [
+    "NDUFV2"
+  ],
+  "WBGene00009993": [
+    "RSL1D1"
+  ],
+  "WBGene00009996": [
+    "SDE2"
+  ],
+  "WBGene00010013": [
+    "SZT2"
+  ],
+  "WBGene00010015": [
+    "ATAD3A"
+  ],
+  "WBGene00010028": [
+    "RNF141"
+  ],
+  "WBGene00010042": [
+    "BCS1L"
+  ],
+  "WBGene00010044": [
+    "KRI1"
+  ],
+  "WBGene00010052": [
+    "GCDH"
+  ],
+  "WBGene00010054": [
+    "GTF2E2"
+  ],
+  "WBGene00010055": [
+    "D2HGDH"
+  ],
+  "WBGene00010083": [
+    "XDH"
+  ],
+  "WBGene00010089": [
+    "TRNT1"
+  ],
+  "WBGene00010093": [
+    "NCAPG2"
+  ],
+  "WBGene00010094": [
+    "TSFM"
+  ],
+  "WBGene00010096": [
+    "RPS6KL1"
+  ],
+  "WBGene00010097": [
+    "SRP68"
+  ],
+  "WBGene00010130": [
+    "ATP6V1D"
+  ],
+  "WBGene00010159": [
+    "WBP4"
+  ],
+  "WBGene00010160": [
+    "NGLY1"
+  ],
+  "WBGene00010198": [
+    "BORA"
+  ],
+  "WBGene00010204": [
+    "CTSB"
+  ],
+  "WBGene00010230": [
+    "POLR1D"
+  ],
+  "WBGene00010231": [
+    "ESF1"
+  ],
+  "WBGene00010233": [
+    "RBM17"
+  ],
+  "WBGene00010260": [
+    "DDX5"
+  ],
+  "WBGene00010272": [
+    "BIN2"
+  ],
+  "WBGene00010279": [
+    "LETM1"
+  ],
+  "WBGene00010286": [
+    "ENOPH1"
+  ],
+  "WBGene00010303": [
+    "C1QBP"
+  ],
+  "WBGene00010304": [
+    "CLP1"
+  ],
+  "WBGene00010308": [
+    "AMDHD2"
+  ],
+  "WBGene00010317": [
+    "IDH1"
+  ],
+  "WBGene00010325": [
+    "EXOSC3"
+  ],
+  "WBGene00010326": [
+    "NDUFB10"
+  ],
+  "WBGene00010337": [
+    "SERP2"
+  ],
+  "WBGene00010356": [
+    "FAM20C"
+  ],
+  "WBGene00010369": [
+    "CHD1"
+  ],
+  "WBGene00010386": [
+    "EOGT"
+  ],
+  "WBGene00010397": [
+    "SUOX"
+  ],
+  "WBGene00010406": [
+    "USP7"
+  ],
+  "WBGene00010408": [
+    "DGAT1"
+  ],
+  "WBGene00010409": [
+    "NSMCE4A"
+  ],
+  "WBGene00010418": [
+    "QPCTL"
+  ],
+  "WBGene00010419": [
+    "ATP5F1A"
+  ],
+  "WBGene00010420": [
+    "MCRS1"
+  ],
+  "WBGene00010421": [
+    "SLC36A3"
+  ],
+  "WBGene00010427": [
+    "NRBP1"
+  ],
+  "WBGene00010433": [
+    "FAF2"
+  ],
+  "WBGene00010435": [
+    "PWP1"
+  ],
+  "WBGene00010437": [
+    "COX11"
+  ],
+  "WBGene00010439": [
+    "HPF1"
+  ],
+  "WBGene00010458": [
+    "MRPL10"
+  ],
+  "WBGene00010459": [
+    "SLC25A32"
+  ],
+  "WBGene00010465": [
+    "MIGA2"
+  ],
+  "WBGene00010476": [
+    "RNF113A"
+  ],
+  "WBGene00010478": [
+    "DKC1"
+  ],
+  "WBGene00010479": [
+    "FAM32A"
+  ],
+  "WBGene00010480": [
+    "TASP1"
+  ],
+  "WBGene00010481": [
+    "HDHD3"
+  ],
+  "WBGene00010484": [
+    "DPH3"
+  ],
+  "WBGene00010488": [
+    "ENDOU"
+  ],
+  "WBGene00010496": [
+    "PREB"
+  ],
+  "WBGene00010500": [
+    "ARFGAP1"
+  ],
+  "WBGene00010505": [
+    "STARD4"
+  ],
+  "WBGene00010537": [
+    "KAT8"
+  ],
+  "WBGene00010551": [
+    "SMG8"
+  ],
+  "WBGene00010556": [
+    "RACK1"
+  ],
+  "WBGene00010560": [
+    "EIF2S2"
+  ],
+  "WBGene00010564": [
+    "LYPLA2"
+  ],
+  "WBGene00010565": [
+    "VAC14"
+  ],
+  "WBGene00010569": [
+    "SECISBP2"
+  ],
+  "WBGene00010579": [
+    "JAGN1"
+  ],
+  "WBGene00010582": [
+    "UTP4"
+  ],
+  "WBGene00010583": [
+    "ARMC1"
+  ],
+  "WBGene00010593": [
+    "CAPG"
+  ],
+  "WBGene00010595": [
+    "HAAO"
+  ],
+  "WBGene00010609": [
+    "DUT"
+  ],
+  "WBGene00010610": [
+    "ACTMAP"
+  ],
+  "WBGene00010614": [
+    "HECA"
+  ],
+  "WBGene00010615": [
+    "ATE1"
+  ],
+  "WBGene00010616": [
+    "GADD45GIP1"
+  ],
+  "WBGene00010619": [
+    "LSM10"
+  ],
+  "WBGene00010620": [
+    "TCF25"
+  ],
+  "WBGene00010622": [
+    "HBS1L"
+  ],
+  "WBGene00010624": [
+    "MRPS15"
+  ],
+  "WBGene00010627": [
+    "NOP56"
+  ],
+  "WBGene00010629": [
+    "SLU7"
+  ],
+  "WBGene00010631": [
+    "STRN"
+  ],
+  "WBGene00010638": [
+    "NOL8"
+  ],
+  "WBGene00010639": [
+    "TMEM167B"
+  ],
+  "WBGene00010640": [
+    "DNAJC12"
+  ],
+  "WBGene00010664": [
+    "DBNL"
+  ],
+  "WBGene00010665": [
+    "UGP2"
+  ],
+  "WBGene00010666": [
+    "CPTP"
+  ],
+  "WBGene00010671": [
+    "MEAK7"
+  ],
+  "WBGene00010675": [
+    "LRRC20"
+  ],
+  "WBGene00010676": [
+    "CHTF18"
+  ],
+  "WBGene00010677": [
+    "G3BP2"
+  ],
+  "WBGene00010697": [
+    "ENTPD5"
+  ],
+  "WBGene00010709": [
+    "NOL9"
+  ],
+  "WBGene00010712": [
+    "TESK1"
+  ],
+  "WBGene00010713": [
+    "USO1"
+  ],
+  "WBGene00010720": [
+    "ALG3"
+  ],
+  "WBGene00010721": [
+    "NDUFAF5"
+  ],
+  "WBGene00010722": [
+    "NAGLU"
+  ],
+  "WBGene00010725": [
+    "ERGIC3"
+  ],
+  "WBGene00010731": [
+    "TMEM98"
+  ],
+  "WBGene00010732": [
+    "EFL1"
+  ],
+  "WBGene00010736": [
+    "IST1"
+  ],
+  "WBGene00010757": [
+    "POFUT2"
+  ],
+  "WBGene00010758": [
+    "SLC17A9"
+  ],
+  "WBGene00010766": [
+    "MRPS27"
+  ],
+  "WBGene00010767": [
+    "BORCS8"
+  ],
+  "WBGene00010769": [
+    "ASAH1"
+  ],
+  "WBGene00010771": [
+    "MTERF4"
+  ],
+  "WBGene00010778": [
+    "GPD1"
+  ],
+  "WBGene00010780": [
+    "SLC25A1"
+  ],
+  "WBGene00010783": [
+    "MRPL36"
+  ],
+  "WBGene00010785": [
+    "TOP2A"
+  ],
+  "WBGene00010794": [
+    "DLD"
+  ],
+  "WBGene00010805": [
+    "MTG2"
+  ],
+  "WBGene00010809": [
+    "LIAS"
+  ],
+  "WBGene00010810": [
+    "TMEM245"
+  ],
+  "WBGene00010812": [
+    "MRPL35"
+  ],
+  "WBGene00010813": [
+    "PITPNM1"
+  ],
+  "WBGene00010815": [
+    "RGP1"
+  ],
+  "WBGene00010842": [
+    "YME1L1"
+  ],
+  "WBGene00010844": [
+    "PRPF3"
+  ],
+  "WBGene00010845": [
+    "SMARCAD1"
+  ],
+  "WBGene00010846": [
+    "THUMPD3"
+  ],
+  "WBGene00010847": [
+    "FOXRED1"
+  ],
+  "WBGene00010872": [
+    "PLA2G15"
+  ],
+  "WBGene00010882": [
+    "RPL13AP27"
+  ],
+  "WBGene00010889": [
+    "ASDURF"
+  ],
+  "WBGene00010890": [
+    "DDB1"
+  ],
+  "WBGene00010891": [
+    "CRBN"
+  ],
+  "WBGene00010892": [
+    "ZDHHC6"
+  ],
+  "WBGene00010896": [
+    "SNU13"
+  ],
+  "WBGene00010898": [
+    "NPHP1"
+  ],
+  "WBGene00010905": [
+    "MRPS34"
+  ],
+  "WBGene00010911": [
+    "PTGR2"
+  ],
+  "WBGene00010912": [
+    "GMPS"
+  ],
+  "WBGene00010913": [
+    "MARCHF5"
+  ],
+  "WBGene00010922": [
+    "LSM12"
+  ],
+  "WBGene00010924": [
+    "PYCR3"
+  ],
+  "WBGene00010941": [
+    "GSS"
+  ],
+  "WBGene00010974": [
+    "BBS5"
+  ],
+  "WBGene00010983": [
+    "MOCOS"
+  ],
+  "WBGene00010988": [
+    "MTR"
+  ],
+  "WBGene00011015": [
+    "ATP5ME"
+  ],
+  "WBGene00011017": [
+    "TIMM29"
+  ],
+  "WBGene00011029": [
+    "ABHD11"
+  ],
+  "WBGene00011032": [
+    "DDX52"
+  ],
+  "WBGene00011033": [
+    "TMEM208"
+  ],
+  "WBGene00011035": [
+    "SNRNP27"
+  ],
+  "WBGene00011040": [
+    "ARV1"
+  ],
+  "WBGene00011043": [
+    "LOC100418961"
+  ],
+  "WBGene00011050": [
+    "AGL"
+  ],
+  "WBGene00011051": [
+    "WDR33"
+  ],
+  "WBGene00011064": [
+    "ADSL"
+  ],
+  "WBGene00011065": [
+    "NTAQ1"
+  ],
+  "WBGene00011067": [
+    "VPS11"
+  ],
+  "WBGene00011071": [
+    "RIC1"
+  ],
+  "WBGene00011076": [
+    "SCARB1"
+  ],
+  "WBGene00011089": [
+    "KMO"
+  ],
+  "WBGene00011095": [
+    "NAGA"
+  ],
+  "WBGene00011102": [
+    "CTSW"
+  ],
+  "WBGene00011106": [
+    "GPAT4"
+  ],
+  "WBGene00011109": [
+    "GPATCH1"
+  ],
+  "WBGene00011110": [
+    "PRDX3"
+  ],
+  "WBGene00011111": [
+    "SMARCB1"
+  ],
+  "WBGene00011116": [
+    "PDCD2"
+  ],
+  "WBGene00011122": [
+    "CPT2"
+  ],
+  "WBGene00011123": [
+    "MIR191"
+  ],
+  "WBGene00011142": [
+    "BUD13"
+  ],
+  "WBGene00011143": [
+    "RPAP2"
+  ],
+  "WBGene00011146": [
+    "PDE2A"
+  ],
+  "WBGene00011147": [
+    "XYLB"
+  ],
+  "WBGene00011193": [
+    "ALG13"
+  ],
+  "WBGene00011194": [
+    "CCDC97"
+  ],
+  "WBGene00011201": [
+    "NTHL1"
+  ],
+  "WBGene00011216": [
+    "USP46"
+  ],
+  "WBGene00011218": [
+    "SYNRG"
+  ],
+  "WBGene00011224": [
+    "RFK"
+  ],
+  "WBGene00011225": [
+    "TTI1"
+  ],
+  "WBGene00011226": [
+    "SLC25A21"
+  ],
+  "WBGene00011237": [
+    "GPKOW"
+  ],
+  "WBGene00011239": [
+    "PTGES2"
+  ],
+  "WBGene00011247": [
+    "MRPL49"
+  ],
+  "WBGene00011248": [
+    "ZFYVE19"
+  ],
+  "WBGene00011253": [
+    "ILF2"
+  ],
+  "WBGene00011261": [
+    "NPHP4"
+  ],
+  "WBGene00011268": [
+    "PDE12"
+  ],
+  "WBGene00011269": [
+    "SBSPON"
+  ],
+  "WBGene00011271": [
+    "FLAD1"
+  ],
+  "WBGene00011272": [
+    "DTYMK"
+  ],
+  "WBGene00011274": [
+    "PRXL2A"
+  ],
+  "WBGene00011275": [
+    "GINS1"
+  ],
+  "WBGene00011280": [
+    "PELO"
+  ],
+  "WBGene00011281": [
+    "FTSJ1"
+  ],
+  "WBGene00011283": [
+    "TTBK1"
+  ],
+  "WBGene00011298": [
+    "NAXD"
+  ],
+  "WBGene00011303": [
+    "AMMECR1"
+  ],
+  "WBGene00011306": [
+    "SRPRB"
+  ],
+  "WBGene00011308": [
+    "PNN"
+  ],
+  "WBGene00011311": [
+    "UTP3"
+  ],
+  "WBGene00011315": [
+    "LCORL"
+  ],
+  "WBGene00011329": [
+    "SLC39A9"
+  ],
+  "WBGene00011333": [
+    "NRDE2"
+  ],
+  "WBGene00011334": [
+    "MRPS14"
+  ],
+  "WBGene00011338": [
+    "SEC31A"
+  ],
+  "WBGene00011344": [
+    "PHAF1"
+  ],
+  "WBGene00011348": [
+    "TECPR1"
+  ],
+  "WBGene00011352": [
+    "RPS6KA1"
+  ],
+  "WBGene00011353": [
+    "SRR"
+  ],
+  "WBGene00011368": [
+    "GTF3C5"
+  ],
+  "WBGene00011391": [
+    "MRPS12"
+  ],
+  "WBGene00011392": [
+    "SCG5"
+  ],
+  "WBGene00011398": [
+    "QDPR"
+  ],
+  "WBGene00011399": [
+    "GNPDA2"
+  ],
+  "WBGene00011407": [
+    "PPAT"
+  ],
+  "WBGene00011408": [
+    "NIFK"
+  ],
+  "WBGene00011409": [
+    "GBE1"
+  ],
+  "WBGene00011411": [
+    "ZNF830"
+  ],
+  "WBGene00011412": [
+    "MRPL16"
+  ],
+  "WBGene00011433": [
+    "PDE1B"
+  ],
+  "WBGene00011440": [
+    "SFXN1"
+  ],
+  "WBGene00011441": [
+    "GPR180"
+  ],
+  "WBGene00011444": [
+    "NINL"
+  ],
+  "WBGene00011449": [
+    "GTPBP2"
+  ],
+  "WBGene00011451": [
+    "GPATCH11"
+  ],
+  "WBGene00011474": [
+    "ALDOC"
+  ],
+  "WBGene00011480": [
+    "MIR3652"
+  ],
+  "WBGene00011481": [
+    "HM13"
+  ],
+  "WBGene00011482": [
+    "PIGK"
+  ],
+  "WBGene00011488": [
+    "NCLN"
+  ],
+  "WBGene00011500": [
+    "DCAKD"
+  ],
+  "WBGene00011502": [
+    "VPS53"
+  ],
+  "WBGene00011503": [
+    "GCC2"
+  ],
+  "WBGene00011510": [
+    "PDHA1"
+  ],
+  "WBGene00011511": [
+    "GPCPD1"
+  ],
+  "WBGene00011523": [
+    "CEP104"
+  ],
+  "WBGene00011526": [
+    "COX15"
+  ],
+  "WBGene00011527": [
+    "HCCS"
+  ],
+  "WBGene00011529": [
+    "SARAF"
+  ],
+  "WBGene00011532": [
+    "CHAF1A"
+  ],
+  "WBGene00011538": [
+    "WDR74"
+  ],
+  "WBGene00011558": [
+    "OST4"
+  ],
+  "WBGene00011559": [
+    "UMPS"
+  ],
+  "WBGene00011576": [
+    "RMI1"
+  ],
+  "WBGene00011587": [
+    "ENPEP"
+  ],
+  "WBGene00011589": [
+    "TRNAU1AP"
+  ],
+  "WBGene00011590": [
+    "TMEM41A"
+  ],
+  "WBGene00011605": [
+    "SF3B1"
+  ],
+  "WBGene00011625": [
+    "VPS39"
+  ],
+  "WBGene00011629": [
+    "VPS13A"
+  ],
+  "WBGene00011630": [
+    "SAXO1"
+  ],
+  "WBGene00011631": [
+    "TGS1"
+  ],
+  "WBGene00011635": [
+    "TRIAP1"
+  ],
+  "WBGene00011637": [
+    "PPP1R7"
+  ],
+  "WBGene00011638": [
+    "DDOST"
+  ],
+  "WBGene00011645": [
+    "CCDC6"
+  ],
+  "WBGene00011687": [
+    "CWC15"
+  ],
+  "WBGene00011696": [
+    "EEA1"
+  ],
+  "WBGene00011722": [
+    "RBM22"
+  ],
+  "WBGene00011730": [
+    "EIF4H"
+  ],
+  "WBGene00011735": [
+    "ST13"
+  ],
+  "WBGene00011740": [
+    "MRPL51"
+  ],
+  "WBGene00011743": [
+    "SUB1"
+  ],
+  "WBGene00011758": [
+    "SF3A3"
+  ],
+  "WBGene00011759": [
+    "MRPS18B"
+  ],
+  "WBGene00011761": [
+    "CLPTM1L"
+  ],
+  "WBGene00011767": [
+    "AGXT"
+  ],
+  "WBGene00011771": [
+    "HYOU1"
+  ],
+  "WBGene00011775": [
+    "COPG2"
+  ],
+  "WBGene00011776": [
+    "PIGS"
+  ],
+  "WBGene00011806": [
+    "TANGO6"
+  ],
+  "WBGene00011807": [
+    "IPO13"
+  ],
+  "WBGene00011815": [
+    "SPOP"
+  ],
+  "WBGene00011821": [
+    "SLC30A2"
+  ],
+  "WBGene00011826": [
+    "MPV17"
+  ],
+  "WBGene00011827": [
+    "SLC66A2"
+  ],
+  "WBGene00011828": [
+    "CNEP1R1"
+  ],
+  "WBGene00011832": [
+    "GLB1"
+  ],
+  "WBGene00011834": [
+    "SPRTN"
+  ],
+  "WBGene00011835": [
+    "PGAP1"
+  ],
+  "WBGene00011850": [
+    "CROT"
+  ],
+  "WBGene00011858": [
+    "SLC25A52"
+  ],
+  "WBGene00011860": [
+    "PIGC"
+  ],
+  "WBGene00011867": [
+    "CLTC"
+  ],
+  "WBGene00011871": [
+    "PYM1"
+  ],
+  "WBGene00011872": [
+    "BLOC1S1"
+  ],
+  "WBGene00011883": [
+    "MRPL50"
+  ],
+  "WBGene00011884": [
+    "ENO1"
+  ],
+  "WBGene00011890": [
+    "SYNJ2BP"
+  ],
+  "WBGene00011897": [
+    "TIMM50"
+  ],
+  "WBGene00011909": [
+    "PIK3IP1"
+  ],
+  "WBGene00011912": [
+    "UBR7"
+  ],
+  "WBGene00011914": [
+    "PIGU"
+  ],
+  "WBGene00011917": [
+    "TXLNA"
+  ],
+  "WBGene00011936": [
+    "GRN"
+  ],
+  "WBGene00011938": [
+    "ALDH18A1"
+  ],
+  "WBGene00011939": [
+    "PRMT9"
+  ],
+  "WBGene00011944": [
+    "LTV1"
+  ],
+  "WBGene00011955": [
+    "CDK5R1"
+  ],
+  "WBGene00011964": [
+    "DNTTIP1"
+  ],
+  "WBGene00011966": [
+    "PINX1"
+  ],
+  "WBGene00011967": [
+    "DUSP11"
+  ],
+  "WBGene00011969": [
+    "C9orf78"
+  ],
+  "WBGene00011970": [
+    "RALBP1"
+  ],
+  "WBGene00011972": [
+    "VTA1"
+  ],
+  "WBGene00011975": [
+    "GOLGA5"
+  ],
+  "WBGene00011976": [
+    "CHMP7"
+  ],
+  "WBGene00011980": [
+    "USP24"
+  ],
+  "WBGene00011994": [
+    "TMEM201"
+  ],
+  "WBGene00011995": [
+    "RASSF5"
+  ],
+  "WBGene00012007": [
+    "GCAT"
+  ],
+  "WBGene00012015": [
+    "PGD"
+  ],
+  "WBGene00012017": [
+    "SHPK"
+  ],
+  "WBGene00012019": [
+    "PRKD3"
+  ],
+  "WBGene00012029": [
+    "KIAA1143"
+  ],
+  "WBGene00012030": [
+    "NMD3"
+  ],
+  "WBGene00012031": [
+    "GPD2"
+  ],
+  "WBGene00012033": [
+    "SLC33A1"
+  ],
+  "WBGene00012037": [
+    "RWDD1"
+  ],
+  "WBGene00012059": [
+    "DDX47"
+  ],
+  "WBGene00012073": [
+    "CPN1"
+  ],
+  "WBGene00012097": [
+    "ABCF2"
+  ],
+  "WBGene00012100": [
+    "SIPA1L2"
+  ],
+  "WBGene00012105": [
+    "SMPD2"
+  ],
+  "WBGene00012126": [
+    "DRG1"
+  ],
+  "WBGene00012127": [
+    "STARD10"
+  ],
+  "WBGene00012132": [
+    "IFT22"
+  ],
+  "WBGene00012144": [
+    "LGMN"
+  ],
+  "WBGene00012148": [
+    "ISYNA1"
+  ],
+  "WBGene00012150": [
+    "STX17"
+  ],
+  "WBGene00012166": [
+    "NDUFB4"
+  ],
+  "WBGene00012192": [
+    "TRMT61A"
+  ],
+  "WBGene00012193": [
+    "VPS25"
+  ],
+  "WBGene00012203": [
+    "ARHGAP1"
+  ],
+  "WBGene00012204": [
+    "SLC25A37"
+  ],
+  "WBGene00012205": [
+    "METTL1"
+  ],
+  "WBGene00012206": [
+    "B4GALT5"
+  ],
+  "WBGene00012207": [
+    "TSSK6"
+  ],
+  "WBGene00012208": [
+    "YIPF6"
+  ],
+  "WBGene00012209": [
+    "HMG20A"
+  ],
+  "WBGene00012225": [
+    "FUCA2"
+  ],
+  "WBGene00012230": [
+    "CACTIN"
+  ],
+  "WBGene00012234": [
+    "INTS4"
+  ],
+  "WBGene00012244": [
+    "MRPS11"
+  ],
+  "WBGene00012245": [
+    "RBM25"
+  ],
+  "WBGene00012258": [
+    "PRPSAP2"
+  ],
+  "WBGene00012298": [
+    "LOC124903789"
+  ],
+  "WBGene00012316": [
+    "CTPS1"
+  ],
+  "WBGene00012337": [
+    "SCYL1"
+  ],
+  "WBGene00012341": [
+    "ATP13A3"
+  ],
+  "WBGene00012342": [
+    "MTREX"
+  ],
+  "WBGene00012344": [
+    "OLA1"
+  ],
+  "WBGene00012348": [
+    "PPP2R5E"
+  ],
+  "WBGene00012351": [
+    "NSA2"
+  ],
+  "WBGene00012356": [
+    "AASDH"
+  ],
+  "WBGene00012361": [
+    "MRPL12"
+  ],
+  "WBGene00012362": [
+    "PPTC7"
+  ],
+  "WBGene00012366": [
+    "MAEA"
+  ],
+  "WBGene00012369": [
+    "HPS5"
+  ],
+  "WBGene00012370": [
+    "RCC1L"
+  ],
+  "WBGene00012371": [
+    "IER3IP1"
+  ],
+  "WBGene00012386": [
+    "ARFGEF2"
+  ],
+  "WBGene00012390": [
+    "BPNT2"
+  ],
+  "WBGene00012393": [
+    "LAS1L"
+  ],
+  "WBGene00012458": [
+    "ASH2L"
+  ],
+  "WBGene00012459": [
+    "HAGH"
+  ],
+  "WBGene00012460": [
+    "DHPS"
+  ],
+  "WBGene00012463": [
+    "NADK2"
+  ],
+  "WBGene00012465": [
+    "REXO4"
+  ],
+  "WBGene00012466": [
+    "IPPK"
+  ],
+  "WBGene00012468": [
+    "MLF1"
+  ],
+  "WBGene00012469": [
+    "MEPCE"
+  ],
+  "WBGene00012476": [
+    "NAXE"
+  ],
+  "WBGene00012479": [
+    "CIAO1"
+  ],
+  "WBGene00012483": [
+    "COA5"
+  ],
+  "WBGene00012514": [
+    "METTL26"
+  ],
+  "WBGene00012530": [
+    "SCPEP1"
+  ],
+  "WBGene00012538": [
+    "SELENBP1"
+  ],
+  "WBGene00012543": [
+    "SLC12A2"
+  ],
+  "WBGene00012544": [
+    "PLBD2"
+  ],
+  "WBGene00012550": [
+    "SPCS2"
+  ],
+  "WBGene00012553": [
+    "COX5A"
+  ],
+  "WBGene00012555": [
+    "TMEM33"
+  ],
+  "WBGene00012556": [
+    "MRPS10"
+  ],
+  "WBGene00012559": [
+    "VMP1"
+  ],
+  "WBGene00012606": [
+    "RNF170"
+  ],
+  "WBGene00012608": [
+    "ADHFE1"
+  ],
+  "WBGene00012626": [
+    "FAM161B"
+  ],
+  "WBGene00012643": [
+    "ZNRD2"
+  ],
+  "WBGene00012644": [
+    "RABGEF1"
+  ],
+  "WBGene00012645": [
+    "MRPL22"
+  ],
+  "WBGene00012648": [
+    "MEIOC"
+  ],
+  "WBGene00012650": [
+    "ORC1"
+  ],
+  "WBGene00012652": [
+    "EMG1"
+  ],
+  "WBGene00012659": [
+    "XPR1"
+  ],
+  "WBGene00012665": [
+    "PPP5C"
+  ],
+  "WBGene00012666": [
+    "ISCA1"
+  ],
+  "WBGene00012676": [
+    "SDAD1"
+  ],
+  "WBGene00012692": [
+    "NOP53"
+  ],
+  "WBGene00012693": [
+    "COA8"
+  ],
+  "WBGene00012694": [
+    "GTF2F2"
+  ],
+  "WBGene00012696": [
+    "REPS1"
+  ],
+  "WBGene00012697": [
+    "MRPS35"
+  ],
+  "WBGene00012698": [
+    "ZSWIM7"
+  ],
+  "WBGene00012704": [
+    "ANKS3"
+  ],
+  "WBGene00012713": [
+    "BCKDHA"
+  ],
+  "WBGene00012714": [
+    "ABCE1"
+  ],
+  "WBGene00012718": [
+    "ZDHHC5"
+  ],
+  "WBGene00012730": [
+    "XRN1"
+  ],
+  "WBGene00012740": [
+    "SLC25A46"
+  ],
+  "WBGene00012755": [
+    "TP53I13"
+  ],
+  "WBGene00012756": [
+    "UTP25"
+  ],
+  "WBGene00012765": [
+    "ACBD3"
+  ],
+  "WBGene00012767": [
+    "FANCD2"
+  ],
+  "WBGene00012768": [
+    "FDXACB1"
+  ],
+  "WBGene00012779": [
+    "CDKL1"
+  ],
+  "WBGene00012780": [
+    "ETFRF1"
+  ],
+  "WBGene00012786": [
+    "SLC25A44"
+  ],
+  "WBGene00012794": [
+    "ZCCHC24"
+  ],
+  "WBGene00012796": [
+    "LMLN"
+  ],
+  "WBGene00012803": [
+    "PGM2"
+  ],
+  "WBGene00012806": [
+    "DPH7"
+  ],
+  "WBGene00012826": [
+    "FBF1"
+  ],
+  "WBGene00012828": [
+    "BACC1"
+  ],
+  "WBGene00012829": [
+    "EMC10"
+  ],
+  "WBGene00012830": [
+    "MRPS28"
+  ],
+  "WBGene00012855": [
+    "BCAT2"
+  ],
+  "WBGene00012858": [
+    "WDR55"
+  ],
+  "WBGene00012864": [
+    "MRM1"
+  ],
+  "WBGene00012867": [
+    "SEPHS1"
+  ],
+  "WBGene00012868": [
+    "TBC1D9"
+  ],
+  "WBGene00012885": [
+    "ISCU"
+  ],
+  "WBGene00012887": [
+    "WDR36"
+  ],
+  "WBGene00012889": [
+    "ITGB1BP1"
+  ],
+  "WBGene00012890": [
+    "LACTB"
+  ],
+  "WBGene00012894": [
+    "USP6NL"
+  ],
+  "WBGene00012895": [
+    "COX10"
+  ],
+  "WBGene00012896": [
+    "SNRNP200"
+  ],
+  "WBGene00012897": [
+    "CDIPT"
+  ],
+  "WBGene00012903": [
+    "CHMP2A"
+  ],
+  "WBGene00012907": [
+    "CPT1A"
+  ],
+  "WBGene00012908": [
+    "R3HDM4"
+  ],
+  "WBGene00012909": [
+    "SRM"
+  ],
+  "WBGene00012911": [
+    "GNPAT"
+  ],
+  "WBGene00012920": [
+    "ALKBH7"
+  ],
+  "WBGene00012927": [
+    "ADAT3"
+  ],
+  "WBGene00012929": [
+    "RPS6KB1"
+  ],
+  "WBGene00012930": [
+    "OSBP"
+  ],
+  "WBGene00012932": [
+    "DENR"
+  ],
+  "WBGene00012935": [
+    "MCM10"
+  ],
+  "WBGene00012936": [
+    "POLA1"
+  ],
+  "WBGene00012948": [
+    "ZDHHC18"
+  ],
+  "WBGene00012950": [
+    "EIF2B2"
+  ],
+  "WBGene00012964": [
+    "NHP2"
+  ],
+  "WBGene00012966": [
+    "EXOSC1"
+  ],
+  "WBGene00012977": [
+    "TEX10"
+  ],
+  "WBGene00012978": [
+    "BOP1"
+  ],
+  "WBGene00012982": [
+    "KDM4C"
+  ],
+  "WBGene00012983": [
+    "ME3"
+  ],
+  "WBGene00012984": [
+    "MVD"
+  ],
+  "WBGene00012992": [
+    "MRPL20"
+  ],
+  "WBGene00012995": [
+    "TOP3B"
+  ],
+  "WBGene00012996": [
+    "PIN4"
+  ],
+  "WBGene00012997": [
+    "YRDC"
+  ],
+  "WBGene00012998": [
+    "PUS10"
+  ],
+  "WBGene00012999": [
+    "POLR1A"
+  ],
+  "WBGene00013001": [
+    "NOA1"
+  ],
+  "WBGene00013002": [
+    "PGGT1B"
+  ],
+  "WBGene00013004": [
+    "MRPL37"
+  ],
+  "WBGene00013011": [
+    "SNX14"
+  ],
+  "WBGene00013015": [
+    "CARNMT1"
+  ],
+  "WBGene00013018": [
+    "ESD"
+  ],
+  "WBGene00013021": [
+    "INTS8"
+  ],
+  "WBGene00013025": [
+    "ATP6V1A"
+  ],
+  "WBGene00013026": [
+    "TRMT13"
+  ],
+  "WBGene00013029": [
+    "GLRX5"
+  ],
+  "WBGene00013033": [
+    "SDC3"
+  ],
+  "WBGene00013038": [
+    "ANLN"
+  ],
+  "WBGene00013041": [
+    "PSTK"
+  ],
+  "WBGene00013042": [
+    "CCDC186"
+  ],
+  "WBGene00013043": [
+    "ARRDC4"
+  ],
+  "WBGene00013075": [
+    "INTS5"
+  ],
+  "WBGene00013082": [
+    "CCDC88C"
+  ],
+  "WBGene00013093": [
+    "PLEKHM3"
+  ],
+  "WBGene00013094": [
+    "NDUFB8"
+  ],
+  "WBGene00013095": [
+    "ING3"
+  ],
+  "WBGene00013103": [
+    "UROC1"
+  ],
+  "WBGene00013109": [
+    "TSR2"
+  ],
+  "WBGene00013119": [
+    "GCNT7"
+  ],
+  "WBGene00013122": [
+    "IMPACT"
+  ],
+  "WBGene00013123": [
+    "CYB5R4"
+  ],
+  "WBGene00013128": [
+    "KIN"
+  ],
+  "WBGene00013129": [
+    "NOM1"
+  ],
+  "WBGene00013135": [
+    "ARHGAP20"
+  ],
+  "WBGene00013139": [
+    "YIPF3"
+  ],
+  "WBGene00013143": [
+    "TBL3"
+  ],
+  "WBGene00013144": [
+    "PNO1"
+  ],
+  "WBGene00013150": [
+    "POLE4"
+  ],
+  "WBGene00013156": [
+    "ATAD5"
+  ],
+  "WBGene00013160": [
+    "CMTR1"
+  ],
+  "WBGene00013161": [
+    "PET100"
+  ],
+  "WBGene00013164": [
+    "FAAH2"
+  ],
+  "WBGene00013167": [
+    "WASHC4"
+  ],
+  "WBGene00013168": [
+    "ACTR1A"
+  ],
+  "WBGene00013176": [
+    "LACTB2"
+  ],
+  "WBGene00013188": [
+    "SMG9"
+  ],
+  "WBGene00013189": [
+    "ASCC3"
+  ],
+  "WBGene00013196": [
+    "TBC1D20"
+  ],
+  "WBGene00013197": [
+    "DEGS2"
+  ],
+  "WBGene00013200": [
+    "PBDC1"
+  ],
+  "WBGene00013201": [
+    "DUS2"
+  ],
+  "WBGene00013209": [
+    "BUB3"
+  ],
+  "WBGene00013213": [
+    "CCDC25"
+  ],
+  "WBGene00013214": [
+    "DDX43"
+  ],
+  "WBGene00013217": [
+    "TTC19"
+  ],
+  "WBGene00013218": [
+    "ISCA2"
+  ],
+  "WBGene00013219": [
+    "ELOF1"
+  ],
+  "WBGene00013224": [
+    "AGGF1"
+  ],
+  "WBGene00013225": [
+    "MBTPS2"
+  ],
+  "WBGene00013231": [
+    "TSEN2"
+  ],
+  "WBGene00013235": [
+    "RUBCNL"
+  ],
+  "WBGene00013236": [
+    "ZNF593"
+  ],
+  "WBGene00013238": [
+    "SSR4"
+  ],
+  "WBGene00013241": [
+    "UNG"
+  ],
+  "WBGene00013258": [
+    "POLGARF"
+  ],
+  "WBGene00013259": [
+    "TRAPPC5"
+  ],
+  "WBGene00013260": [
+    "SRRM2"
+  ],
+  "WBGene00013263": [
+    "TXNDC12"
+  ],
+  "WBGene00013265": [
+    "TOE1"
+  ],
+  "WBGene00013269": [
+    "SDHAF2"
+  ],
+  "WBGene00013284": [
+    "SCP2"
+  ],
+  "WBGene00013301": [
+    "PGLS"
+  ],
+  "WBGene00013302": [
+    "VTI1A"
+  ],
+  "WBGene00013308": [
+    "NDUFA6"
+  ],
+  "WBGene00013311": [
+    "SEC61A2"
+  ],
+  "WBGene00013312": [
+    "HHAT"
+  ],
+  "WBGene00013317": [
+    "PICK1"
+  ],
+  "WBGene00013323": [
+    "GOLGA7"
+  ],
+  "WBGene00013324": [
+    "MRPS7"
+  ],
+  "WBGene00013326": [
+    "ANO8"
+  ],
+  "WBGene00013332": [
+    "KTI12"
+  ],
+  "WBGene00013339": [
+    "PHF14"
+  ],
+  "WBGene00013343": [
+    "PRPF6"
+  ],
+  "WBGene00013345": [
+    "NAPG"
+  ],
+  "WBGene00013355": [
+    "STK39"
+  ],
+  "WBGene00013361": [
+    "FARS2"
+  ],
+  "WBGene00013362": [
+    "DPAGT1"
+  ],
+  "WBGene00013365": [
+    "YIPF4"
+  ],
+  "WBGene00013373": [
+    "TMEM167A"
+  ],
+  "WBGene00013376": [
+    "FDXR"
+  ],
+  "WBGene00013378": [
+    "EMC3"
+  ],
+  "WBGene00013379": [
+    "PSPH"
+  ],
+  "WBGene00013405": [
+    "TDP2"
+  ],
+  "WBGene00013406": [
+    "NDUFA2"
+  ],
+  "WBGene00013416": [
+    "MEGF6"
+  ],
+  "WBGene00013433": [
+    "GATC"
+  ],
+  "WBGene00013434": [
+    "STEEP1"
+  ],
+  "WBGene00013435": [
+    "PSME3"
+  ],
+  "WBGene00013441": [
+    "ERCC3"
+  ],
+  "WBGene00013446": [
+    "TM2D1"
+  ],
+  "WBGene00013457": [
+    "RN7SL127P"
+  ],
+  "WBGene00013460": [
+    "CPSF3"
+  ],
+  "WBGene00013462": [
+    "MICU1"
+  ],
+  "WBGene00013506": [
+    "USP3"
+  ],
+  "WBGene00013529": [
+    "GTF2H4"
+  ],
+  "WBGene00013532": [
+    "FDX2"
+  ],
+  "WBGene00013541": [
+    "LONP2"
+  ],
+  "WBGene00013544": [
+    "MPHOSPH10"
+  ],
+  "WBGene00013550": [
+    "GPN3"
+  ],
+  "WBGene00013557": [
+    "PI4KA"
+  ],
+  "WBGene00013577": [
+    "MMADHC"
+  ],
+  "WBGene00013591": [
+    "EIF2AK4"
+  ],
+  "WBGene00013595": [
+    "ATG4A"
+  ],
+  "WBGene00013597": [
+    "GPI"
+  ],
+  "WBGene00013598": [
+    "VPS28"
+  ],
+  "WBGene00013599": [
+    "EIPR1"
+  ],
+  "WBGene00013603": [
+    "SHB"
+  ],
+  "WBGene00013606": [
+    "CAND1"
+  ],
+  "WBGene00013650": [
+    "PHYHD1"
+  ],
+  "WBGene00013666": [
+    "SH3BGRL3"
+  ],
+  "WBGene00013667": [
+    "ERLEC1"
+  ],
+  "WBGene00013668": [
+    "SLC30A5"
+  ],
+  "WBGene00013669": [
+    "WRAP53"
+  ],
+  "WBGene00013670": [
+    "GBA2"
+  ],
+  "WBGene00013671": [
+    "BOLA3"
+  ],
+  "WBGene00013676": [
+    "DMAP1"
+  ],
+  "WBGene00013678": [
+    "MARS2"
+  ],
+  "WBGene00013680": [
+    "POLRMT"
+  ],
+  "WBGene00013687": [
+    "EXOC8"
+  ],
+  "WBGene00013688": [
+    "RIOK2"
+  ],
+  "WBGene00013693": [
+    "GUSB"
+  ],
+  "WBGene00013708": [
+    "MTHFS"
+  ],
+  "WBGene00013718": [
+    "PDPR"
+  ],
+  "WBGene00013720": [
+    "TMEM256"
+  ],
+  "WBGene00013724": [
+    "OSTF1"
+  ],
+  "WBGene00013725": [
+    "SKA1"
+  ],
+  "WBGene00013730": [
+    "TRIP11"
+  ],
+  "WBGene00013732": [
+    "PRKAG1"
+  ],
+  "WBGene00013735": [
+    "AAMP"
+  ],
+  "WBGene00013736": [
+    "GTF2A2"
+  ],
+  "WBGene00013737": [
+    "TPST2"
+  ],
+  "WBGene00013738": [
+    "ELP2"
+  ],
+  "WBGene00013739": [
+    "SPNS2"
+  ],
+  "WBGene00013740": [
+    "SLC35B1"
+  ],
+  "WBGene00013765": [
+    "CDK5RAP3"
+  ],
+  "WBGene00013766": [
+    "PRMT1"
+  ],
+  "WBGene00013768": [
+    "GINS4"
+  ],
+  "WBGene00013790": [
+    "RABL3"
+  ],
+  "WBGene00013803": [
+    "SNX13"
+  ],
+  "WBGene00013804": [
+    "ATPAF2"
+  ],
+  "WBGene00013807": [
+    "NDUFAF2"
+  ],
+  "WBGene00013808": [
+    "SF1"
+  ],
+  "WBGene00013855": [
+    "CUBN"
+  ],
+  "WBGene00013857": [
+    "ORC5"
+  ],
+  "WBGene00013870": [
+    "APIP"
+  ],
+  "WBGene00013877": [
+    "INTS2"
+  ],
+  "WBGene00013880": [
+    "PMPCB"
+  ],
+  "WBGene00013892": [
+    "RRP7A"
+  ],
+  "WBGene00013919": [
+    "EDEM3"
+  ],
+  "WBGene00013925": [
+    "COA7"
+  ],
+  "WBGene00013955": [
+    "KRIT1"
+  ],
+  "WBGene00013958": [
+    "NOP16"
+  ],
+  "WBGene00013963": [
+    "SLC26A5"
+  ],
+  "WBGene00013967": [
+    "RPUSD3"
+  ],
+  "WBGene00013969": [
+    "CD109"
+  ],
+  "WBGene00013971": [
+    "R3HDML"
+  ],
+  "WBGene00013972": [
+    "PI15"
+  ],
+  "WBGene00013974": [
+    "GALR1"
+  ],
+  "WBGene00013983": [
+    "DDX55"
+  ],
+  "WBGene00013984": [
+    "SRP9"
+  ],
+  "WBGene00013998": [
+    "GTF2E1"
+  ],
+  "WBGene00014001": [
+    "PKM"
+  ],
+  "WBGene00014004": [
+    "FICD"
+  ],
+  "WBGene00014011": [
+    "SLC4A1AP"
+  ],
+  "WBGene00014012": [
+    "RIOK3"
+  ],
+  "WBGene00014013": [
+    "MPI"
+  ],
+  "WBGene00014015": [
+    "PAN3"
+  ],
+  "WBGene00014019": [
+    "PLEKHF2"
+  ],
+  "WBGene00014020": [
+    "RPP25L"
+  ],
+  "WBGene00014021": [
+    "SVOP"
+  ],
+  "WBGene00014022": [
+    "TIMCC"
+  ],
+  "WBGene00014023": [
+    "ITFG1"
+  ],
+  "WBGene00014025": [
+    "GET3"
+  ],
+  "WBGene00014027": [
+    "TPK1"
+  ],
+  "WBGene00014028": [
+    "TXNRD2"
+  ],
+  "WBGene00014034": [
+    "DCTD"
+  ],
+  "WBGene00014051": [
+    "GMIP"
+  ],
+  "WBGene00014054": [
+    "DBT"
+  ],
+  "WBGene00014058": [
+    "AK3"
+  ],
+  "WBGene00014066": [
+    "REV1"
+  ],
+  "WBGene00014078": [
+    "NOP9"
+  ],
+  "WBGene00014080": [
+    "ATG4D"
+  ],
+  "WBGene00014081": [
+    "IPMK"
+  ],
+  "WBGene00014083": [
+    "IMP4"
+  ],
+  "WBGene00014095": [
+    "GLUD1"
+  ],
+  "WBGene00014101": [
+    "GOPC"
+  ],
+  "WBGene00014106": [
+    "SMPDL3B"
+  ],
+  "WBGene00014111": [
+    "POLR3H"
+  ],
+  "WBGene00014112": [
+    "EIF1AD"
+  ],
+  "WBGene00014114": [
+    "GTF3C3"
+  ],
+  "WBGene00014119": [
+    "TM9SF4"
+  ],
+  "WBGene00014120": [
+    "TRMT6"
+  ],
+  "WBGene00014123": [
+    "ELP3"
+  ],
+  "WBGene00014139": [
+    "SLC35A2"
+  ],
+  "WBGene00014151": [
+    "PIK3R4"
+  ],
+  "WBGene00014152": [
+    "ZC4H2"
+  ],
+  "WBGene00014153": [
+    "ZC4H2"
+  ],
+  "WBGene00014165": [
+    "PUM3"
+  ],
+  "WBGene00014172": [
+    "CLPP"
+  ],
+  "WBGene00014174": [
+    "RABIF"
+  ],
+  "WBGene00014176": [
+    "RMND1"
+  ],
+  "WBGene00014202": [
+    "MMUT"
+  ],
+  "WBGene00014203": [
+    "GALT"
+  ],
+  "WBGene00014204": [
+    "CCDC47"
+  ],
+  "WBGene00014205": [
+    "METTL6"
+  ],
+  "WBGene00014208": [
+    "ZNFX1"
+  ],
+  "WBGene00014210": [
+    "TMEM151B"
+  ],
+  "WBGene00014215": [
+    "OSBPL8"
+  ],
+  "WBGene00014221": [
+    "EIF2B1"
+  ],
+  "WBGene00014226": [
+    "NATD1"
+  ],
+  "WBGene00014227": [
+    "NDUFAF7"
+  ],
+  "WBGene00014228": [
+    "METTL16"
+  ],
+  "WBGene00014230": [
+    "GTF2H3"
+  ],
+  "WBGene00014232": [
+    "TTLL4"
+  ],
+  "WBGene00014234": [
+    "VPS29"
+  ],
+  "WBGene00014243": [
+    "DCAF1"
+  ],
+  "WBGene00014249": [
+    "PRKCSH"
+  ],
+  "WBGene00014250": [
+    "YJU2B"
+  ],
+  "WBGene00014256": [
+    "GPANK1"
+  ],
+  "WBGene00014848": [
+    "KCTD12"
+  ],
+  "WBGene00014965": [
+    "IGHMBP2"
+  ],
+  "WBGene00014989": [
+    "BEST2"
+  ],
+  "WBGene00015001": [
+    "MEAF6"
+  ],
+  "WBGene00015008": [
+    "LYSMD2"
+  ],
+  "WBGene00015009": [
+    "SLC35F5"
+  ],
+  "WBGene00015010": [
+    "PTS"
+  ],
+  "WBGene00015021": [
+    "NFS1"
+  ],
+  "WBGene00015025": [
+    "MRPL9"
+  ],
+  "WBGene00015028": [
+    "FLG"
+  ],
+  "WBGene00015029": [
+    "GPN2"
+  ],
+  "WBGene00015064": [
+    "MTAP"
+  ],
+  "WBGene00015074": [
+    "NAA30"
+  ],
+  "WBGene00015091": [
+    "BDP1"
+  ],
+  "WBGene00015092": [
+    "MRPL47"
+  ],
+  "WBGene00015099": [
+    "RABGGTB"
+  ],
+  "WBGene00015101": [
+    "RPIA"
+  ],
+  "WBGene00015104": [
+    "UTP18"
+  ],
+  "WBGene00015116": [
+    "PAICS"
+  ],
+  "WBGene00015125": [
+    "HADHB"
+  ],
+  "WBGene00015126": [
+    "TMUB1"
+  ],
+  "WBGene00015128": [
+    "SH3D19"
+  ],
+  "WBGene00015130": [
+    "VPS33A"
+  ],
+  "WBGene00015133": [
+    "MRPL11"
+  ],
+  "WBGene00015135": [
+    "CYP2D6"
+  ],
+  "WBGene00015148": [
+    "MOSPD2"
+  ],
+  "WBGene00015156": [
+    "CWF19L2"
+  ],
+  "WBGene00015159": [
+    "PISD"
+  ],
+  "WBGene00015160": [
+    "SPOUT1"
+  ],
+  "WBGene00015162": [
+    "ALG11"
+  ],
+  "WBGene00015164": [
+    "YKT6"
+  ],
+  "WBGene00015168": [
+    "PDIA6"
+  ],
+  "WBGene00015173": [
+    "TRAPPC11"
+  ],
+  "WBGene00015176": [
+    "VPS51"
+  ],
+  "WBGene00015186": [
+    "SLC25A11"
+  ],
+  "WBGene00015188": [
+    "RPL13P8"
+  ],
+  "WBGene00015189": [
+    "TATDN3"
+  ],
+  "WBGene00015190": [
+    "MBLAC1"
+  ],
+  "WBGene00015204": [
+    "SPATA20"
+  ],
+  "WBGene00015206": [
+    "ERMP1"
+  ],
+  "WBGene00015207": [
+    "LUC7L"
+  ],
+  "WBGene00015217": [
+    "TES"
+  ],
+  "WBGene00015219": [
+    "BROX"
+  ],
+  "WBGene00015232": [
+    "DDX18"
+  ],
+  "WBGene00015238": [
+    "MPPE1"
+  ],
+  "WBGene00015249": [
+    "OTUD5"
+  ],
+  "WBGene00015266": [
+    "PNPT1"
+  ],
+  "WBGene00015268": [
+    "FBXO10"
+  ],
+  "WBGene00015282": [
+    "METTL13"
+  ],
+  "WBGene00015296": [
+    "GTF2F1"
+  ],
+  "WBGene00015297": [
+    "SCO1"
+  ],
+  "WBGene00015301": [
+    "ANKRD13C"
+  ],
+  "WBGene00015303": [
+    "ARHGAP6"
+  ],
+  "WBGene00015310": [
+    "FAN1"
+  ],
+  "WBGene00015326": [
+    "IVD"
+  ],
+  "WBGene00015327": [
+    "SNAPIN"
+  ],
+  "WBGene00015334": [
+    "IYD"
+  ],
+  "WBGene00015344": [
+    "NOMO3"
+  ],
+  "WBGene00015346": [
+    "DRG2"
+  ],
+  "WBGene00015349": [
+    "HENMT1"
+  ],
+  "WBGene00015350": [
+    "FBXL20"
+  ],
+  "WBGene00015353": [
+    "TM2D2"
+  ],
+  "WBGene00015356": [
+    "FAM184A"
+  ],
+  "WBGene00015376": [
+    "STK25"
+  ],
+  "WBGene00015389": [
+    "CD36"
+  ],
+  "WBGene00015391": [
+    "SDHA"
+  ],
+  "WBGene00015410": [
+    "GRTP1"
+  ],
+  "WBGene00015413": [
+    "PDHB"
+  ],
+  "WBGene00015454": [
+    "PRRC1"
+  ],
+  "WBGene00015461": [
+    "KRR1"
+  ],
+  "WBGene00015462": [
+    "REXO5"
+  ],
+  "WBGene00015470": [
+    "WDR37"
+  ],
+  "WBGene00015478": [
+    "MAPK15"
+  ],
+  "WBGene00015483": [
+    "HYI"
+  ],
+  "WBGene00015484": [
+    "PNPLA2"
+  ],
+  "WBGene00015486": [
+    "POP1"
+  ],
+  "WBGene00015487": [
+    "MRPS17"
+  ],
+  "WBGene00015492": [
+    "LNPK"
+  ],
+  "WBGene00015499": [
+    "INTS1"
+  ],
+  "WBGene00015508": [
+    "MVB12B"
+  ],
+  "WBGene00015512": [
+    "MTHFR"
+  ],
+  "WBGene00015525": [
+    "DHX37"
+  ],
+  "WBGene00015538": [
+    "MAT2A"
+  ],
+  "WBGene00015551": [
+    "ADA"
+  ],
+  "WBGene00015555": [
+    "UFL1"
+  ],
+  "WBGene00015561": [
+    "TOM1"
+  ],
+  "WBGene00015581": [
+    "U2SURP"
+  ],
+  "WBGene00015658": [
+    "TSG101"
+  ],
+  "WBGene00015678": [
+    "GDPGP1"
+  ],
+  "WBGene00015680": [
+    "EXD1"
+  ],
+  "WBGene00015691": [
+    "SVIL"
+  ],
+  "WBGene00015697": [
+    "MLST8"
+  ],
+  "WBGene00015702": [
+    "QNG1"
+  ],
+  "WBGene00015733": [
+    "GLYCTK-AS1"
+  ],
+  "WBGene00015734": [
+    "ARCN1"
+  ],
+  "WBGene00015742": [
+    "KXD1"
+  ],
+  "WBGene00015743": [
+    "HEATR5B"
+  ],
+  "WBGene00015744": [
+    "SAYSD1"
+  ],
+  "WBGene00015746": [
+    "SREK1IP1"
+  ],
+  "WBGene00015752": [
+    "PDIA4"
+  ],
+  "WBGene00015754": [
+    "PHKA2"
+  ],
+  "WBGene00015778": [
+    "GOT2"
+  ],
+  "WBGene00015793": [
+    "POFUT1"
+  ],
+  "WBGene00015801": [
+    "GPR107"
+  ],
+  "WBGene00015802": [
+    "KYNU"
+  ],
+  "WBGene00015806": [
+    "SMARCAL1"
+  ],
+  "WBGene00015809": [
+    "ZNF622"
+  ],
+  "WBGene00015810": [
+    "NDUFB9"
+  ],
+  "WBGene00015811": [
+    "MAK16"
+  ],
+  "WBGene00015813": [
+    "FERP1"
+  ],
+  "WBGene00015814": [
+    "OAT"
+  ],
+  "WBGene00015861": [
+    "C1GALT1C1"
+  ],
+  "WBGene00015866": [
+    "KIAA0930"
+  ],
+  "WBGene00015915": [
+    "OGFOD1"
+  ],
+  "WBGene00015916": [
+    "TTC4"
+  ],
+  "WBGene00015920": [
+    "EIF3L"
+  ],
+  "WBGene00015926": [
+    "RNF19B"
+  ],
+  "WBGene00015928": [
+    "KIAA2013"
+  ],
+  "WBGene00015939": [
+    "METTL4"
+  ],
+  "WBGene00015941": [
+    "EBNA1BP2"
+  ],
+  "WBGene00015978": [
+    "ANKRD13A"
+  ],
+  "WBGene00016005": [
+    "IFT74"
+  ],
+  "WBGene00016011": [
+    "RIDA"
+  ],
+  "WBGene00016014": [
+    "TRMT44"
+  ],
+  "WBGene00016019": [
+    "ASCC1"
+  ],
+  "WBGene00016020": [
+    "SPTLC1"
+  ],
+  "WBGene00016045": [
+    "SPAST"
+  ],
+  "WBGene00016046": [
+    "BKGD"
+  ],
+  "WBGene00016060": [
+    "MMS19"
+  ],
+  "WBGene00016062": [
+    "PTRH2"
+  ],
+  "WBGene00016073": [
+    "DDX56"
+  ],
+  "WBGene00016074": [
+    "DONSON"
+  ],
+  "WBGene00016103": [
+    "DPYD"
+  ],
+  "WBGene00016113": [
+    "EIF2D"
+  ],
+  "WBGene00016118": [
+    "NDUFB5"
+  ],
+  "WBGene00016120": [
+    "VPS13D"
+  ],
+  "WBGene00016124": [
+    "DCTN4"
+  ],
+  "WBGene00016128": [
+    "ELP4"
+  ],
+  "WBGene00016139": [
+    "CNOT9"
+  ],
+  "WBGene00016140": [
+    "POLR2B"
+  ],
+  "WBGene00016142": [
+    "MRPL3"
+  ],
+  "WBGene00016144": [
+    "MMAB"
+  ],
+  "WBGene00016145": [
+    "GTPBP10"
+  ],
+  "WBGene00016150": [
+    "HINT3"
+  ],
+  "WBGene00016151": [
+    "SMC5"
+  ],
+  "WBGene00016159": [
+    "PIGO"
+  ],
+  "WBGene00016165": [
+    "DYNC2I1"
+  ],
+  "WBGene00016166": [
+    "BUD23"
+  ],
+  "WBGene00016167": [
+    "SNF8"
+  ],
+  "WBGene00016170": [
+    "TMEM131"
+  ],
+  "WBGene00016171": [
+    "PCID2"
+  ],
+  "WBGene00016197": [
+    "LPXN"
+  ],
+  "WBGene00016201": [
+    "TDO2"
+  ],
+  "WBGene00016202": [
+    "NCAPH2"
+  ],
+  "WBGene00016207": [
+    "GALC"
+  ],
+  "WBGene00016235": [
+    "SLC35F6"
+  ],
+  "WBGene00016238": [
+    "MOB4"
+  ],
+  "WBGene00016244": [
+    "LEPROTL1"
+  ],
+  "WBGene00016245": [
+    "RBMX2"
+  ],
+  "WBGene00016249": [
+    "MRPL32"
+  ],
+  "WBGene00016250": [
+    "HSPA4L"
+  ],
+  "WBGene00016258": [
+    "ATP6V0D1"
+  ],
+  "WBGene00016260": [
+    "ZC3H12D"
+  ],
+  "WBGene00016261": [
+    "AFG1L"
+  ],
+  "WBGene00016265": [
+    "TRHR"
+  ],
+  "WBGene00016266": [
+    "IDH3G"
+  ],
+  "WBGene00016278": [
+    "ERP44"
+  ],
+  "WBGene00016292": [
+    "TBC1D24"
+  ],
+  "WBGene00016313": [
+    "KMT5C"
+  ],
+  "WBGene00016314": [
+    "TTC39B"
+  ],
+  "WBGene00016323": [
+    "SNIP1"
+  ],
+  "WBGene00016325": [
+    "ECHDC1"
+  ],
+  "WBGene00016328": [
+    "PDE10A"
+  ],
+  "WBGene00016333": [
+    "GPT"
+  ],
+  "WBGene00016341": [
+    "HEMK2"
+  ],
+  "WBGene00016344": [
+    "RASEF"
+  ],
+  "WBGene00016352": [
+    "TBCK"
+  ],
+  "WBGene00016374": [
+    "WDR82"
+  ],
+  "WBGene00016376": [
+    "EXOC5"
+  ],
+  "WBGene00016383": [
+    "ZGPAT"
+  ],
+  "WBGene00016384": [
+    "CDS1"
+  ],
+  "WBGene00016390": [
+    "TTC1"
+  ],
+  "WBGene00016391": [
+    "LONP1"
+  ],
+  "WBGene00016393": [
+    "NDUFA13"
+  ],
+  "WBGene00016395": [
+    "SPCS1"
+  ],
+  "WBGene00016405": [
+    "HECTD1"
+  ],
+  "WBGene00016408": [
+    "PRMT5"
+  ],
+  "WBGene00016411": [
+    "UTP23"
+  ],
+  "WBGene00016412": [
+    "MRPS26"
+  ],
+  "WBGene00016415": [
+    "AMPD2"
+  ],
+  "WBGene00016427": [
+    "ATMIN"
+  ],
+  "WBGene00016438": [
+    "TCAIM"
+  ],
+  "WBGene00016439": [
+    "EMC7"
+  ],
+  "WBGene00016442": [
+    "UQCC1"
+  ],
+  "WBGene00016452": [
+    "CMC2"
+  ],
+  "WBGene00016469": [
+    "CLPTM1"
+  ],
+  "WBGene00016490": [
+    "ILRUN"
+  ],
+  "WBGene00016492": [
+    "ETFBKMT"
+  ],
+  "WBGene00016500": [
+    "MEMO1"
+  ],
+  "WBGene00016504": [
+    "PTTG1IP"
+  ],
+  "WBGene00016508": [
+    "NOC3L"
+  ],
+  "WBGene00016524": [
+    "GATB"
+  ],
+  "WBGene00016539": [
+    "TRIM67"
+  ],
+  "WBGene00016540": [
+    "BTBD7"
+  ],
+  "WBGene00016562": [
+    "CSRNP1"
+  ],
+  "WBGene00016567": [
+    "TM2D3"
+  ],
+  "WBGene00016582": [
+    "VPS8"
+  ],
+  "WBGene00016583": [
+    "GMPPB"
+  ],
+  "WBGene00016588": [
+    "SLC25A19"
+  ],
+  "WBGene00016592": [
+    "ERLIN2"
+  ],
+  "WBGene00016600": [
+    "FEV"
+  ],
+  "WBGene00016601": [
+    "ACIN1"
+  ],
+  "WBGene00016602": [
+    "MUS81"
+  ],
+  "WBGene00016606": [
+    "EXOC7"
+  ],
+  "WBGene00016607": [
+    "NIP7"
+  ],
+  "WBGene00016610": [
+    "ADIPOR1"
+  ],
+  "WBGene00016614": [
+    "TRAPPC12"
+  ],
+  "WBGene00016616": [
+    "MTPN"
+  ],
+  "WBGene00016620": [
+    "ZDHHC16"
+  ],
+  "WBGene00016621": [
+    "ZBTB8OS"
+  ],
+  "WBGene00016622": [
+    "MAF1"
+  ],
+  "WBGene00016623": [
+    "PSMD9"
+  ],
+  "WBGene00016624": [
+    "HNRNPL"
+  ],
+  "WBGene00016626": [
+    "CALHM2"
+  ],
+  "WBGene00016629": [
+    "GGCT"
+  ],
+  "WBGene00016632": [
+    "MAPDA"
+  ],
+  "WBGene00016633": [
+    "FAIM"
+  ],
+  "WBGene00016642": [
+    "CHID1"
+  ],
+  "WBGene00016643": [
+    "VPS45"
+  ],
+  "WBGene00016650": [
+    "UBR4"
+  ],
+  "WBGene00016653": [
+    "SSB"
+  ],
+  "WBGene00016654": [
+    "NUDCD1"
+  ],
+  "WBGene00016655": [
+    "DBI"
+  ],
+  "WBGene00016678": [
+    "TAX1BP3"
+  ],
+  "WBGene00016704": [
+    "LIPE"
+  ],
+  "WBGene00016716": [
+    "ACSL4"
+  ],
+  "WBGene00016735": [
+    "FHOD1"
+  ],
+  "WBGene00016740": [
+    "IMP3"
+  ],
+  "WBGene00016744": [
+    "BBS9"
+  ],
+  "WBGene00016750": [
+    "POLR3C"
+  ],
+  "WBGene00016751": [
+    "CSPG4"
+  ],
+  "WBGene00016761": [
+    "TACR3"
+  ],
+  "WBGene00016764": [
+    "OXLD1"
+  ],
+  "WBGene00016790": [
+    "LLPH"
+  ],
+  "WBGene00016792": [
+    "CTTNBP2NL"
+  ],
+  "WBGene00016793": [
+    "ACTR10"
+  ],
+  "WBGene00016806": [
+    "SLC7A4"
+  ],
+  "WBGene00016808": [
+    "SF3B6"
+  ],
+  "WBGene00016810": [
+    "ADPGK"
+  ],
+  "WBGene00016811": [
+    "LUC7L3"
+  ],
+  "WBGene00016812": [
+    "MCAT"
+  ],
+  "WBGene00016837": [
+    "XAB2"
+  ],
+  "WBGene00016844": [
+    "SUCLG2"
+  ],
+  "WBGene00016867": [
+    "TMEM87B"
+  ],
+  "WBGene00016888": [
+    "ZNF598"
+  ],
+  "WBGene00016890": [
+    "ZNF391"
+  ],
+  "WBGene00016902": [
+    "DIPK1C"
+  ],
+  "WBGene00016907": [
+    "LSG1"
+  ],
+  "WBGene00016913": [
+    "LAMC1"
+  ],
+  "WBGene00016920": [
+    "MIOX"
+  ],
+  "WBGene00016935": [
+    "WDR35"
+  ],
+  "WBGene00016939": [
+    "GK5"
+  ],
+  "WBGene00016944": [
+    "URI1"
+  ],
+  "WBGene00016960": [
+    "VPS33B"
+  ],
+  "WBGene00016964": [
+    "TRAPPC13"
+  ],
+  "WBGene00016965": [
+    "SDF4"
+  ],
+  "WBGene00016973": [
+    "ABCG5"
+  ],
+  "WBGene00016981": [
+    "ADRM1"
+  ],
+  "WBGene00016983": [
+    "NAA80"
+  ],
+  "WBGene00016990": [
+    "VPS37C"
+  ],
+  "WBGene00016992": [
+    "ZNHIT1"
+  ],
+  "WBGene00016995": [
+    "ACLY"
+  ],
+  "WBGene00017004": [
+    "SCAF4"
+  ],
+  "WBGene00017010": [
+    "TMEM94"
+  ],
+  "WBGene00017013": [
+    "ANGPTL3"
+  ],
+  "WBGene00017025": [
+    "SON"
+  ],
+  "WBGene00017044": [
+    "MRPL18"
+  ],
+  "WBGene00017045": [
+    "ATG13"
+  ],
+  "WBGene00017062": [
+    "GLRX3"
+  ],
+  "WBGene00017064": [
+    "PPP4R2"
+  ],
+  "WBGene00017066": [
+    "MACO1"
+  ],
+  "WBGene00017070": [
+    "ARL6IP5"
+  ],
+  "WBGene00017084": [
+    "GCLM"
+  ],
+  "WBGene00017085": [
+    "SRRT"
+  ],
+  "WBGene00017088": [
+    "AKIRIN2"
+  ],
+  "WBGene00017124": [
+    "PLD5"
+  ],
+  "WBGene00017125": [
+    "ACADVL"
+  ],
+  "WBGene00017136": [
+    "AGBL4"
+  ],
+  "WBGene00017137": [
+    "PINK1"
+  ],
+  "WBGene00017138": [
+    "FBXL13"
+  ],
+  "WBGene00017144": [
+    "BRAP"
+  ],
+  "WBGene00017158": [
+    "LENG8"
+  ],
+  "WBGene00017159": [
+    "CMC1"
+  ],
+  "WBGene00017161": [
+    "RABEP1"
+  ],
+  "WBGene00017162": [
+    "DDX23"
+  ],
+  "WBGene00017163": [
+    "DNPEP"
+  ],
+  "WBGene00017164": [
+    "ENGASE"
+  ],
+  "WBGene00017178": [
+    "ATG16L1"
+  ],
+  "WBGene00017195": [
+    "RPGR"
+  ],
+  "WBGene00017210": [
+    "ZCCHC9"
+  ],
+  "WBGene00017237": [
+    "POLE2"
+  ],
+  "WBGene00017238": [
+    "SNRPC"
+  ],
+  "WBGene00017240": [
+    "RCN2"
+  ],
+  "WBGene00017244": [
+    "CANT1"
+  ],
+  "WBGene00017245": [
+    "SRP72"
+  ],
+  "WBGene00017261": [
+    "GPAT2"
+  ],
+  "WBGene00017268": [
+    "HMGCR"
+  ],
+  "WBGene00017273": [
+    "GOSR1"
+  ],
+  "WBGene00017280": [
+    "USP39"
+  ],
+  "WBGene00017282": [
+    "ALG2"
+  ],
+  "WBGene00017283": [
+    "DERA"
+  ],
+  "WBGene00017284": [
+    "EXOC3"
+  ],
+  "WBGene00017286": [
+    "PLPBP"
+  ],
+  "WBGene00017289": [
+    "VMA12"
+  ],
+  "WBGene00017293": [
+    "MESD"
+  ],
+  "WBGene00017300": [
+    "POLR3B"
+  ],
+  "WBGene00017301": [
+    "HIBCH"
+  ],
+  "WBGene00017304": [
+    "ALKBH4"
+  ],
+  "WBGene00017311": [
+    "CNPPD1"
+  ],
+  "WBGene00017312": [
+    "SLC20A1"
+  ],
+  "WBGene00017313": [
+    "CPSF2"
+  ],
+  "WBGene00017316": [
+    "PLD3"
+  ],
+  "WBGene00017319": [
+    "MRPS9"
+  ],
+  "WBGene00017326": [
+    "DMRTA2"
+  ],
+  "WBGene00017339": [
+    "SLC75A1"
+  ],
+  "WBGene00017342": [
+    "NEURL1B"
+  ],
+  "WBGene00017347": [
+    "MRTO4"
+  ],
+  "WBGene00017350": [
+    "SLC12A8"
+  ],
+  "WBGene00017357": [
+    "GEMIN8"
+  ],
+  "WBGene00017360": [
+    "CCDC59"
+  ],
+  "WBGene00017373": [
+    "UBR3"
+  ],
+  "WBGene00017430": [
+    "ZNF296"
+  ],
+  "WBGene00017435": [
+    "WDR3"
+  ],
+  "WBGene00017440": [
+    "UPB1"
+  ],
+  "WBGene00017442": [
+    "SCLY"
+  ],
+  "WBGene00017480": [
+    "SLC35B4"
+  ],
+  "WBGene00017534": [
+    "CWF19L1"
+  ],
+  "WBGene00017546": [
+    "RPA1"
+  ],
+  "WBGene00017547": [
+    "C9orf72"
+  ],
+  "WBGene00017557": [
+    "ECE1"
+  ],
+  "WBGene00017574": [
+    "PXMP4"
+  ],
+  "WBGene00017605": [
+    "SART1"
+  ],
+  "WBGene00017608": [
+    "INTS9"
+  ],
+  "WBGene00017640": [
+    "AIFM3"
+  ],
+  "WBGene00017642": [
+    "MCM3AP"
+  ],
+  "WBGene00017643": [
+    "ZW10"
+  ],
+  "WBGene00017674": [
+    "C18orf63"
+  ],
+  "WBGene00017676": [
+    "TMEM134"
+  ],
+  "WBGene00017683": [
+    "RBBP5"
+  ],
+  "WBGene00017686": [
+    "TPP2"
+  ],
+  "WBGene00017687": [
+    "SPDEF"
+  ],
+  "WBGene00017702": [
+    "MALT1"
+  ],
+  "WBGene00017733": [
+    "UBXN1"
+  ],
+  "WBGene00017734": [
+    "ETFB"
+  ],
+  "WBGene00017735": [
+    "CHMP1B"
+  ],
+  "WBGene00017738": [
+    "TIPIN"
+  ],
+  "WBGene00017742": [
+    "NFYC"
+  ],
+  "WBGene00017746": [
+    "SNUPN"
+  ],
+  "WBGene00017747": [
+    "SLC7A4"
+  ],
+  "WBGene00017759": [
+    "SUCLG1"
+  ],
+  "WBGene00017763": [
+    "CRLS1"
+  ],
+  "WBGene00017765": [
+    "AMT"
+  ],
+  "WBGene00017768": [
+    "LOC124903416"
+  ],
+  "WBGene00017776": [
+    "CDK5RAP1"
+  ],
+  "WBGene00017777": [
+    "FPGS"
+  ],
+  "WBGene00017778": [
+    "SFPQ"
+  ],
+  "WBGene00017797": [
+    "SYMPK"
+  ],
+  "WBGene00017799": [
+    "SRP14"
+  ],
+  "WBGene00017816": [
+    "HNRNPK"
+  ],
+  "WBGene00017818": [
+    "IDNK"
+  ],
+  "WBGene00017825": [
+    "GET4"
+  ],
+  "WBGene00017826": [
+    "STARD3NL"
+  ],
+  "WBGene00017830": [
+    "POLR2H"
+  ],
+  "WBGene00017831": [
+    "ANKRD49"
+  ],
+  "WBGene00017837": [
+    "VPS35L"
+  ],
+  "WBGene00017860": [
+    "DCDC2C"
+  ],
+  "WBGene00017864": [
+    "PCCA"
+  ],
+  "WBGene00017866": [
+    "SNTG2"
+  ],
+  "WBGene00017874": [
+    "ACAD8"
+  ],
+  "WBGene00017888": [
+    "AGPAT5"
+  ],
+  "WBGene00017914": [
+    "CNRIP1"
+  ],
+  "WBGene00017916": [
+    "MPHOSPH6"
+  ],
+  "WBGene00017919": [
+    "EEF1AKMT2"
+  ],
+  "WBGene00017924": [
+    "MRPS21"
+  ],
+  "WBGene00017928": [
+    "CTU1"
+  ],
+  "WBGene00017929": [
+    "RBM15"
+  ],
+  "WBGene00017950": [
+    "RSKR"
+  ],
+  "WBGene00017951": [
+    "PAN2"
+  ],
+  "WBGene00017967": [
+    "TADA2B"
+  ],
+  "WBGene00017973": [
+    "IFT81"
+  ],
+  "WBGene00017974": [
+    "VPS41"
+  ],
+  "WBGene00017981": [
+    "FIGNL1"
+  ],
+  "WBGene00017983": [
+    "TMTC2"
+  ],
+  "WBGene00017984": [
+    "GMPR"
+  ],
+  "WBGene00017988": [
+    "FIP1L1"
+  ],
+  "WBGene00017989": [
+    "NOL10"
+  ],
+  "WBGene00017997": [
+    "MRPL1"
+  ],
+  "WBGene00017999": [
+    "EMC6"
+  ],
+  "WBGene00018006": [
+    "GPAA1"
+  ],
+  "WBGene00018009": [
+    "ZDHHC7"
+  ],
+  "WBGene00018011": [
+    "PPP1R21"
+  ],
+  "WBGene00018013": [
+    "PHF10"
+  ],
+  "WBGene00018014": [
+    "WDR83OS"
+  ],
+  "WBGene00018015": [
+    "C7orf25"
+  ],
+  "WBGene00018016": [
+    "LRR1"
+  ],
+  "WBGene00018017": [
+    "GOLGA2"
+  ],
+  "WBGene00018036": [
+    "CH25H"
+  ],
+  "WBGene00018037": [
+    "SLC44A2"
+  ],
+  "WBGene00018042": [
+    "TMEM67"
+  ],
+  "WBGene00018044": [
+    "TMCO4"
+  ],
+  "WBGene00018046": [
+    "COA3"
+  ],
+  "WBGene00018064": [
+    "CDC73"
+  ],
+  "WBGene00018071": [
+    "UXT"
+  ],
+  "WBGene00018072": [
+    "NPRL3"
+  ],
+  "WBGene00018076": [
+    "PI4KB"
+  ],
+  "WBGene00018088": [
+    "TRAPPC4"
+  ],
+  "WBGene00018090": [
+    "DESI2"
+  ],
+  "WBGene00018132": [
+    "PRKRIP1"
+  ],
+  "WBGene00018146": [
+    "PYROXD2"
+  ],
+  "WBGene00018149": [
+    "YJU2"
+  ],
+  "WBGene00018150": [
+    "EI24"
+  ],
+  "WBGene00018154": [
+    "EXOSC9"
+  ],
+  "WBGene00018156": [
+    "NCBP1"
+  ],
+  "WBGene00018159": [
+    "SRP19"
+  ],
+  "WBGene00018160": [
+    "UFSP2"
+  ],
+  "WBGene00018161": [
+    "TRABD"
+  ],
+  "WBGene00018174": [
+    "GART"
+  ],
+  "WBGene00018175": [
+    "TMTC4"
+  ],
+  "WBGene00018181": [
+    "MPDU1"
+  ],
+  "WBGene00018213": [
+    "WDR54"
+  ],
+  "WBGene00018215": [
+    "MDGA1"
+  ],
+  "WBGene00018226": [
+    "TMPPE"
+  ],
+  "WBGene00018238": [
+    "NAA50"
+  ],
+  "WBGene00018239": [
+    "BNIP1"
+  ],
+  "WBGene00018240": [
+    "COX17"
+  ],
+  "WBGene00018271": [
+    "CTSA"
+  ],
+  "WBGene00018281": [
+    "SGSM3"
+  ],
+  "WBGene00018286": [
+    "HAO1"
+  ],
+  "WBGene00018290": [
+    "CHMP5"
+  ],
+  "WBGene00018294": [
+    "WIPI1"
+  ],
+  "WBGene00018304": [
+    "AGRN"
+  ],
+  "WBGene00018305": [
+    "EXOSC8"
+  ],
+  "WBGene00018307": [
+    "DNALI1"
+  ],
+  "WBGene00018317": [
+    "GRIPAP1"
+  ],
+  "WBGene00018318": [
+    "TLCD1"
+  ],
+  "WBGene00018319": [
+    "HDAC6"
+  ],
+  "WBGene00018339": [
+    "ABCF3"
+  ],
+  "WBGene00018357": [
+    "MOCS3"
+  ],
+  "WBGene00018361": [
+    "NDUFB11"
+  ],
+  "WBGene00018362": [
+    "PPM1G"
+  ],
+  "WBGene00018364": [
+    "DAGLB"
+  ],
+  "WBGene00018367": [
+    "LASP1"
+  ],
+  "WBGene00018371": [
+    "TSSK2"
+  ],
+  "WBGene00018373": [
+    "PPP2R3A"
+  ],
+  "WBGene00018391": [
+    "POLR2D"
+  ],
+  "WBGene00018392": [
+    "INSC"
+  ],
+  "WBGene00018393": [
+    "MSRA"
+  ],
+  "WBGene00018398": [
+    "SPTLC2"
+  ],
+  "WBGene00018405": [
+    "MIF4GD"
+  ],
+  "WBGene00018408": [
+    "AUP1"
+  ],
+  "WBGene00018409": [
+    "RFC5"
+  ],
+  "WBGene00018419": [
+    "MSRB2"
+  ],
+  "WBGene00018423": [
+    "MLEC"
+  ],
+  "WBGene00018431": [
+    "RAB5IF"
+  ],
+  "WBGene00018467": [
+    "PACSIN1"
+  ],
+  "WBGene00018474": [
+    "CTDNEP1"
+  ],
+  "WBGene00018475": [
+    "C1orf53"
+  ],
+  "WBGene00018481": [
+    "HDDC2"
+  ],
+  "WBGene00018491": [
+    "MDH1"
+  ],
+  "WBGene00018508": [
+    "PPIP5K2"
+  ],
+  "WBGene00018512": [
+    "TRAPPC8"
+  ],
+  "WBGene00018513": [
+    "TRMT10C"
+  ],
+  "WBGene00018516": [
+    "GAK"
+  ],
+  "WBGene00018531": [
+    "PTPN5"
+  ],
+  "WBGene00018533": [
+    "QSOX1"
+  ],
+  "WBGene00018568": [
+    "SLCO1A2"
+  ],
+  "WBGene00018593": [
+    "FAM8A1"
+  ],
+  "WBGene00018604": [
+    "UGGT1"
+  ],
+  "WBGene00018609": [
+    "EAPP"
+  ],
+  "WBGene00018611": [
+    "OS9"
+  ],
+  "WBGene00018612": [
+    "DIS3L2"
+  ],
+  "WBGene00018625": [
+    "CDC40"
+  ],
+  "WBGene00018635": [
+    "NPRL2"
+  ],
+  "WBGene00018639": [
+    "TBC1D16"
+  ],
+  "WBGene00018672": [
+    "WDR81"
+  ],
+  "WBGene00018674": [
+    "AGK"
+  ],
+  "WBGene00018678": [
+    "TDP1"
+  ],
+  "WBGene00018679": [
+    "TSR3"
+  ],
+  "WBGene00018680": [
+    "TSEN54"
+  ],
+  "WBGene00018682": [
+    "GANC"
+  ],
+  "WBGene00018701": [
+    "PCCB"
+  ],
+  "WBGene00018703": [
+    "EXOC1"
+  ],
+  "WBGene00018718": [
+    "DHCR24"
+  ],
+  "WBGene00018719": [
+    "C2CD5"
+  ],
+  "WBGene00018721": [
+    "POLH"
+  ],
+  "WBGene00018723": [
+    "DNLZ"
+  ],
+  "WBGene00018734": [
+    "RAP1GAP"
+  ],
+  "WBGene00018735": [
+    "SAMD8"
+  ],
+  "WBGene00018739": [
+    "SLCO5A1"
+  ],
+  "WBGene00018757": [
+    "GID8"
+  ],
+  "WBGene00018762": [
+    "RRP15"
+  ],
+  "WBGene00018769": [
+    "MNAT1"
+  ],
+  "WBGene00018771": [
+    "DUOX1"
+  ],
+  "WBGene00018776": [
+    "DDX46"
+  ],
+  "WBGene00018782": [
+    "CCT3"
+  ],
+  "WBGene00018786": [
+    "HMBOX1"
+  ],
+  "WBGene00018793": [
+    "MRPL40"
+  ],
+  "WBGene00018797": [
+    "SELENOI"
+  ],
+  "WBGene00018798": [
+    "GNRHR"
+  ],
+  "WBGene00018812": [
+    "KANSL3"
+  ],
+  "WBGene00018827": [
+    "SLC35B3"
+  ],
+  "WBGene00018835": [
+    "ABITRAM"
+  ],
+  "WBGene00018837": [
+    "BAIAP3"
+  ],
+  "WBGene00018846": [
+    "EEF1B2"
+  ],
+  "WBGene00018847": [
+    "MARCHF6"
+  ],
+  "WBGene00018849": [
+    "SUPT16H"
+  ],
+  "WBGene00018853": [
+    "SEC22B"
+  ],
+  "WBGene00018860": [
+    "SLC18B1"
+  ],
+  "WBGene00018866": [
+    "NAT10"
+  ],
+  "WBGene00018872": [
+    "TEX2"
+  ],
+  "WBGene00018877": [
+    "MAN2B1"
+  ],
+  "WBGene00018890": [
+    "DDX24"
+  ],
+  "WBGene00018891": [
+    "PWP2"
+  ],
+  "WBGene00018892": [
+    "CIRSR"
+  ],
+  "WBGene00018893": [
+    "WDR12"
+  ],
+  "WBGene00018898": [
+    "MDN1"
+  ],
+  "WBGene00018900": [
+    "KNTC1"
+  ],
+  "WBGene00018932": [
+    "MRPL2"
+  ],
+  "WBGene00018934": [
+    "TIMM21"
+  ],
+  "WBGene00018953": [
+    "BCAS3"
+  ],
+  "WBGene00018955": [
+    "GFER"
+  ],
+  "WBGene00018961": [
+    "MRPS16"
+  ],
+  "WBGene00018967": [
+    "DHX15"
+  ],
+  "WBGene00018986": [
+    "CDO1"
+  ],
+  "WBGene00018996": [
+    "PNPO"
+  ],
+  "WBGene00018998": [
+    "LRRFIP1"
+  ],
+  "WBGene00019005": [
+    "ABT1"
+  ],
+  "WBGene00019006": [
+    "SPART"
+  ],
+  "WBGene00019022": [
+    "ECH1"
+  ],
+  "WBGene00019030": [
+    "FHDC1"
+  ],
+  "WBGene00019060": [
+    "ACOX3"
+  ],
+  "WBGene00019061": [
+    "ATP5F1D"
+  ],
+  "WBGene00019076": [
+    "MRPL24"
+  ],
+  "WBGene00019077": [
+    "SLC39A11"
+  ],
+  "WBGene00019125": [
+    "WASHC3"
+  ],
+  "WBGene00019126": [
+    "BORCS5"
+  ],
+  "WBGene00019128": [
+    "ARMC9"
+  ],
+  "WBGene00019163": [
+    "UBXN6"
+  ],
+  "WBGene00019166": [
+    "ATP8B2"
+  ],
+  "WBGene00019168": [
+    "FTSJ3"
+  ],
+  "WBGene00019196": [
+    "ROGDI"
+  ],
+  "WBGene00019207": [
+    "SLC2A2"
+  ],
+  "WBGene00019209": [
+    "EMC1"
+  ],
+  "WBGene00019217": [
+    "BAZ1A"
+  ],
+  "WBGene00019220": [
+    "PFDN2"
+  ],
+  "WBGene00019221": [
+    "TMEM222"
+  ],
+  "WBGene00019230": [
+    "TTLL11"
+  ],
+  "WBGene00019240": [
+    "ADH5"
+  ],
+  "WBGene00019241": [
+    "TRMT2A"
+  ],
+  "WBGene00019245": [
+    "DDX41"
+  ],
+  "WBGene00019246": [
+    "POLR2E"
+  ],
+  "WBGene00019247": [
+    "GOLGA6L2"
+  ],
+  "WBGene00019255": [
+    "HDHD5"
+  ],
+  "WBGene00019259": [
+    "USP4"
+  ],
+  "WBGene00019264": [
+    "RPP30"
+  ],
+  "WBGene00019273": [
+    "TSC22D1"
+  ],
+  "WBGene00019274": [
+    "OPA3"
+  ],
+  "WBGene00019275": [
+    "POLR1C"
+  ],
+  "WBGene00019276": [
+    "ALG5"
+  ],
+  "WBGene00019277": [
+    "SGCB"
+  ],
+  "WBGene00019280": [
+    "BPHL"
+  ],
+  "WBGene00019284": [
+    "CCDC92"
+  ],
+  "WBGene00019296": [
+    "MCU"
+  ],
+  "WBGene00019298": [
+    "PNP"
+  ],
+  "WBGene00019305": [
+    "SNAP29"
+  ],
+  "WBGene00019322": [
+    "AHCY"
+  ],
+  "WBGene00019323": [
+    "SF3B3"
+  ],
+  "WBGene00019326": [
+    "SLC25A12"
+  ],
+  "WBGene00019329": [
+    "EPHX4"
+  ],
+  "WBGene00019334": [
+    "RECQL"
+  ],
+  "WBGene00019344": [
+    "ZDHHC19"
+  ],
+  "WBGene00019345": [
+    "TMEM135"
+  ],
+  "WBGene00019364": [
+    "B9D1"
+  ],
+  "WBGene00019380": [
+    "MYBBP1A"
+  ],
+  "WBGene00019394": [
+    "ATXN1L"
+  ],
+  "WBGene00019401": [
+    "NDUFA10"
+  ],
+  "WBGene00019402": [
+    "SYF2"
+  ],
+  "WBGene00019403": [
+    "RASSF7"
+  ],
+  "WBGene00019407": [
+    "LECT2"
+  ],
+  "WBGene00019433": [
+    "ACADSB"
+  ],
+  "WBGene00019434": [
+    "WDR47"
+  ],
+  "WBGene00019457": [
+    "ANKZF1"
+  ],
+  "WBGene00019465": [
+    "LPGAT1"
+  ],
+  "WBGene00019467": [
+    "GPATCH3"
+  ],
+  "WBGene00019478": [
+    "TIMP2"
+  ],
+  "WBGene00019481": [
+    "COG6"
+  ],
+  "WBGene00019492": [
+    "MTHFD1"
+  ],
+  "WBGene00019498": [
+    "RPUSD2"
+  ],
+  "WBGene00019503": [
+    "TBCE"
+  ],
+  "WBGene00019504": [
+    "SLC41A1"
+  ],
+  "WBGene00019522": [
+    "HDHD2"
+  ],
+  "WBGene00019536": [
+    "RP2"
+  ],
+  "WBGene00019543": [
+    "EIF3M"
+  ],
+  "WBGene00019544": [
+    "RHOT2"
+  ],
+  "WBGene00019592": [
+    "IVL"
+  ],
+  "WBGene00019595": [
+    "DSCC1"
+  ],
+  "WBGene00019599": [
+    "ACAD10"
+  ],
+  "WBGene00019615": [
+    "VEPH1"
+  ],
+  "WBGene00019620": [
+    "FAH"
+  ],
+  "WBGene00019624": [
+    "RNASET2"
+  ],
+  "WBGene00019627": [
+    "HIRA"
+  ],
+  "WBGene00019656": [
+    "SLC25A10"
+  ],
+  "WBGene00019657": [
+    "LMF2"
+  ],
+  "WBGene00019658": [
+    "BOLA1"
+  ],
+  "WBGene00019664": [
+    "GHITM"
+  ],
+  "WBGene00019673": [
+    "PEPD"
+  ],
+  "WBGene00019677": [
+    "MALSU1"
+  ],
+  "WBGene00019678": [
+    "BRIX1"
+  ],
+  "WBGene00019679": [
+    "SPCS3"
+  ],
+  "WBGene00019693": [
+    "RPN2"
+  ],
+  "WBGene00019698": [
+    "RIOK1"
+  ],
+  "WBGene00019711": [
+    "CTNNBL1"
+  ],
+  "WBGene00019725": [
+    "ALG14"
+  ],
+  "WBGene00019747": [
+    "DDHD1"
+  ],
+  "WBGene00019751": [
+    "VEZF1"
+  ],
+  "WBGene00019762": [
+    "CRNKL1"
+  ],
+  "WBGene00019767": [
+    "RPA2"
+  ],
+  "WBGene00019800": [
+    "SSBP1"
+  ],
+  "WBGene00019806": [
+    "PGAP3"
+  ],
+  "WBGene00019807": [
+    "JKAMP"
+  ],
+  "WBGene00019808": [
+    "BSCL2"
+  ],
+  "WBGene00019813": [
+    "GFUS"
+  ],
+  "WBGene00019819": [
+    "AASS"
+  ],
+  "WBGene00019820": [
+    "PDF"
+  ],
+  "WBGene00019821": [
+    "GTF2H1"
+  ],
+  "WBGene00019822": [
+    "INTS13"
+  ],
+  "WBGene00019823": [
+    "FNTA"
+  ],
+  "WBGene00019828": [
+    "TEKT4"
+  ],
+  "WBGene00019831": [
+    "CCNI"
+  ],
+  "WBGene00019832": [
+    "ARHGEF17"
+  ],
+  "WBGene00019838": [
+    "MRPL58"
+  ],
+  "WBGene00019842": [
+    "CEP97"
+  ],
+  "WBGene00019867": [
+    "AGA"
+  ],
+  "WBGene00019883": [
+    "SETDB1"
+  ],
+  "WBGene00019888": [
+    "KCTD20"
+  ],
+  "WBGene00019890": [
+    "PGM1"
+  ],
+  "WBGene00019898": [
+    "NOSIP"
+  ],
+  "WBGene00019901": [
+    "ITGBL1"
+  ],
+  "WBGene00019915": [
+    "TBC1D10A"
+  ],
+  "WBGene00019935": [
+    "ANKFN1"
+  ],
+  "WBGene00019941": [
+    "PGAM5"
+  ],
+  "WBGene00019953": [
+    "WAPL"
+  ],
+  "WBGene00019959": [
+    "CCDC22"
+  ],
+  "WBGene00019993": [
+    "RNF7"
+  ],
+  "WBGene00019994": [
+    "DCHS1"
+  ],
+  "WBGene00019996": [
+    "OSCP1"
+  ],
+  "WBGene00020012": [
+    "C2CD2"
+  ],
+  "WBGene00020018": [
+    "BLZF1"
+  ],
+  "WBGene00020022": [
+    "GLDC"
+  ],
+  "WBGene00020030": [
+    "KLHL20"
+  ],
+  "WBGene00020031": [
+    "SUCO"
+  ],
+  "WBGene00020038": [
+    "SDF2L1"
+  ],
+  "WBGene00020051": [
+    "MFSD6"
+  ],
+  "WBGene00020068": [
+    "NAA25"
+  ],
+  "WBGene00020086": [
+    "SSTR2"
+  ],
+  "WBGene00020088": [
+    "XPNPEP3"
+  ],
+  "WBGene00020092": [
+    "PCF11"
+  ],
+  "WBGene00020095": [
+    "SMCR8"
+  ],
+  "WBGene00020107": [
+    "PRPS1"
+  ],
+  "WBGene00020109": [
+    "DERL2"
+  ],
+  "WBGene00020110": [
+    "TRAP1"
+  ],
+  "WBGene00020111": [
+    "CRAMP1"
+  ],
+  "WBGene00020112": [
+    "PFDN5"
+  ],
+  "WBGene00020113": [
+    "RPS27AP17"
+  ],
+  "WBGene00020115": [
+    "LPCAT3"
+  ],
+  "WBGene00020130": [
+    "IGSF9"
+  ],
+  "WBGene00020134": [
+    "SAPCD2"
+  ],
+  "WBGene00020139": [
+    "ETNPPL"
+  ],
+  "WBGene00020146": [
+    "GOT1"
+  ],
+  "WBGene00020163": [
+    "EFCAB7"
+  ],
+  "WBGene00020169": [
+    "NCOA4P3"
+  ],
+  "WBGene00020171": [
+    "RRP9"
+  ],
+  "WBGene00020172": [
+    "THOC1"
+  ],
+  "WBGene00020181": [
+    "UQCRB"
+  ],
+  "WBGene00020184": [
+    "UBA5"
+  ],
+  "WBGene00020185": [
+    "PGK1"
+  ],
+  "WBGene00020190": [
+    "GUK1"
+  ],
+  "WBGene00020193": [
+    "SYS1"
+  ],
+  "WBGene00020195": [
+    "ENPP6"
+  ],
+  "WBGene00020196": [
+    "ZC2HC1B"
+  ],
+  "WBGene00020199": [
+    "METTL9"
+  ],
+  "WBGene00020207": [
+    "SLC12A9"
+  ],
+  "WBGene00020216": [
+    "SSR2"
+  ],
+  "WBGene00020230": [
+    "MMEL1"
+  ],
+  "WBGene00020231": [
+    "WDR31"
+  ],
+  "WBGene00020235": [
+    "SHPRH"
+  ],
+  "WBGene00020246": [
+    "CLTA"
+  ],
+  "WBGene00020254": [
+    "NWD2"
+  ],
+  "WBGene00020259": [
+    "WASHC5"
+  ],
+  "WBGene00020263": [
+    "DHX33"
+  ],
+  "WBGene00020269": [
+    "ETF1"
+  ],
+  "WBGene00020273": [
+    "URB1"
+  ],
+  "WBGene00020284": [
+    "DDX20"
+  ],
+  "WBGene00020296": [
+    "RRP8"
+  ],
+  "WBGene00020297": [
+    "GTPBP4"
+  ],
+  "WBGene00020299": [
+    "TMEM203"
+  ],
+  "WBGene00020300": [
+    "SSNA1"
+  ],
+  "WBGene00020322": [
+    "PRADC1"
+  ],
+  "WBGene00020334": [
+    "RB1CC1"
+  ],
+  "WBGene00020375": [
+    "PIGV"
+  ],
+  "WBGene00020382": [
+    "AGXT2"
+  ],
+  "WBGene00020383": [
+    "TIMM44"
+  ],
+  "WBGene00020389": [
+    "WDR43"
+  ],
+  "WBGene00020391": [
+    "CCT7"
+  ],
+  "WBGene00020397": [
+    "PCBD2"
+  ],
+  "WBGene00020398": [
+    "CERK"
+  ],
+  "WBGene00020417": [
+    "NDUFS3"
+  ],
+  "WBGene00020423": [
+    "PRPF19"
+  ],
+  "WBGene00020425": [
+    "STX18"
+  ],
+  "WBGene00020427": [
+    "SAV1"
+  ],
+  "WBGene00020436": [
+    "AMDHD1"
+  ],
+  "WBGene00020437": [
+    "STT3B"
+  ],
+  "WBGene00020441": [
+    "BCAS2"
+  ],
+  "WBGene00020443": [
+    "ESYT2"
+  ],
+  "WBGene00020444": [
+    "CYCSP24"
+  ],
+  "WBGene00020447": [
+    "MOB3B"
+  ],
+  "WBGene00020462": [
+    "ARIH2"
+  ],
+  "WBGene00020490": [
+    "TMC3"
+  ],
+  "WBGene00020498": [
+    "TARBP1"
+  ],
+  "WBGene00020499": [
+    "MRPS18C"
+  ],
+  "WBGene00020507": [
+    "ATP6V1H"
+  ],
+  "WBGene00020509": [
+    "HEXB"
+  ],
+  "WBGene00020511": [
+    "IMMT"
+  ],
+  "WBGene00020530": [
+    "SMTNL2"
+  ],
+  "WBGene00020549": [
+    "NMT2"
+  ],
+  "WBGene00020553": [
+    "TTC17"
+  ],
+  "WBGene00020556": [
+    "PAM"
+  ],
+  "WBGene00020557": [
+    "APRT"
+  ],
+  "WBGene00020572": [
+    "RUNDC1"
+  ],
+  "WBGene00020581": [
+    "EGFLAM"
+  ],
+  "WBGene00020596": [
+    "OGA"
+  ],
+  "WBGene00020600": [
+    "TTC27"
+  ],
+  "WBGene00020601": [
+    "NOC4L"
+  ],
+  "WBGene00020604": [
+    "CIAPIN1"
+  ],
+  "WBGene00020625": [
+    "MRRF"
+  ],
+  "WBGene00020636": [
+    "NDUFS8"
+  ],
+  "WBGene00020647": [
+    "PQBP1"
+  ],
+  "WBGene00020679": [
+    "OGDH"
+  ],
+  "WBGene00020682": [
+    "IMPDH2"
+  ],
+  "WBGene00020683": [
+    "RPN1"
+  ],
+  "WBGene00020687": [
+    "RUVBL2"
+  ],
+  "WBGene00020689": [
+    "NPY1R"
+  ],
+  "WBGene00020696": [
+    "PYGM"
+  ],
+  "WBGene00020705": [
+    "RRP36"
+  ],
+  "WBGene00020706": [
+    "ATG9A"
+  ],
+  "WBGene00020717": [
+    "MRPL4"
+  ],
+  "WBGene00020718": [
+    "MRPS2"
+  ],
+  "WBGene00020719": [
+    "NAA35"
+  ],
+  "WBGene00020721": [
+    "KCTD3"
+  ],
+  "WBGene00020762": [
+    "ZER1"
+  ],
+  "WBGene00020782": [
+    "GSKIP"
+  ],
+  "WBGene00020796": [
+    "MRPL28"
+  ],
+  "WBGene00020812": [
+    "ACADM"
+  ],
+  "WBGene00020822": [
+    "AVL9"
+  ],
+  "WBGene00020823": [
+    "POLE3"
+  ],
+  "WBGene00020825": [
+    "TMEM231"
+  ],
+  "WBGene00020827": [
+    "ZC3H8"
+  ],
+  "WBGene00020831": [
+    "HACL2"
+  ],
+  "WBGene00020842": [
+    "MOCS2"
+  ],
+  "WBGene00020866": [
+    "CHMP3"
+  ],
+  "WBGene00020901": [
+    "COMMD4"
+  ],
+  "WBGene00020902": [
+    "RIOX2"
+  ],
+  "WBGene00020903": [
+    "ASIC2"
+  ],
+  "WBGene00020908": [
+    "MEGF9"
+  ],
+  "WBGene00020909": [
+    "EPHX1"
+  ],
+  "WBGene00020915": [
+    "NOP58"
+  ],
+  "WBGene00020931": [
+    "CYB5A"
+  ],
+  "WBGene00020932": [
+    "DHODH"
+  ],
+  "WBGene00020935": [
+    "FANCI"
+  ],
+  "WBGene00020937": [
+    "SDHAF4"
+  ],
+  "WBGene00020950": [
+    "DLST"
+  ],
+  "WBGene00020952": [
+    "KLHL8"
+  ],
+  "WBGene00020955": [
+    "ANGEL2"
+  ],
+  "WBGene00020962": [
+    "TKFC"
+  ],
+  "WBGene00020964": [
+    "POLQ"
+  ],
+  "WBGene00020970": [
+    "DLGAP1"
+  ],
+  "WBGene00020993": [
+    "MTRF1L"
+  ],
+  "WBGene00020994": [
+    "TPRKB"
+  ],
+  "WBGene00020999": [
+    "ZPR1"
+  ],
+  "WBGene00021004": [
+    "SF3B2"
+  ],
+  "WBGene00021009": [
+    "AFDN"
+  ],
+  "WBGene00021012": [
+    "MELK"
+  ],
+  "WBGene00021021": [
+    "MRPL30"
+  ],
+  "WBGene00021046": [
+    "TRAPPC2"
+  ],
+  "WBGene00021057": [
+    "NAGK"
+  ],
+  "WBGene00021058": [
+    "VPS18"
+  ],
+  "WBGene00021059": [
+    "ATAT1"
+  ],
+  "WBGene00021061": [
+    "POLR3E"
+  ],
+  "WBGene00021063": [
+    "SBDS"
+  ],
+  "WBGene00021073": [
+    "NOP2"
+  ],
+  "WBGene00021074": [
+    "NLE1"
+  ],
+  "WBGene00021088": [
+    "PA2G4"
+  ],
+  "WBGene00021093": [
+    "SIGMAR1"
+  ],
+  "WBGene00021097": [
+    "CDC37"
+  ],
+  "WBGene00021112": [
+    "POLR3F"
+  ],
+  "WBGene00021131": [
+    "MKRN2OS"
+  ],
+  "WBGene00021132": [
+    "NFYB"
+  ],
+  "WBGene00021133": [
+    "TOMM22"
+  ],
+  "WBGene00021159": [
+    "SLC46A3"
+  ],
+  "WBGene00021170": [
+    "ARPC2"
+  ],
+  "WBGene00021185": [
+    "TP53I11"
+  ],
+  "WBGene00021202": [
+    "ECSIT"
+  ],
+  "WBGene00021208": [
+    "LENG1"
+  ],
+  "WBGene00021209": [
+    "RALGAPA2"
+  ],
+  "WBGene00021238": [
+    "RASA1"
+  ],
+  "WBGene00021276": [
+    "UTP15"
+  ],
+  "WBGene00021277": [
+    "DDX10"
+  ],
+  "WBGene00021286": [
+    "TALDO1"
+  ],
+  "WBGene00021290": [
+    "CDSN"
+  ],
+  "WBGene00021292": [
+    "COPB1"
+  ],
+  "WBGene00021295": [
+    "ZRANB2"
+  ],
+  "WBGene00021296": [
+    "ECH1"
+  ],
+  "WBGene00021311": [
+    "THOC5"
+  ],
+  "WBGene00021315": [
+    "ADCK2"
+  ],
+  "WBGene00021320": [
+    "RAPGEF1"
+  ],
+  "WBGene00021327": [
+    "MRPL38"
+  ],
+  "WBGene00021331": [
+    "GLRX"
+  ],
+  "WBGene00021334": [
+    "VPS4B"
+  ],
+  "WBGene00021346": [
+    "TTC5"
+  ],
+  "WBGene00021347": [
+    "POLR2L"
+  ],
+  "WBGene00021349": [
+    "ARL13B"
+  ],
+  "WBGene00021350": [
+    "RPL27A"
+  ],
+  "WBGene00021351": [
+    "EIF2S1"
+  ],
+  "WBGene00021353": [
+    "LRRC24"
+  ],
+  "WBGene00021355": [
+    "DMGDH"
+  ],
+  "WBGene00021365": [
+    "DHX34"
+  ],
+  "WBGene00021367": [
+    "KDSR"
+  ],
+  "WBGene00021369": [
+    "SIAH1"
+  ],
+  "WBGene00021370": [
+    "NAPEPLD"
+  ],
+  "WBGene00021376": [
+    "BORCS6"
+  ],
+  "WBGene00021377": [
+    "DUS3L"
+  ],
+  "WBGene00021392": [
+    "NAA40"
+  ],
+  "WBGene00021394": [
+    "TMEM68"
+  ],
+  "WBGene00021401": [
+    "PRDX6"
+  ],
+  "WBGene00021416": [
+    "B9D2"
+  ],
+  "WBGene00021420": [
+    "SSR3"
+  ],
+  "WBGene00021421": [
+    "TIMMDC1"
+  ],
+  "WBGene00021423": [
+    "GTF3C1"
+  ],
+  "WBGene00021425": [
+    "SPG7"
+  ],
+  "WBGene00021430": [
+    "OPLAH"
+  ],
+  "WBGene00021460": [
+    "ZWILCH"
+  ],
+  "WBGene00021466": [
+    "EIF2S3"
+  ],
+  "WBGene00021467": [
+    "PAAF1"
+  ],
+  "WBGene00021475": [
+    "TBCA"
+  ],
+  "WBGene00021476": [
+    "NSUN4"
+  ],
+  "WBGene00021482": [
+    "WDR26"
+  ],
+  "WBGene00021502": [
+    "CMTR2"
+  ],
+  "WBGene00021506": [
+    "TM9SF3"
+  ],
+  "WBGene00021508": [
+    "QRSL1"
+  ],
+  "WBGene00021515": [
+    "SETMAR"
+  ],
+  "WBGene00021528": [
+    "GABBR1"
+  ],
+  "WBGene00021533": [
+    "LRRC58"
+  ],
+  "WBGene00021534": [
+    "MVK"
+  ],
+  "WBGene00021536": [
+    "GORASP2"
+  ],
+  "WBGene00021538": [
+    "RBSN"
+  ],
+  "WBGene00021544": [
+    "TRUB2"
+  ],
+  "WBGene00021549": [
+    "CD2AP"
+  ],
+  "WBGene00021551": [
+    "EDC4"
+  ],
+  "WBGene00021561": [
+    "LOC105374773"
+  ],
+  "WBGene00021562": [
+    "NDUFS1"
+  ],
+  "WBGene00021563": [
+    "ZFPL1"
+  ],
+  "WBGene00021564": [
+    "L2HGDH"
+  ],
+  "WBGene00021593": [
+    "GRXCR1"
+  ],
+  "WBGene00021595": [
+    "RRP12"
+  ],
+  "WBGene00021628": [
+    "GMPPA"
+  ],
+  "WBGene00021629": [
+    "CTDSPL2"
+  ],
+  "WBGene00021637": [
+    "SLC35H1"
+  ],
+  "WBGene00021638": [
+    "POLR3GL"
+  ],
+  "WBGene00021644": [
+    "GOLPH3"
+  ],
+  "WBGene00021645": [
+    "CPO"
+  ],
+  "WBGene00021655": [
+    "SHQ1"
+  ],
+  "WBGene00021660": [
+    "NOP14"
+  ],
+  "WBGene00021677": [
+    "PGS1"
+  ],
+  "WBGene00021682": [
+    "NAA38"
+  ],
+  "WBGene00021686": [
+    "NSUN2"
+  ],
+  "WBGene00021697": [
+    "GCN1"
+  ],
+  "WBGene00021714": [
+    "CCNH"
+  ],
+  "WBGene00021715": [
+    "DNTTIP2"
+  ],
+  "WBGene00021738": [
+    "RMC1"
+  ],
+  "WBGene00021750": [
+    "ADO"
+  ],
+  "WBGene00021752": [
+    "ERCC2"
+  ],
+  "WBGene00021754": [
+    "NAA15"
+  ],
+  "WBGene00021757": [
+    "TACO1"
+  ],
+  "WBGene00021765": [
+    "SLC38A10"
+  ],
+  "WBGene00021778": [
+    "STUM"
+  ],
+  "WBGene00021783": [
+    "ALKBH1"
+  ],
+  "WBGene00021784": [
+    "COG4"
+  ],
+  "WBGene00021785": [
+    "C1D"
+  ],
+  "WBGene00021789": [
+    "NOL6"
+  ],
+  "WBGene00021800": [
+    "NDUFA9"
+  ],
+  "WBGene00021811": [
+    "RALA"
+  ],
+  "WBGene00021812": [
+    "RNF25"
+  ],
+  "WBGene00021813": [
+    "SARNP"
+  ],
+  "WBGene00021815": [
+    "DMAC2"
+  ],
+  "WBGene00021816": [
+    "ZC3H10"
+  ],
+  "WBGene00021820": [
+    "NIPA2"
+  ],
+  "WBGene00021826": [
+    "TXNL1"
+  ],
+  "WBGene00021827": [
+    "DCTN6"
+  ],
+  "WBGene00021828": [
+    "LRRC47"
+  ],
+  "WBGene00021829": [
+    "MRPL17"
+  ],
+  "WBGene00021830": [
+    "RPF2"
+  ],
+  "WBGene00021831": [
+    "LTN1"
+  ],
+  "WBGene00021839": [
+    "NDUFS5"
+  ],
+  "WBGene00021840": [
+    "PIGN"
+  ],
+  "WBGene00021841": [
+    "ARFRP1"
+  ],
+  "WBGene00021843": [
+    "NOB1"
+  ],
+  "WBGene00021844": [
+    "SEC11C"
+  ],
+  "WBGene00021845": [
+    "POLR2G"
+  ],
+  "WBGene00021847": [
+    "TMEM165"
+  ],
+  "WBGene00021849": [
+    "NDUFA8"
+  ],
+  "WBGene00021854": [
+    "PITPNB"
+  ],
+  "WBGene00021856": [
+    "PPM1D"
+  ],
+  "WBGene00021857": [
+    "EIF5B"
+  ],
+  "WBGene00021867": [
+    "DUSP19"
+  ],
+  "WBGene00021868": [
+    "ATL1"
+  ],
+  "WBGene00021870": [
+    "SLC61A1"
+  ],
+  "WBGene00021882": [
+    "NAPRT"
+  ],
+  "WBGene00021883": [
+    "BCAP31"
+  ],
+  "WBGene00021893": [
+    "NDNF"
+  ],
+  "WBGene00021899": [
+    "GRWD1"
+  ],
+  "WBGene00021900": [
+    "HGH1"
+  ],
+  "WBGene00021901": [
+    "RBM42"
+  ],
+  "WBGene00021904": [
+    "GTF2H5"
+  ],
+  "WBGene00021905": [
+    "HELQ"
+  ],
+  "WBGene00021917": [
+    "NAAA"
+  ],
+  "WBGene00021920": [
+    "MRPS25"
+  ],
+  "WBGene00021922": [
+    "ATG3"
+  ],
+  "WBGene00021923": [
+    "NCKIPSD"
+  ],
+  "WBGene00021925": [
+    "IMMP2L"
+  ],
+  "WBGene00021926": [
+    "MINDY1"
+  ],
+  "WBGene00021927": [
+    "ABHD14B"
+  ],
+  "WBGene00021929": [
+    "DCP1A"
+  ],
+  "WBGene00021931": [
+    "ZNF579"
+  ],
+  "WBGene00021932": [
+    "COX18"
+  ],
+  "WBGene00021934": [
+    "CCT8"
+  ],
+  "WBGene00021935": [
+    "MRPL46"
+  ],
+  "WBGene00021938": [
+    "DDX1"
+  ],
+  "WBGene00021945": [
+    "ANKLE2"
+  ],
+  "WBGene00021952": [
+    "ATP6AP1"
+  ],
+  "WBGene00021960": [
+    "TMEM258"
+  ],
+  "WBGene00021973": [
+    "EMC2"
+  ],
+  "WBGene00021985": [
+    "TMEM259"
+  ],
+  "WBGene00022019": [
+    "ZC3H14"
+  ],
+  "WBGene00022021": [
+    "BMS1"
+  ],
+  "WBGene00022025": [
+    "HTATSF1"
+  ],
+  "WBGene00022027": [
+    "CHMP6"
+  ],
+  "WBGene00022029": [
+    "EIF4A3"
+  ],
+  "WBGene00022031": [
+    "COASY"
+  ],
+  "WBGene00022037": [
+    "ACSL1"
+  ],
+  "WBGene00022042": [
+    "NACA2"
+  ],
+  "WBGene00022043": [
+    "GINS3"
+  ],
+  "WBGene00022044": [
+    "DPM1"
+  ],
+  "WBGene00022045": [
+    "MRPL55"
+  ],
+  "WBGene00022046": [
+    "GAR1"
+  ],
+  "WBGene00022053": [
+    "CISD3"
+  ],
+  "WBGene00022055": [
+    "NAT9"
+  ],
+  "WBGene00022056": [
+    "DHX35"
+  ],
+  "WBGene00022057": [
+    "SAP30BP"
+  ],
+  "WBGene00022059": [
+    "PHKB"
+  ],
+  "WBGene00022069": [
+    "HUWE1"
+  ],
+  "WBGene00022076": [
+    "DDO"
+  ],
+  "WBGene00022078": [
+    "ATG101"
+  ],
+  "WBGene00022087": [
+    "XPO4"
+  ],
+  "WBGene00022089": [
+    "ATP5F1C"
+  ],
+  "WBGene00022092": [
+    "CCDC12"
+  ],
+  "WBGene00022097": [
+    "RARA"
+  ],
+  "WBGene00022104": [
+    "ACMSD"
+  ],
+  "WBGene00022107": [
+    "TRMT11"
+  ],
+  "WBGene00022115": [
+    "ZNRF2"
+  ],
+  "WBGene00022118": [
+    "DCTN5"
+  ],
+  "WBGene00022119": [
+    "COPA"
+  ],
+  "WBGene00022121": [
+    "COG3"
+  ],
+  "WBGene00022122": [
+    "SSR1"
+  ],
+  "WBGene00022123": [
+    "RASL12"
+  ],
+  "WBGene00022126": [
+    "TAMM41"
+  ],
+  "WBGene00022128": [
+    "CABLES1"
+  ],
+  "WBGene00022130": [
+    "CRYL1"
+  ],
+  "WBGene00022141": [
+    "CHAF1B"
+  ],
+  "WBGene00022148": [
+    "DDX27"
+  ],
+  "WBGene00022150": [
+    "HMGCL"
+  ],
+  "WBGene00022152": [
+    "ATG5"
+  ],
+  "WBGene00022159": [
+    "PMPCA"
+  ],
+  "WBGene00022166": [
+    "OSGEP"
+  ],
+  "WBGene00022172": [
+    "CNTD1"
+  ],
+  "WBGene00022173": [
+    "SETD3"
+  ],
+  "WBGene00022174": [
+    "SLC30A9"
+  ],
+  "WBGene00022176": [
+    "CNDP2"
+  ],
+  "WBGene00022180": [
+    "SRCIN1"
+  ],
+  "WBGene00022182": [
+    "SMARCE1"
+  ],
+  "WBGene00022185": [
+    "PTPA"
+  ],
+  "WBGene00022188": [
+    "TXNDC17"
+  ],
+  "WBGene00022192": [
+    "PHAX"
+  ],
+  "WBGene00022199": [
+    "PFKM"
+  ],
+  "WBGene00022201": [
+    "NT5C2"
+  ],
+  "WBGene00022232": [
+    "EXOSC2"
+  ],
+  "WBGene00022233": [
+    "PNPLA8"
+  ],
+  "WBGene00022240": [
+    "KCND2"
+  ],
+  "WBGene00022242": [
+    "SFRP2"
+  ],
+  "WBGene00022250": [
+    "PUSL1"
+  ],
+  "WBGene00022251": [
+    "BLOC1S2"
+  ],
+  "WBGene00022252": [
+    "SLC35F4"
+  ],
+  "WBGene00022268": [
+    "CCDC124"
+  ],
+  "WBGene00022269": [
+    "AATF"
+  ],
+  "WBGene00022270": [
+    "SLC35F1"
+  ],
+  "WBGene00022273": [
+    "BLCAP"
+  ],
+  "WBGene00022280": [
+    "TMEM50B"
+  ],
+  "WBGene00022281": [
+    "ABCB7"
+  ],
+  "WBGene00022296": [
+    "XPC"
+  ],
+  "WBGene00022297": [
+    "SELENOF"
+  ],
+  "WBGene00022301": [
+    "CPSF1"
+  ],
+  "WBGene00022309": [
+    "POLR3K"
+  ],
+  "WBGene00022313": [
+    "GRAMD4"
+  ],
+  "WBGene00022347": [
+    "GLTP"
+  ],
+  "WBGene00022350": [
+    "NEMF"
+  ],
+  "WBGene00022360": [
+    "INTS3"
+  ],
+  "WBGene00022371": [
+    "SETD4"
+  ],
+  "WBGene00022373": [
+    "MRPL15"
+  ],
+  "WBGene00022378": [
+    "DDX54"
+  ],
+  "WBGene00022379": [
+    "ACP1"
+  ],
+  "WBGene00022380": [
+    "NDUFA12"
+  ],
+  "WBGene00022391": [
+    "PLEKHG7"
+  ],
+  "WBGene00022393": [
+    "ABHD12"
+  ],
+  "WBGene00022394": [
+    "NAA20"
+  ],
+  "WBGene00022400": [
+    "POLR2I"
+  ],
+  "WBGene00022401": [
+    "BSDC1"
+  ],
+  "WBGene00022402": [
+    "LAMTOR2"
+  ],
+  "WBGene00022418": [
+    "FGFRL1"
+  ],
+  "WBGene00022420": [
+    "WDR4"
+  ],
+  "WBGene00022434": [
+    "PRPF38B"
+  ],
+  "WBGene00022435": [
+    "CFAP36"
+  ],
+  "WBGene00022447": [
+    "PIGW"
+  ],
+  "WBGene00022448": [
+    "PIN1"
+  ],
+  "WBGene00022450": [
+    "UBE2J2"
+  ],
+  "WBGene00022452": [
+    "REEP2"
+  ],
+  "WBGene00022453": [
+    "NECAP2"
+  ],
+  "WBGene00022455": [
+    "TYMS"
+  ],
+  "WBGene00022456": [
+    "PFKFB2"
+  ],
+  "WBGene00022458": [
+    "PRPF31"
+  ],
+  "WBGene00022459": [
+    "WDR11"
+  ],
+  "WBGene00022460": [
+    "USE1"
+  ],
+  "WBGene00022463": [
+    "ELP1"
+  ],
+  "WBGene00022465": [
+    "IFT20"
+  ],
+  "WBGene00022469": [
+    "TMEM26"
+  ],
+  "WBGene00022470": [
+    "MRPL19"
+  ],
+  "WBGene00022471": [
+    "RNF145"
+  ],
+  "WBGene00022493": [
+    "MRPL45"
+  ],
+  "WBGene00022499": [
+    "SMYD2"
+  ],
+  "WBGene00022502": [
+    "RNFT2"
+  ],
+  "WBGene00022516": [
+    "MTX2"
+  ],
+  "WBGene00022531": [
+    "MORC2"
+  ],
+  "WBGene00022534": [
+    "STX16"
+  ],
+  "WBGene00022576": [
+    "B3GLCT"
+  ],
+  "WBGene00022579": [
+    "RSRC2"
+  ],
+  "WBGene00022583": [
+    "MRPS18A"
+  ],
+  "WBGene00022603": [
+    "MAP4K5"
+  ],
+  "WBGene00022610": [
+    "LTA4H"
+  ],
+  "WBGene00022615": [
+    "TGOLN2"
+  ],
+  "WBGene00022618": [
+    "CCDC51"
+  ],
+  "WBGene00022631": [
+    "NEK8"
+  ],
+  "WBGene00022635": [
+    "SCYL2"
+  ],
+  "WBGene00022673": [
+    "SAMHD1"
+  ],
+  "WBGene00022675": [
+    "GABBR2"
+  ],
+  "WBGene00022677": [
+    "RFT1"
+  ],
+  "WBGene00022678": [
+    "SAR1B"
+  ],
+  "WBGene00022694": [
+    "GCNA"
+  ],
+  "WBGene00022702": [
+    "CUTC"
+  ],
+  "WBGene00022703": [
+    "UBXN4"
+  ],
+  "WBGene00022704": [
+    "PITHD1"
+  ],
+  "WBGene00022718": [
+    "PNPLA6"
+  ],
+  "WBGene00022719": [
+    "PDK2"
+  ],
+  "WBGene00022727": [
+    "PRICKLE3"
+  ],
+  "WBGene00022734": [
+    "TMEM147"
+  ],
+  "WBGene00022739": [
+    "HEATR1"
+  ],
+  "WBGene00022742": [
+    "DCAF13"
+  ],
+  "WBGene00022744": [
+    "MPV17L2"
+  ],
+  "WBGene00022759": [
+    "LRRC57"
+  ],
+  "WBGene00022765": [
+    "SURF6"
+  ],
+  "WBGene00022766": [
+    "MMACHC"
+  ],
+  "WBGene00022769": [
+    "WDR91"
+  ],
+  "WBGene00022776": [
+    "EMC4"
+  ],
+  "WBGene00022783": [
+    "TOMM7"
+  ],
+  "WBGene00022787": [
+    "POLDIP2"
+  ],
+  "WBGene00022792": [
+    "DDX51"
+  ],
+  "WBGene00022794": [
+    "ZMAT2"
+  ],
+  "WBGene00022798": [
+    "FAHD1"
+  ],
+  "WBGene00022801": [
+    "PRCP"
+  ],
+  "WBGene00022803": [
+    "TIPRL"
+  ],
+  "WBGene00022812": [
+    "UVSSA"
+  ],
+  "WBGene00022817": [
+    "UPP1"
+  ],
+  "WBGene00022830": [
+    "SRBD1"
+  ],
+  "WBGene00022832": [
+    "PDP2"
+  ],
+  "WBGene00022835": [
+    "SS18L2"
+  ],
+  "WBGene00022836": [
+    "TMX3"
+  ],
+  "WBGene00022837": [
+    "GSC2"
+  ],
+  "WBGene00022851": [
+    "BCCIP"
+  ],
+  "WBGene00022852": [
+    "RCL1"
+  ],
+  "WBGene00022855": [
+    "TCERG1"
+  ],
+  "WBGene00022862": [
+    "GUF1"
+  ],
+  "WBGene00022865": [
+    "DDRGK1"
+  ],
+  "WBGene00022873": [
+    "TRIM74"
+  ],
+  "WBGene00022880": [
+    "TBC1D2B"
+  ],
+  "WBGene00022881": [
+    "NSMCE2"
+  ],
+  "WBGene00023422": [
+    "MRPL21"
+  ],
+  "WBGene00023487": [
+    "MRPS24"
+  ],
+  "WBGene00023489": [
+    "GGACT"
+  ],
+  "WBGene00043057": [
+    "EEF1AKMT1"
+  ],
+  "WBGene00043064": [
+    "BET1-AS1"
+  ],
+  "WBGene00043156": [
+    "JMJD8"
+  ],
+  "WBGene00043992": [
+    "BBS4"
+  ],
+  "WBGene00044025": [
+    "DHDDS"
+  ],
+  "WBGene00044026": [
+    "CISD1"
+  ],
+  "WBGene00044049": [
+    "SFXN5"
+  ],
+  "WBGene00044061": [
+    "TBC1D12"
+  ],
+  "WBGene00044063": [
+    "BPNT1"
+  ],
+  "WBGene00044094": [
+    "FITM2"
+  ],
+  "WBGene00044144": [
+    "ZNF474"
+  ],
+  "WBGene00044187": [
+    "TTLL9"
+  ],
+  "WBGene00044233": [
+    "DOLK"
+  ],
+  "WBGene00044251": [
+    "C8orf82"
+  ],
+  "WBGene00044260": [
+    "LITAF"
+  ],
+  "WBGene00044281": [
+    "RPS6KB1"
+  ],
+  "WBGene00044305": [
+    "RTN4IP1"
+  ],
+  "WBGene00044321": [
+    "MRPS30"
+  ],
+  "WBGene00044322": [
+    "PLGRKT"
+  ],
+  "WBGene00044324": [
+    "UFM1"
+  ],
+  "WBGene00044344": [
+    "MRPL39"
+  ],
+  "WBGene00044423": [
+    "TMEM234"
+  ],
+  "WBGene00044440": [
+    "WDTC1"
+  ],
+  "WBGene00044604": [
+    "TRAPPC2L"
+  ],
+  "WBGene00044609": [
+    "TBCC"
+  ],
+  "WBGene00044614": [
+    "CRIPT"
+  ],
+  "WBGene00044621": [
+    "TGDS"
+  ],
+  "WBGene00044736": [
+    "GCHFR"
+  ],
+  "WBGene00044924": [
+    "CRCP"
+  ],
+  "WBGene00045192": [
+    "ABHD17B"
+  ],
+  "WBGene00045379": [
+    "EPHX1"
+  ],
+  "WBGene00045433": [
+    "WDR75"
+  ],
+  "WBGene00050885": [
+    "PTRHD1"
+  ],
+  "WBGene00050941": [
+    "HTATIP2"
+  ],
+  "WBGene00077500": [
+    "MGME1"
+  ],
+  "WBGene00077643": [
+    "TRAPPC1"
+  ],
+  "WBGene00077690": [
+    "MTFP1"
+  ],
+  "WBGene00086566": [
+    "FRA10AC1"
+  ],
+  "WBGene00138717": [
+    "TP53RK"
+  ],
+  "WBGene00175030": [
+    "DTWD1"
+  ],
+  "WBGene00185001": [
+    "CCDC134"
+  ],
+  "WBGene00185014": [
+    "ASPDH"
+  ],
+  "WBGene00185048": [
+    "URM1"
+  ],
+  "WBGene00194710": [
+    "TMEM216"
+  ],
+  "WBGene00194832": [
+    "UPF2"
+  ],
+  "WBGene00194934": [
+    "PXYLP1"
+  ],
+  "WBGene00194986": [
+    "PIGB"
+  ],
+  "WBGene00195063": [
+    "COA1"
+  ],
+  "WBGene00195248": [
+    "MMGT1"
+  ],
+  "WBGene00219316": [
+    "ACP7"
+  ],
+  "WBGene00235102": [
+    "TXNL4A"
+  ],
+  "WBGene00302968": [
+    "POP7"
+  ],
+  "WBGene00302976": [
+    "PIGF"
+  ],
+  "WBGene00302984": [
+    "SMIM7"
+  ],
+  "WBGene00303000": [
+    "EIF5"
+  ],
+  "WBGene00303002": [
+    "PIGP"
+  ],
+  "WBGene00303009": [
+    "MRPL42"
+  ],
+  "WBGene00303026": [
+    "COA4"
+  ],
+  "WBGene00303059": [
+    "RCE1"
+  ],
+  "WBGene00303105": [
+    "VMA21"
+  ]
+}

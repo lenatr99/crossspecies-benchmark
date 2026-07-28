@@ -1,0 +1,47 @@
+{
+  "dataset": "dicty",
+  "generated_utc": "2026-05-12T12:59:34.816547+00:00",
+  "h5ad_path": "/Users/lenatrnovec/crossspecies-benchmark/data/dicty.h5ad",
+  "h5ad_sha256_before": "c7f883d8c1e6de1c6c509e793194040d54700aef5bf5228366f7dedee149a5cb",
+  "runtime": {
+    "accelerator": "mps",
+    "batch_key": "time",
+    "devices": "1",
+    "gene_likelihood": "nb",
+    "max_cells": 32,
+    "max_epochs": 1,
+    "n_latent": 100,
+    "n_layers": 2,
+    "overwrite": false,
+    "seed": 42
+  },
+  "step": "scvi_embed",
+  "variants": [
+    {
+      "modes": [
+        {
+          "batch_key": null,
+          "mode": "embedding",
+          "obsm_keys_written": [],
+          "skipped_existing": true,
+          "smoke_embedding_arrays": [
+            "/Users/lenatrnovec/crossspecies-benchmark/data/scvi/work/dicty/tier12/dicty_tier12_embedding_embedding.npy",
+            "/Users/lenatrnovec/crossspecies-benchmark/data/scvi/work/dicty/tier12/dicty_tier12_embedding_pca.npy"
+          ]
+        }
+      ],
+      "n_cells": 32,
+      "n_collapsed_paralog_rows": 7,
+      "n_mapped_ids": 2337,
+      "n_selected_ortholog_symbols": 2337,
+      "n_source_genes": 12883,
+      "n_unique_ids": 2330,
+      "tier_columns": [
+        "ortholog_tier_1",
+        "ortholog_tier_2"
+      ],
+      "variant": "tier12"
+    }
+  ],
+  "work_dir": "/Users/lenatrnovec/crossspecies-benchmark/data/scvi/work"
+}

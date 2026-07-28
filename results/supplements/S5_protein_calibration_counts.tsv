@@ -1,0 +1,6 @@
+component	organism	n_records
+global_fit_human	all	19790
+global_fit_target	dicty	13209
+macrogene_anchor_pairs	dicty	960
+global_fit_target	elegans	19985
+macrogene_anchor_pairs	elegans	1638

@@ -1,0 +1,150 @@
+{
+  "dataset": "dicty",
+  "generated_utc": "2026-07-03T14:15:31.872933+00:00",
+  "h5ad_path": "/Users/lenatrnovec/crossspecies-benchmark/data/dicty.h5ad",
+  "h5ad_sha256_before": "81bc6d865370aee6ea67b731fab4c254ef1c9e84147a996afde24ea6a89079a7",
+  "runtime": {
+    "accelerator": "mps",
+    "batch_key": "time",
+    "devices": "1",
+    "gene_likelihood": "nb",
+    "max_cells": null,
+    "max_epochs": null,
+    "n_latent": 100,
+    "n_layers": 2,
+    "overwrite": true,
+    "seed": 42
+  },
+  "step": "scvi_embed",
+  "variants": [
+    {
+      "modes": [
+        {
+          "batch_key": null,
+          "embedding_shape": [
+            48983,
+            100
+          ],
+          "mode": "embedding",
+          "obsm_keys_written": [
+            "X_scVI",
+            "X_scVI_50"
+          ],
+          "pca_shape": [
+            48983,
+            50
+          ],
+          "skipped_existing": false,
+          "smoke_embedding_arrays": []
+        }
+      ],
+      "n_cells": 48983,
+      "n_collapsed_paralog_rows": 0,
+      "n_selected_ortholog_symbols": 0,
+      "n_source_genes": 12883,
+      "n_unique_ids": 12883,
+      "tier_columns": [],
+      "variant": "full"
+    },
+    {
+      "modes": [
+        {
+          "batch_key": null,
+          "embedding_shape": [
+            48983,
+            100
+          ],
+          "mode": "embedding",
+          "obsm_keys_written": [
+            "X_scVI_ortholog_tier1",
+            "X_scVI_ortholog_tier1_50"
+          ],
+          "pca_shape": [
+            48983,
+            50
+          ],
+          "skipped_existing": false,
+          "smoke_embedding_arrays": []
+        }
+      ],
+      "n_cells": 48983,
+      "n_collapsed_paralog_rows": 0,
+      "n_mapped_ids": 975,
+      "n_selected_ortholog_symbols": 975,
+      "n_source_genes": 12883,
+      "n_unique_ids": 975,
+      "tier_columns": [
+        "ortholog_tier_1"
+      ],
+      "variant": "tier1"
+    },
+    {
+      "modes": [
+        {
+          "batch_key": null,
+          "embedding_shape": [
+            48983,
+            100
+          ],
+          "mode": "embedding",
+          "obsm_keys_written": [
+            "X_scVI_ortholog_tier12",
+            "X_scVI_ortholog_tier12_50"
+          ],
+          "pca_shape": [
+            48983,
+            50
+          ],
+          "skipped_existing": false,
+          "smoke_embedding_arrays": []
+        }
+      ],
+      "n_cells": 48983,
+      "n_collapsed_paralog_rows": 7,
+      "n_mapped_ids": 2337,
+      "n_selected_ortholog_symbols": 2337,
+      "n_source_genes": 12883,
+      "n_unique_ids": 2330,
+      "tier_columns": [
+        "ortholog_tier_1",
+        "ortholog_tier_2"
+      ],
+      "variant": "tier12"
+    },
+    {
+      "modes": [
+        {
+          "batch_key": null,
+          "embedding_shape": [
+            48983,
+            100
+          ],
+          "mode": "embedding",
+          "obsm_keys_written": [
+            "X_scVI_ortholog_tier123",
+            "X_scVI_ortholog_tier123_50"
+          ],
+          "pca_shape": [
+            48983,
+            50
+          ],
+          "skipped_existing": false,
+          "smoke_embedding_arrays": []
+        }
+      ],
+      "n_cells": 48983,
+      "n_collapsed_paralog_rows": 1706,
+      "n_mapped_ids": 5840,
+      "n_selected_ortholog_symbols": 5840,
+      "n_source_genes": 12883,
+      "n_unique_ids": 4134,
+      "tier_columns": [
+        "ortholog_tier_1",
+        "ortholog_tier_2",
+        "ortholog_tier_3"
+      ],
+      "variant": "tier123"
+    }
+  ],
+  "work_dir": "/Users/lenatrnovec/crossspecies-benchmark/data/scvi/work"
+}

@@ -1,0 +1,7 @@
+name: crossspecies-evaluation
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11.9
+  - pip=24.3.1
+  - scikit-misc=0.5.2

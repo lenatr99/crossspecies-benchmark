@@ -1,0 +1,38 @@
+{
+    "X_scGPT_ortholog_tier12_pca100_supp": {
+        "NMI_cluster/label": 0.7912254702922559,
+        "ARI_cluster/label": 0.8814636555349675,
+        "ASW_label": 0.5864265114068985,
+        "ASW_label/batch": 0.8926137685775757,
+        "graph_conn": 0.9946638426432036,
+        "leiden_resolution": 0.1,
+        "n_clusters": 2,
+        "avg_bio": 0.7530385457447073,
+        "avg_batch": 0.9436388056103897,
+        "overall_score": 0.8292786496909803
+    },
+    "X_geneformer_ortholog_tier12_pca100_supp": {
+        "NMI_cluster/label": 0.6342936107662956,
+        "ARI_cluster/label": 0.6499726897378992,
+        "ASW_label": 0.6318721324205399,
+        "ASW_label/batch": 0.8192148804664612,
+        "graph_conn": 0.9948859464100834,
+        "leiden_resolution": 0.1,
+        "n_clusters": 3,
+        "avg_bio": 0.6387128109749116,
+        "avg_batch": 0.9070504134382723,
+        "overall_score": 0.7460478519602558
+    },
+    "X_uce_4L_pca100_supp": {
+        "NMI_cluster/label": 0.801270073032329,
+        "ARI_cluster/label": 0.8899461681820091,
+        "ASW_label": 0.6558262854814529,
+        "ASW_label/batch": 0.9284512400627136,
+        "graph_conn": 0.9951151794918225,
+        "leiden_resolution": 0.1,
+        "n_clusters": 2,
+        "avg_bio": 0.782347508898597,
+        "avg_batch": 0.9617832097772681,
+        "overall_score": 0.8541217892500654
+    }
+}

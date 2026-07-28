@@ -1,0 +1,77 @@
+{
+  "dataset": "dicty",
+  "generated_utc": "2026-07-22T17:19:45.695876+00:00",
+  "h5ad": "/Users/lenatrnovec/crossspecies-benchmark/data/dicty.h5ad",
+  "mode": "smoke",
+  "parameters": {
+    "center": true,
+    "feature_scaling": false,
+    "n_components": 100,
+    "operation": "PCA applied after cell embedding",
+    "seed": 42,
+    "svd_solver": "randomized",
+    "whiten": false
+  },
+  "records": [
+    {
+      "all_components_nonzero_variance": true,
+      "explained_variance_ratio_sum": 0.985302746295929,
+      "finite": true,
+      "output_key": "X_scGPT_ortholog_tier12_pca100_supp",
+      "output_sha256": "affb71842686cf63293d40254b4daa1448a97ea8ca40428664c050743ba6fc7d",
+      "output_shape": [
+        512,
+        100
+      ],
+      "repeat_output_sha256": "affb71842686cf63293d40254b4daa1448a97ea8ca40428664c050743ba6fc7d",
+      "source_key": "X_scGPT_ortholog_tier12",
+      "source_sha256": "2f4075b01fc1e4a4f3ccaba84bca94fc1a9fe212c7ad940b810a883cb66ed58c",
+      "source_shape": [
+        512,
+        512
+      ]
+    },
+    {
+      "all_components_nonzero_variance": true,
+      "explained_variance_ratio_sum": 0.9762294888496399,
+      "finite": true,
+      "output_key": "X_geneformer_ortholog_tier12_pca100_supp",
+      "output_sha256": "c816060bebb091a8f9331939f5fa2e9857a063e66f039019027bdb209cd5d4d8",
+      "output_shape": [
+        512,
+        100
+      ],
+      "repeat_output_sha256": "c816060bebb091a8f9331939f5fa2e9857a063e66f039019027bdb209cd5d4d8",
+      "source_key": "X_geneformer_ortholog_tier12",
+      "source_sha256": "07e80ac33ab17f2846831f7a140fde1810a481ee6af891835ecd139e36cfb561",
+      "source_shape": [
+        512,
+        512
+      ]
+    },
+    {
+      "all_components_nonzero_variance": true,
+      "explained_variance_ratio_sum": 0.979742705821991,
+      "finite": true,
+      "output_key": "X_uce_4L_pca100_supp",
+      "output_sha256": "9fa53e9ac7cbd0e6d8b4ae749d4ffc1818469f55c428162cc5b5e5360126e4e6",
+      "output_shape": [
+        512,
+        100
+      ],
+      "repeat_output_sha256": "9fa53e9ac7cbd0e6d8b4ae749d4ffc1818469f55c428162cc5b5e5360126e4e6",
+      "source_key": "X_uce_4L",
+      "source_sha256": "75b69fdd86088de70bbe20b2763d72154cf5736284aadce33a8c2b8e1d2b33a3",
+      "source_shape": [
+        512,
+        1280
+      ]
+    }
+  ],
+  "smoke_cells": 512,
+  "software_versions": {
+    "anndata": "0.12.1",
+    "numpy": "2.2.6",
+    "scikit-learn": "1.7.1"
+  }
+}

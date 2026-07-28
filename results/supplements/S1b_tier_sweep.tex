@@ -1,0 +1,27 @@
+\begin{table}[ht]
+\centering
+\small
+\caption{\textbf{Ortholog-tier sweep.} For each organism, the first row gives the cumulative number of atlas source-gene features selected at Tier 1, Tiers 1--2 and Tiers 1--3 before model-specific identifier and vocabulary filtering. The remaining rows give avgBIO (mean across the organism's three annotation panels) for each method restricted to that tier pool. Adding lower-confidence tiers increased gene coverage several-fold, whereas avgBIO changed less consistently and sometimes decreased.}
+\label{tab:s1b}
+\begin{tabular}{@{}l ccc@{}}
+\toprule
+Method / coverage & Tier 1 & Tiers 1--2 & Tiers 1--3 \\
+\midrule
+\multicolumn{4}{@{}l}{\species{D.~discoideum}} \\
+\quad Mapped source genes (recorded input) & 975 & 2337 & 5840 \\
+\quad PCA & 0.441 & 0.470 & 0.382 \\
+\quad scVI & 0.436 & 0.377 & 0.370 \\
+\quad Geneformer & 0.322 & 0.466 & 0.504 \\
+\quad scGPT & 0.410 & 0.456 & 0.476 \\
+\quad UCE-4L & 0.472 & 0.481 & 0.509 \\
+\addlinespace
+\multicolumn{4}{@{}l}{\species{C.~elegans}} \\
+\quad Mapped source genes (recorded input) & 1659 & 3568 & 9853 \\
+\quad PCA & 0.412 & 0.518 & 0.554 \\
+\quad scVI & 0.584 & 0.549 & 0.535 \\
+\quad Geneformer & 0.371 & 0.549 & 0.596 \\
+\quad scGPT & 0.435 & 0.509 & 0.581 \\
+\quad UCE-4L & 0.469 & 0.580 & 0.602 \\
+\bottomrule
+\end{tabular}
+\end{table}

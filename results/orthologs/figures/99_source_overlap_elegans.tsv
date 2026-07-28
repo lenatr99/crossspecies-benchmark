@@ -1,0 +1,16 @@
+pattern	n_genes	n_sources
+orthofinder+orthodb_og+oma+curated	1388	4
+orthodb_og+oma+curated	148	3
+orthofinder+oma+curated	147	3
+orthofinder+orthodb_og+curated	2958	3
+orthofinder+orthodb_og+oma	77	3
+oma+curated	101	2
+orthodb_og+curated	1220	2
+orthodb_og+oma	7	2
+orthofinder+curated	544	2
+orthofinder+oma	6	2
+orthofinder+orthodb_og	359	2
+curated	1433	1
+oma	16	1
+orthodb_og	1114	1
+orthofinder	415	1

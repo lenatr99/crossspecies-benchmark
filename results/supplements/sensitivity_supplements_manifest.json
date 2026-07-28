@@ -1,0 +1,79 @@
+{
+  "arguments": {
+    "avgbio_dimension_run": "20260722_192520",
+    "avgbio_main_run": "20260529_124606",
+    "avgbio_pca_run": "20260722_091301",
+    "output_dir": "/Users/lenatrnovec/crossspecies-benchmark/results/supplements",
+    "pseudotime_expanded_point_run": "20260722_210909",
+    "pseudotime_expanded_stability_run": "20260722_232600",
+    "pseudotime_main_point_run": "20260703_130811",
+    "pseudotime_main_stability_run": "20260709_222558",
+    "pseudotime_sensitivity_point_run": "20260721_225222",
+    "pseudotime_sensitivity_stability_run": "20260722_093729"
+  },
+  "evaluation_parameters": {
+    "dimension_matched_embeddings": {
+      "centered": true,
+      "n_components": 100,
+      "operation": "independent PCA for frozen embeddings above 100D; native 100D PCA and scVI reused",
+      "scaled": false,
+      "seed": 42,
+      "svd_solver": "randomized"
+    },
+    "processed_pca_avgbio": {
+      "n_jobs": 1,
+      "neighbor_metric": "euclidean",
+      "seed": 0,
+      "subsample_repeats": 0
+    },
+    "sensitivity_pseudotime_point": {
+      "alpha": 0.05,
+      "bootstrap_consensus_roots": true,
+      "inference": "bootstrap",
+      "k_roots": 50,
+      "n_boot": 1000,
+      "n_candidates": 500,
+      "root_method": "uniform",
+      "seed": 0
+    },
+    "sensitivity_pseudotime_stability": {
+      "alpha": 0.05,
+      "inference": "subsample",
+      "k_roots": 20,
+      "n_candidates": 500,
+      "n_repeats": 30,
+      "seed": 0,
+      "subsample_frac": 0.9
+    }
+  },
+  "generated_utc": "2026-07-23T08:40:01.715184+00:00",
+  "outputs": [
+    "/Users/lenatrnovec/crossspecies-benchmark/results/supplements/S10_dimension100_avgbio.tex",
+    "/Users/lenatrnovec/crossspecies-benchmark/results/supplements/S11_dimension100_pseudotime.tex",
+    "/Users/lenatrnovec/crossspecies-benchmark/results/supplements/S12_uce_protein_calibration.tex",
+    "/Users/lenatrnovec/crossspecies-benchmark/results/supplements/S1b_tier_sweep.tex",
+    "/Users/lenatrnovec/crossspecies-benchmark/results/supplements/S1c_marker_retention.tex",
+    "/Users/lenatrnovec/crossspecies-benchmark/results/supplements/S2_ortholog_restricted_uce.tex",
+    "/Users/lenatrnovec/crossspecies-benchmark/results/supplements/S4_uce_layer_calibration.tex",
+    "/Users/lenatrnovec/crossspecies-benchmark/results/supplements/S5_avgbio_components.tex",
+    "/Users/lenatrnovec/crossspecies-benchmark/results/supplements/S5_uce_pseudotime_protein.tex",
+    "/Users/lenatrnovec/crossspecies-benchmark/results/supplements/S6_pca_preprocessing.tex",
+    "/Users/lenatrnovec/crossspecies-benchmark/results/supplements/S6_pseudotime_stability.tex",
+    "/Users/lenatrnovec/crossspecies-benchmark/results/supplements/S9_coverage_matched_pseudotime.tex",
+    "/Users/lenatrnovec/crossspecies-benchmark/results/supplements/S10_dimension100_avgbio.tsv",
+    "/Users/lenatrnovec/crossspecies-benchmark/results/supplements/S10_dimension100_variance.tsv",
+    "/Users/lenatrnovec/crossspecies-benchmark/results/supplements/S11_dimension100_pseudotime.tsv",
+    "/Users/lenatrnovec/crossspecies-benchmark/results/supplements/S12_uce_protein_calibration.tsv",
+    "/Users/lenatrnovec/crossspecies-benchmark/results/supplements/S1b_tier_sweep.tsv",
+    "/Users/lenatrnovec/crossspecies-benchmark/results/supplements/S1c_marker_retention.tsv",
+    "/Users/lenatrnovec/crossspecies-benchmark/results/supplements/S2_ortholog_restricted_uce.tsv",
+    "/Users/lenatrnovec/crossspecies-benchmark/results/supplements/S4_uce_layer_calibration.tsv",
+    "/Users/lenatrnovec/crossspecies-benchmark/results/supplements/S5_protein_calibration_counts.tsv",
+    "/Users/lenatrnovec/crossspecies-benchmark/results/supplements/S5_protein_diagnostics.tsv",
+    "/Users/lenatrnovec/crossspecies-benchmark/results/supplements/S5_uce_pseudotime.tsv",
+    "/Users/lenatrnovec/crossspecies-benchmark/results/supplements/S6_pca_avgbio.tsv",
+    "/Users/lenatrnovec/crossspecies-benchmark/results/supplements/S6_pca_pseudotime.tsv",
+    "/Users/lenatrnovec/crossspecies-benchmark/results/supplements/S6_pseudotime_stability.tsv",
+    "/Users/lenatrnovec/crossspecies-benchmark/results/supplements/S9_coverage_matched_pseudotime.tsv"
+  ]
+}

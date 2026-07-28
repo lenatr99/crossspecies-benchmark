@@ -1,0 +1,16 @@
+{
+  "summaries": [
+    {
+      "base_save_dir": "/Users/lenatrnovec/crossspecies-benchmark/results/biological_benchmarks_dicty",
+      "batch_key": "time",
+      "dataset": "dicty",
+      "elapsed_seconds": 358.06526470184326,
+      "embedding_preset": "custom",
+      "label_key": "cell_type",
+      "n_embeddings_ok": 1,
+      "save_dir": "/Users/lenatrnovec/crossspecies-benchmark/results/biological_benchmarks_dicty/runs/20260525_170617",
+      "silhouette_subsample": null,
+      "timestamped_save_dir": true
+    }
+  ]
+}

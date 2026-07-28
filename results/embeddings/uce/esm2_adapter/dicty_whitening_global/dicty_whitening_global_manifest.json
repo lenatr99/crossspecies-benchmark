@@ -1,0 +1,145 @@
+{
+  "adapted_embedding": "/Users/lenatrnovec/crossspecies-benchmark/results/embeddings/uce/esm2_adapter/dicty_whitening_global/dicty_whitening_global_gene_symbol_to_embedding_ESM2_adapted.pt",
+  "dataset": "dicty",
+  "diagnostics": "/Users/lenatrnovec/crossspecies-benchmark/results/embeddings/uce/esm2_adapter/dicty_whitening_global/dicty_whitening_global_diagnostics.csv",
+  "generated_utc": "2026-05-05T12:34:36.960951+00:00",
+  "human_embedding": "/Users/lenatrnovec/crossspecies-benchmark/models/UCE/model_files/protein_embeddings/Homo_sapiens.GRCh38.gene_symbol_to_embedding_ESM2.pt",
+  "method": "whitening",
+  "method_slug": "whitening",
+  "metrics": {
+    "human_per_dim_mean_norm": 5.644341468811035,
+    "human_per_dim_std_mean": 0.06421440839767456,
+    "mean_nn_cosine_after": 0.8064560890197754,
+    "mean_nn_cosine_before": 0.7610654830932617,
+    "median_nn_cosine_after": 0.8116447329521179,
+    "median_nn_cosine_before": 0.74986732006073,
+    "source_per_dim_mean_norm_after": 5.644340991973877,
+    "source_per_dim_mean_norm_before": 6.096895694732666,
+    "source_per_dim_std_mean_after": 0.06421439349651337,
+    "source_per_dim_std_mean_before": 0.06819887459278107,
+    "tier1_assigned_cosine_after": 0.810116171836853,
+    "tier1_assigned_cosine_before": 0.721144437789917,
+    "tier2_assigned_cosine_after": 0.8073431253433228,
+    "tier2_assigned_cosine_before": 0.7306739091873169,
+    "tier3_assigned_cosine_after": 0.7635545134544373,
+    "tier3_assigned_cosine_before": 0.6611404418945312
+  },
+  "n_human_genes": 19790,
+  "n_source_genes": 13209,
+  "pair_diagnostics": "/Users/lenatrnovec/crossspecies-benchmark/results/embeddings/uce/esm2_adapter/dicty_whitening_global/dicty_whitening_global_pair_diagnostics.csv",
+  "reproducibility": {
+    "adapted_embedding_file": {
+      "exists": true,
+      "path": "/Users/lenatrnovec/crossspecies-benchmark/results/embeddings/uce/esm2_adapter/dicty_whitening_global/dicty_whitening_global_gene_symbol_to_embedding_ESM2_adapted.pt",
+      "sha256": "9c36aec463028a575fe10c36e818a65f6d4053437237ece59ea62c051a2df090",
+      "size_bytes": 275029371
+    },
+    "asset_files": {
+      "/Users/lenatrnovec/crossspecies-benchmark/models/UCE/model_files/protein_embeddings/Dictyostelium_discoideum.dicty_2.7.pep.all.gene_symbol_to_embedding_ESM2.pt": {
+        "exists": true,
+        "path": "/Users/lenatrnovec/crossspecies-benchmark/models/UCE/model_files/protein_embeddings/Dictyostelium_discoideum.dicty_2.7.pep.all.gene_symbol_to_embedding_ESM2.pt",
+        "sha256": "40fd0828d0ff9c14ea586202b4dd5e507bcbf5e9972abbfce043561209321f3b",
+        "size_bytes": 276033431
+      },
+      "/Users/lenatrnovec/crossspecies-benchmark/models/UCE/model_files/protein_embeddings/Homo_sapiens.GRCh38.gene_symbol_to_embedding_ESM2.pt": {
+        "exists": true,
+        "path": "/Users/lenatrnovec/crossspecies-benchmark/models/UCE/model_files/protein_embeddings/Homo_sapiens.GRCh38.gene_symbol_to_embedding_ESM2.pt",
+        "sha256": "a210e1cc7901513999b2bca3836ba9e2f203cd008be4e9a9d6412a2267de9748",
+        "size_bytes": 410886729
+      },
+      "/Users/lenatrnovec/crossspecies-benchmark/results/embeddings/uce/esm2_adapter/dicty_whitening_global/dicty_whitening_global_diagnostics.csv": {
+        "exists": true,
+        "path": "/Users/lenatrnovec/crossspecies-benchmark/results/embeddings/uce/esm2_adapter/dicty_whitening_global/dicty_whitening_global_diagnostics.csv",
+        "sha256": "a9b1be13ac08fb55ba75409bd4d90dd58bb6164585fd255cfb4288babf7acd48",
+        "size_bytes": 600121
+      },
+      "/Users/lenatrnovec/crossspecies-benchmark/results/embeddings/uce/esm2_adapter/dicty_whitening_global/dicty_whitening_global_gene_symbol_to_embedding_ESM2_adapted.pt": {
+        "exists": true,
+        "path": "/Users/lenatrnovec/crossspecies-benchmark/results/embeddings/uce/esm2_adapter/dicty_whitening_global/dicty_whitening_global_gene_symbol_to_embedding_ESM2_adapted.pt",
+        "sha256": "9c36aec463028a575fe10c36e818a65f6d4053437237ece59ea62c051a2df090",
+        "size_bytes": 275029371
+      },
+      "/Users/lenatrnovec/crossspecies-benchmark/results/embeddings/uce/esm2_adapter/dicty_whitening_global/dicty_whitening_global_pair_diagnostics.csv": {
+        "exists": true,
+        "path": "/Users/lenatrnovec/crossspecies-benchmark/results/embeddings/uce/esm2_adapter/dicty_whitening_global/dicty_whitening_global_pair_diagnostics.csv",
+        "sha256": "b11ff9f7b8d984a51ac90279c382ef198c78d7bdefad96bb48b6847a4d4c198b",
+        "size_bytes": 303769
+      },
+      "/Users/lenatrnovec/crossspecies-benchmark/results/orthologs/02_consensus_dicty.tsv": {
+        "exists": true,
+        "path": "/Users/lenatrnovec/crossspecies-benchmark/results/orthologs/02_consensus_dicty.tsv",
+        "sha256": "5e465f032d5cd6f058f8715ac340c14b2260f4be015227d6ce2a711026661dcf",
+        "size_bytes": 824983
+      }
+    },
+    "environment": {
+      "packages": {
+        "accelerate": "0.24.0",
+        "anndata": "0.12.11",
+        "gdown": "5.2.0",
+        "h5py": "3.16.0",
+        "numpy": "1.26.4",
+        "pandas": "2.2.2",
+        "requests": "2.25.1",
+        "scanpy": "1.10.2",
+        "scikit-learn": "1.8.0",
+        "scipy": "1.14.1",
+        "torch": "2.1.1",
+        "tqdm": "4.66.5",
+        "urllib3": "1.26.6"
+      },
+      "platform": "macOS-26.4.1-arm64-arm-64bit",
+      "python": "3.11.15 | packaged by conda-forge | (main, Mar  5 2026, 16:59:26) [Clang 19.1.7 ]",
+      "python_executable": "/opt/anaconda3/envs/crossspecies-uce/bin/python",
+      "torch": {
+        "cuda_available": false,
+        "cuda_version": null,
+        "mps_available": true,
+        "version": "2.1.1"
+      }
+    },
+    "human_embedding_file": {
+      "exists": true,
+      "path": "/Users/lenatrnovec/crossspecies-benchmark/models/UCE/model_files/protein_embeddings/Homo_sapiens.GRCh38.gene_symbol_to_embedding_ESM2.pt",
+      "sha256": "a210e1cc7901513999b2bca3836ba9e2f203cd008be4e9a9d6412a2267de9748",
+      "size_bytes": 410886729
+    },
+    "source_embedding_file": {
+      "exists": true,
+      "path": "/Users/lenatrnovec/crossspecies-benchmark/models/UCE/model_files/protein_embeddings/Dictyostelium_discoideum.dicty_2.7.pep.all.gene_symbol_to_embedding_ESM2.pt",
+      "sha256": "40fd0828d0ff9c14ea586202b4dd5e507bcbf5e9972abbfce043561209321f3b",
+      "size_bytes": 276033431
+    },
+    "uce_git": {
+      "commit": "8227a65cdd021b9186ef86671d2aef5c895c8e4b",
+      "dirty": true,
+      "patched_files_diff": "diff --git a/eval_data.py b/eval_data.py\nindex 26acb5e..2a1243c 100644\n--- a/eval_data.py\n+++ b/eval_data.py\n@@ -126,39 +126,44 @@ def sample_cell_sentences(counts, batch_weights, dataset, args,\n         choice_idx = np.random.choice(np.arange(len(weights)),\n                                       size=args.sample_size, p=weights,\n                                       replace=True)\n-        choosen_chrom = chroms[choice_idx] # get the sampled genes chromosomes\n-        # order the genes by chromosome\n-        chrom_sort = np.argsort(choosen_chrom)  \n-        choice_idx = choice_idx[chrom_sort]\n-\n-        # sort the genes by start\n-        new_chrom = chroms[choice_idx]\n-        choosen_starts = starts[choice_idx]\n-\n         ordered_choice_idx = np.full((args.pad_length),\n                                      args.cls_token_idx)  # start with cls\n         # i= 0 first token is CLS\n-        i = 1  # continue on to the rest of the sequence with left bracket being assumed.\n-        # Shuffle the chroms now, there's no natural order to chromosomes\n-        uq_chroms = np.unique(new_chrom)\n-        np.random.shuffle(uq_chroms) # shuffle\n-        \n-        # This loop is actually just over one cell\n-        for chrom in uq_chroms:\n-            # Open Chrom token\n-            ordered_choice_idx[i] = int(chrom) + args.CHROM_TOKEN_OFFSET # token of this chromosome # i = 1 next token is a chrom open\n-            i += 1\n-            # now sort the genes by start order within the chroms\n-            loc = np.where(new_chrom == chrom)[0]\n-            sort_by_start = np.argsort(\n-                choosen_starts[loc])  # start locations for this chromsome\n-\n-            to_add = choice_idx[loc[sort_by_start]]\n+        i = 1\n+\n+        if args.chromosome_aware:\n+            choosen_chrom = chroms[choice_idx] # get the sampled genes chromosomes\n+            # order the genes by chromosome\n+            chrom_sort = np.argsort(choosen_chrom)\n+            choice_idx = choice_idx[chrom_sort]\n+\n+            # sort the genes by start\n+            new_chrom = chroms[choice_idx]\n+            choosen_starts = starts[choice_idx]\n+\n+            # Shuffle the chroms now, there's no natural order to chromosomes\n+            uq_chroms = np.unique(new_chrom)\n+            np.random.shuffle(uq_chroms) # shuffle\n+\n+            # This loop is actually just over one cell\n+            for chrom in uq_chroms:\n+                # Open Chrom token\n+                ordered_choice_idx[i] = int(chrom) + args.CHROM_TOKEN_OFFSET # token of this chromosome\n+                i += 1\n+                # now sort the genes by start order within the chroms\n+                loc = np.where(new_chrom == chrom)[0]\n+                sort_by_start = np.argsort(\n+                    choosen_starts[loc])  # start locations for this chromsome\n+\n+                to_add = choice_idx[loc[sort_by_start]]\n+                ordered_choice_idx[i:(i + len(to_add))] = dataset_idxs[to_add]\n+                i += len(to_add)\n+                ordered_choice_idx[i] = args.chrom_token_right_idx # add the chrom sep again\n+                i += 1  # add the closing token again\n+        else:\n+            to_add = choice_idx\n             ordered_choice_idx[i:(i + len(to_add))] = dataset_idxs[to_add]\n             i += len(to_add)\n-            ordered_choice_idx[i] = args.chrom_token_right_idx # add the chrom sep again\n-            i += 1  # add the closing token again\n-\n         longest_seq_len = max(longest_seq_len, i)\n         remainder_len = (args.pad_length - i)\n \ndiff --git a/eval_single_anndata.py b/eval_single_anndata.py\nindex 7931840..a72b9a4 100644\n--- a/eval_single_anndata.py\n+++ b/eval_single_anndata.py\n@@ -75,9 +75,23 @@ Returns:\n \n \n import argparse\n+import os\n+import random\n+\n+import numpy as np\n+import torch\n from evaluate import AnndataProcessor\n from accelerate import Accelerator\n \n+def seed_everything(seed):\n+    os.environ[\"PYTHONHASHSEED\"] = str(seed)\n+    random.seed(seed)\n+    np.random.seed(seed)\n+    torch.manual_seed(seed)\n+    if torch.cuda.is_available():\n+        torch.cuda.manual_seed_all(seed)\n+\n+\n def main(args, accelerator):\n     processor = AnndataProcessor(args, accelerator)\n     processor.preprocess_anndata()\n@@ -121,8 +135,14 @@ if __name__ == \"__main__\":\n                         help=\"CLS token index\")\n     parser.add_argument(\"--CHROM_TOKEN_OFFSET\", type=int, default=143574,\n                         help=\"Offset index, tokens after this mark are chromosome identifiers\")\n+    parser.add_argument(\"--chromosome_aware\", action=argparse.BooleanOptionalAction, default=True,\n+                        help=\"If false, build cell sentences from CLS plus sampled protein-gene tokens only.\")\n     parser.add_argument('--sample_size', type=int, default=1024,\n                         help='Number of genes sampled for cell sentence')\n+    parser.add_argument('--seed', type=int, default=42,\n+                        help='Seed for stochastic UCE cell sentence sampling.')\n+    parser.add_argument('--pooling', choices=['cls', 'mean_gene'], default='cls',\n+                        help='Cell readout from UCE token outputs. cls is the original UCE behavior; mean_gene averages contextualized gene-token outputs.')\n     parser.add_argument('--CXG', type=bool, default=True,\n                         help='Use CXG model.')\n     parser.add_argument('--nlayers', type=int, default=4,\n@@ -151,5 +171,6 @@ if __name__ == \"__main__\":\n                         help=\"PKL file which contains offsets for each species.\")\n \n     args = parser.parse_args()\n+    seed_everything(args.seed)\n     accelerator = Accelerator(project_dir=args.dir)\n     main(args, accelerator)\ndiff --git a/evaluate.py b/evaluate.py\nindex d014981..824beed 100644\n--- a/evaluate.py\n+++ b/evaluate.py\n@@ -123,13 +123,18 @@ class AnndataProcessor:\n                 with open(self.args.offset_pkl_path, \"rb\") as f:\n                     species_to_offsets = pickle.load(f)\n \n-                gene_to_chrom_pos = get_spec_chrom_csv(\n-                    self.args.spec_chrom_csv_path)\n                 dataset_species = self.args.species\n                 spec_pe_genes = list(species_to_pe[dataset_species].keys())\n                 offset = species_to_offsets[dataset_species]\n-                pe_row_idxs, dataset_chroms, dataset_pos = adata_path_to_prot_chrom_starts(\n-                    self.adata, dataset_species, spec_pe_genes, gene_to_chrom_pos, offset)\n+                if self.args.chromosome_aware:\n+                    gene_to_chrom_pos = get_spec_chrom_csv(\n+                        self.args.spec_chrom_csv_path)\n+                    pe_row_idxs, dataset_chroms, dataset_pos = adata_path_to_prot_chrom_starts(\n+                        self.adata, dataset_species, spec_pe_genes, gene_to_chrom_pos, offset)\n+                else:\n+                    pe_row_idxs = torch.tensor([spec_pe_genes.index(k.upper()) + offset for k in self.adata.var_names]).long()\n+                    dataset_chroms = np.zeros(len(pe_row_idxs), dtype=int)\n+                    dataset_pos = np.arange(len(pe_row_idxs), dtype=int)\n \n                 # Save to the temp dict\n                 torch.save({self.name: pe_row_idxs}, self.pe_idx_path)\n@@ -235,13 +240,23 @@ def run_eval(adata, name, pe_idx_path, chroms_path, starts_path, shapes_dict,\n         for batch in pbar:\n             batch_sentences, mask, idxs = batch[0], batch[1], batch[2]\n             batch_sentences = batch_sentences.permute(1, 0)\n+            token_ids = batch_sentences\n             if args.multi_gpu:\n                 batch_sentences = model.module.pe_embedding(batch_sentences.long())\n             else:\n                 batch_sentences = model.pe_embedding(batch_sentences.long())\n             batch_sentences = nn.functional.normalize(batch_sentences,\n                                                       dim=2)  # Normalize token outputs now\n-            _, embedding = model.forward(batch_sentences, mask=mask)\n+            gene_output, embedding = model.forward(batch_sentences, mask=mask)\n+            if args.pooling == \"mean_gene\":\n+                gene_mask = (\n+                    (token_ids >= 4)\n+                    & (token_ids < args.CHROM_TOKEN_OFFSET)\n+                    & (mask.t() > 0)\n+                )\n+                denom = gene_mask.sum(0).clamp(min=1).unsqueeze(1)\n+                embedding = (gene_output * gene_mask.unsqueeze(2)).sum(0) / denom\n+                embedding = nn.functional.normalize(embedding, dim=1)\n             # Fix for duplicates in last batch\n             accelerator.wait_for_everyone()\n             embeddings = accelerator.gather_for_metrics((embedding))\n",
+      "patched_files_diff_sha256": "75cffa7bf9cd086546be2c46013f3901af06c4f5ecdbdecfac5a4dfd1e37bfdf",
+      "status_short": [
+        "M eval_data.py",
+        " M eval_single_anndata.py",
+        " M evaluate.py",
+        " M model_files/new_species_protein_embeddings.csv",
+        "?? .DS_Store",
+        "?? __pycache__/",
+        "?? data_proc/__pycache__/data_utils.cpython-311.pyc",
+        "?? data_proc/__pycache__/gene_embeddings.cpython-311.pyc",
+        "?? data_proc/dicty_offsets_adapter_whitening_global.pkl",
+        "?? data_proc/dicty_pe_tokens_adapter_whitening_global.torch",
+        "?? data_proc/dicty_to_chrom_pos.csv",
+        "?? model_files/.DS_Store",
+        "?? model_files/33l_8ep_1024t_1280.torch",
+        "?? model_files/4layer_model.torch",
+        "?? model_files/all_tokens.torch",
+        "?? model_files/fasta_files/",
+        "?? model_files/protein_embeddings.tar.gz",
+        "?? model_files/protein_embeddings/",
+        "?? model_files/species_chrom.csv",
+        "?? model_files/species_offsets.pkl"
+      ]
+    }
+  },
+  "source_embedding": "/Users/lenatrnovec/crossspecies-benchmark/models/UCE/model_files/protein_embeddings/Dictyostelium_discoideum.dicty_2.7.pep.all.gene_symbol_to_embedding_ESM2.pt",
+  "step": "fit_esm2_whitening",
+  "tag": "global"
+}

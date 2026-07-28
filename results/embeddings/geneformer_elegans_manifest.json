@@ -1,0 +1,116 @@
+{
+  "dataset": "elegans",
+  "geneformer_commit": "18a2ca668c0f0239f37e58a34fd8de4ac15b5ed2",
+  "geneformer_dir": "/Users/lenatrnovec/crossspecies-benchmark/models/Geneformer",
+  "generated_utc": "2026-05-01T17:15:17.863615+00:00",
+  "h5ad_path": "/Users/lenatrnovec/crossspecies-benchmark/data/elegans.h5ad",
+  "h5ad_sha256_before": "f6f40c21bdd5cec0125d149ad23bc0ef27777d171d7d367c1658da124c18bfcf",
+  "model_dir": "/Users/lenatrnovec/crossspecies-benchmark/models/Geneformer/gf-12L-95M-i4096",
+  "runtime": {
+    "chunk_size": 512,
+    "force_cpu": true,
+    "forward_batch_size": 32,
+    "max_cells": null,
+    "nproc": 4,
+    "overwrite": true
+  },
+  "step": "geneformer_embed",
+  "variants": [
+    {
+      "embedding_csv": "/Users/lenatrnovec/crossspecies-benchmark/data/geneformer/work/elegans/tier1/embeddings/elegans_tier1_embeddings.csv",
+      "embedding_shape": [
+        89701,
+        512
+      ],
+      "n_cells": 89701,
+      "n_collapsed_paralog_rows": 0,
+      "n_geneformer_vocab_matched_genes": 1642,
+      "n_mapped_ids": 1646,
+      "n_selected_ortholog_symbols": 1659,
+      "n_source_genes": 20222,
+      "n_unique_ids": 1646,
+      "n_unique_tokens": 1644,
+      "obsm_keys_written": [
+        "X_geneformer_ortholog_tier1",
+        "X_geneformer_ortholog_tier1_50"
+      ],
+      "pca_shape": [
+        89701,
+        50
+      ],
+      "smoke_embedding_arrays": [],
+      "temporary_h5ad": "/Users/lenatrnovec/crossspecies-benchmark/data/geneformer/work/elegans/tier1/input/elegans_tier1.h5ad",
+      "tier_columns": [
+        "ortholog_tier_1"
+      ],
+      "tokenized_dataset": "/Users/lenatrnovec/crossspecies-benchmark/data/geneformer/work/elegans/tier1/tokens/elegans_tier1_ids.dataset",
+      "variant": "tier1"
+    },
+    {
+      "embedding_csv": "/Users/lenatrnovec/crossspecies-benchmark/data/geneformer/work/elegans/tier12/embeddings/elegans_tier12_embeddings.csv",
+      "embedding_shape": [
+        89701,
+        512
+      ],
+      "n_cells": 89701,
+      "n_collapsed_paralog_rows": 8,
+      "n_geneformer_vocab_matched_genes": 3506,
+      "n_mapped_ids": 3540,
+      "n_selected_ortholog_symbols": 3568,
+      "n_source_genes": 20222,
+      "n_unique_ids": 3532,
+      "n_unique_tokens": 3505,
+      "obsm_keys_written": [
+        "X_geneformer_ortholog_tier12",
+        "X_geneformer_ortholog_tier12_50",
+        "X_geneformer_orto",
+        "X_geneformer_orto_50"
+      ],
+      "pca_shape": [
+        89701,
+        50
+      ],
+      "smoke_embedding_arrays": [],
+      "temporary_h5ad": "/Users/lenatrnovec/crossspecies-benchmark/data/geneformer/work/elegans/tier12/input/elegans_tier12.h5ad",
+      "tier_columns": [
+        "ortholog_tier_1",
+        "ortholog_tier_2"
+      ],
+      "tokenized_dataset": "/Users/lenatrnovec/crossspecies-benchmark/data/geneformer/work/elegans/tier12/tokens/elegans_tier12_ids.dataset",
+      "variant": "tier12"
+    },
+    {
+      "embedding_csv": "/Users/lenatrnovec/crossspecies-benchmark/data/geneformer/work/elegans/tier123/embeddings/elegans_tier123_embeddings.csv",
+      "embedding_shape": [
+        89701,
+        512
+      ],
+      "n_cells": 89701,
+      "n_collapsed_paralog_rows": 3622,
+      "n_geneformer_vocab_matched_genes": 6011,
+      "n_mapped_ids": 9690,
+      "n_selected_ortholog_symbols": 9853,
+      "n_source_genes": 20222,
+      "n_unique_ids": 6068,
+      "n_unique_tokens": 5998,
+      "obsm_keys_written": [
+        "X_geneformer_ortholog_tier123",
+        "X_geneformer_ortholog_tier123_50"
+      ],
+      "pca_shape": [
+        89701,
+        50
+      ],
+      "smoke_embedding_arrays": [],
+      "temporary_h5ad": "/Users/lenatrnovec/crossspecies-benchmark/data/geneformer/work/elegans/tier123/input/elegans_tier123.h5ad",
+      "tier_columns": [
+        "ortholog_tier_1",
+        "ortholog_tier_2",
+        "ortholog_tier_3"
+      ],
+      "tokenized_dataset": "/Users/lenatrnovec/crossspecies-benchmark/data/geneformer/work/elegans/tier123/tokens/elegans_tier123_ids.dataset",
+      "variant": "tier123"
+    }
+  ],
+  "work_dir": "/Users/lenatrnovec/crossspecies-benchmark/data/geneformer/work"
+}

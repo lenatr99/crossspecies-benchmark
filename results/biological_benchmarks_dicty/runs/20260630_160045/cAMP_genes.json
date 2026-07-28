@@ -1,0 +1,62 @@
+{
+    "X_pca": {
+        "NMI_cluster/label": 0.4503871304491013,
+        "ARI_cluster/label": 0.27897965930983715,
+        "ASW_label": 0.6443227082490921,
+        "ASW_label/batch": 0.8576685190200806,
+        "graph_conn": 0.9960168476671958,
+        "leiden_resolution": 0.1,
+        "n_clusters": 5,
+        "avg_bio": 0.4578964993360102,
+        "avg_batch": 0.9268426833436382,
+        "overall_score": 0.6454749729390614
+    },
+    "X_scVI_ortholog_tier12": {
+        "NMI_cluster/label": 0.4261421290873533,
+        "ARI_cluster/label": 0.2797473991673569,
+        "ASW_label": 0.5619077123701572,
+        "ASW_label/batch": 0.8597252368927002,
+        "graph_conn": 0.9961314642080654,
+        "leiden_resolution": 0.1,
+        "n_clusters": 5,
+        "avg_bio": 0.4225990802082891,
+        "avg_batch": 0.9279283505503828,
+        "overall_score": 0.6247307883451265
+    },
+    "X_geneformer_ortholog_tier12": {
+        "NMI_cluster/label": 0.6206492869086708,
+        "ARI_cluster/label": 0.6183327702532926,
+        "ASW_label": 0.6262743324041367,
+        "ASW_label/batch": 0.8263223171234131,
+        "graph_conn": 0.9947440924719164,
+        "leiden_resolution": 0.1,
+        "n_clusters": 3,
+        "avg_bio": 0.6217521298553667,
+        "avg_batch": 0.9105332047976648,
+        "overall_score": 0.7372645598322859
+    },
+    "X_scGPT_ortholog_tier12": {
+        "NMI_cluster/label": 0.7935061928639041,
+        "ARI_cluster/label": 0.8836487993960926,
+        "ASW_label": 0.5840843394398689,
+        "ASW_label/batch": 0.894813060760498,
+        "graph_conn": 0.9948103580111853,
+        "leiden_resolution": 0.1,
+        "n_clusters": 2,
+        "avg_bio": 0.7537464438999552,
+        "avg_batch": 0.9448117093858417,
+        "overall_score": 0.8301725500943098
+    },
+    "X_uce_4L": {
+        "NMI_cluster/label": 0.7994174448101018,
+        "ARI_cluster/label": 0.8897162633185224,
+        "ASW_label": 0.6536690443754196,
+        "ASW_label/batch": 0.9306730628013611,
+        "graph_conn": 0.9949460881563578,
+        "leiden_resolution": 0.1,
+        "n_clusters": 2,
+        "avg_bio": 0.7809342508346813,
+        "avg_batch": 0.9628095754788595,
+        "overall_score": 0.8536843806923526
+    }
+}

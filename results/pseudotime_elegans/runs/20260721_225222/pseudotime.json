@@ -1,0 +1,148 @@
+{
+    "X_pca_hvg_scaled": {
+        "spearman": 0.4447375664322607,
+        "spearman_consensus": 0.4508344242569226,
+        "lins_ccc": 0.05923661499745768,
+        "lins_ccc_isotonic": 0.34784351346503534,
+        "lins_ccc_consensus": 0.050760543981816196,
+        "spearman_ci": [
+            0.4390526906155777,
+            0.45071597462157265
+        ],
+        "spearman_std": 0.0030320313146683987,
+        "spearman_consensus_ci": [
+            0.44379249612570953,
+            0.45762040580434915
+        ],
+        "spearman_consensus_std": 0.003536887265148402,
+        "lins_ccc_ci": [
+            0.054133448830263206,
+            0.06490887387374522
+        ],
+        "lins_ccc_std": 0.0027684169769989497,
+        "lins_ccc_isotonic_ci": [
+            0.3402675896394327,
+            0.35783472895250384
+        ],
+        "lins_ccc_isotonic_std": 0.0045532716385246206,
+        "lins_ccc_consensus_ci": [
+            0.0406295967140996,
+            0.06399268994973766
+        ],
+        "lins_ccc_consensus_std": 0.005887032430301035
+    },
+    "X_uce_33L": {
+        "spearman": 0.7028692649328051,
+        "spearman_consensus": 0.7098773524273311,
+        "lins_ccc": 0.26067110982050107,
+        "lins_ccc_isotonic": 0.5993515710936075,
+        "lins_ccc_consensus": 0.292381833020919,
+        "spearman_ci": [
+            0.6936427273205783,
+            0.7108121502869147
+        ],
+        "spearman_std": 0.004466853119955794,
+        "spearman_consensus_ci": [
+            0.7035308908865224,
+            0.7145228081608448
+        ],
+        "spearman_consensus_std": 0.002866980281870586,
+        "lins_ccc_ci": [
+            0.24415173313938152,
+            0.27830637874990743
+        ],
+        "lins_ccc_std": 0.008487491397936675,
+        "lins_ccc_isotonic_ci": [
+            0.5901141363063821,
+            0.6089353121939323
+        ],
+        "lins_ccc_isotonic_std": 0.004821867580566107,
+        "lins_ccc_consensus_ci": [
+            0.22665855554527978,
+            0.3305996310668643
+        ],
+        "lins_ccc_consensus_std": 0.027363024351904155
+    },
+    "_significance": {
+        "spearman": {
+            "metric": "spearman",
+            "pairs": [
+                {
+                    "emb_a": "X_pca_hvg_scaled",
+                    "emb_b": "X_uce_33L",
+                    "mean_diff": -0.25820773257108043,
+                    "diff_ci": [
+                        -0.26637076063721105,
+                        -0.24931788185108703
+                    ],
+                    "p_value": 0.002,
+                    "significant": true
+                }
+            ]
+        },
+        "spearman_consensus": {
+            "metric": "spearman_consensus",
+            "pairs": [
+                {
+                    "emb_a": "X_pca_hvg_scaled",
+                    "emb_b": "X_uce_33L",
+                    "mean_diff": -0.2587763191956192,
+                    "diff_ci": [
+                        -0.2667096642839127,
+                        -0.2510498670552815
+                    ],
+                    "p_value": 0.002,
+                    "significant": true
+                }
+            ]
+        },
+        "lins_ccc": {
+            "metric": "lins_ccc",
+            "pairs": [
+                {
+                    "emb_a": "X_pca_hvg_scaled",
+                    "emb_b": "X_uce_33L",
+                    "mean_diff": -0.20161228571877224,
+                    "diff_ci": [
+                        -0.21764611377259538,
+                        -0.1868084603196095
+                    ],
+                    "p_value": 0.002,
+                    "significant": true
+                }
+            ]
+        },
+        "lins_ccc_isotonic": {
+            "metric": "lins_ccc_isotonic",
+            "pairs": [
+                {
+                    "emb_a": "X_pca_hvg_scaled",
+                    "emb_b": "X_uce_33L",
+                    "mean_diff": -0.25157033730381523,
+                    "diff_ci": [
+                        -0.2591655867526984,
+                        -0.24305630463573816
+                    ],
+                    "p_value": 0.002,
+                    "significant": true
+                }
+            ]
+        },
+        "lins_ccc_consensus": {
+            "metric": "lins_ccc_consensus",
+            "pairs": [
+                {
+                    "emb_a": "X_pca_hvg_scaled",
+                    "emb_b": "X_uce_33L",
+                    "mean_diff": -0.24014492102975293,
+                    "diff_ci": [
+                        -0.2722681822895133,
+                        -0.18544097289026926
+                    ],
+                    "p_value": 0.002,
+                    "significant": true
+                }
+            ]
+        }
+    }
+}

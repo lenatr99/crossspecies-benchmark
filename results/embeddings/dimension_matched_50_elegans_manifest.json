@@ -1,0 +1,113 @@
+{
+  "dataset": "elegans",
+  "generated_utc": "2026-07-22T16:34:30.823306+00:00",
+  "h5ad": "/Users/lenatrnovec/crossspecies-benchmark/data/elegans.h5ad",
+  "mode": "full",
+  "parameters": {
+    "center": true,
+    "feature_scaling": false,
+    "n_components": 50,
+    "operation": "PCA applied after cell embedding",
+    "seed": 42,
+    "svd_solver": "randomized",
+    "whiten": false
+  },
+  "records": [
+    {
+      "all_components_nonzero_variance": true,
+      "explained_variance_ratio_sum": 0.9693007469177246,
+      "finite": true,
+      "output_key": "X_pca_pca50_supp",
+      "output_sha256": "a346378ec6a0a68ecec4bc3695fb2b3d536f119dfad90ebccbf6fd76eae7f0fe",
+      "output_shape": [
+        89701,
+        50
+      ],
+      "repeat_output_sha256": null,
+      "source_key": "X_pca",
+      "source_sha256": "a3c81f5eeb4e1fce36cc9e451a6410c62f4eacdbdfc6e635bd0cfbd826a141f1",
+      "source_shape": [
+        89701,
+        100
+      ]
+    },
+    {
+      "all_components_nonzero_variance": true,
+      "explained_variance_ratio_sum": 0.9998708367347717,
+      "finite": true,
+      "output_key": "X_scVI_pca50_supp",
+      "output_sha256": "12f1c1e6a7e0e4aadb13a0b0a94f7c0537bea8afae1bcc25d01d8b446c06ed57",
+      "output_shape": [
+        89701,
+        50
+      ],
+      "repeat_output_sha256": null,
+      "source_key": "X_scVI",
+      "source_sha256": "531c56cff6bdc34cb711a3d414df04aa34206c3c26e1fe9830b498678b6b7e0b",
+      "source_shape": [
+        89701,
+        100
+      ]
+    },
+    {
+      "all_components_nonzero_variance": true,
+      "explained_variance_ratio_sum": 0.898537278175354,
+      "finite": true,
+      "output_key": "X_scGPT_ortholog_tier12_pca50_supp",
+      "output_sha256": "0d642473851ab1eb28db1dceeb2a540ed67a5d639adfb9bb3f01901294a3723e",
+      "output_shape": [
+        89701,
+        50
+      ],
+      "repeat_output_sha256": null,
+      "source_key": "X_scGPT_ortholog_tier12",
+      "source_sha256": "30443e0a87ecb53d7700326b3252f43bff046cfdf0875a110e373b25a45dce23",
+      "source_shape": [
+        89701,
+        512
+      ]
+    },
+    {
+      "all_components_nonzero_variance": true,
+      "explained_variance_ratio_sum": 0.8992772102355957,
+      "finite": true,
+      "output_key": "X_geneformer_ortholog_tier12_pca50_supp",
+      "output_sha256": "6dfec747b7b9366468854b1dab753294637ef3eaf8092ee17b9b1e30e13e76fd",
+      "output_shape": [
+        89701,
+        50
+      ],
+      "repeat_output_sha256": null,
+      "source_key": "X_geneformer_ortholog_tier12",
+      "source_sha256": "125165293cc1ae2f50f7b59d64559f5166f0519daf4b1d36962e840c0ceb04d4",
+      "source_shape": [
+        89701,
+        512
+      ]
+    },
+    {
+      "all_components_nonzero_variance": true,
+      "explained_variance_ratio_sum": 0.9119842052459717,
+      "finite": true,
+      "output_key": "X_uce_4L_pca50_supp",
+      "output_sha256": "eb6cb3fbf4a271b6014ce427f32a79f399d7fe49d3210f664ba56d965d25c8e1",
+      "output_shape": [
+        89701,
+        50
+      ],
+      "repeat_output_sha256": null,
+      "source_key": "X_uce_4L",
+      "source_sha256": "49612bf77529a7c867e04ab41cab6f0af9897d07a67f76c977679606d8a8cebc",
+      "source_shape": [
+        89701,
+        1280
+      ]
+    }
+  ],
+  "smoke_cells": 0,
+  "software_versions": {
+    "anndata": "0.12.1",
+    "numpy": "2.2.6",
+    "scikit-learn": "1.7.1"
+  }
+}

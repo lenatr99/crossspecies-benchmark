@@ -1,0 +1,32 @@
+{
+  "summaries": [
+    {
+      "base_save_dir": "/Users/lenatrnovec/crossspecies-benchmark/results/pseudotime_dicty",
+      "dataset": "dicty",
+      "elapsed_seconds": 3253.8569440841675,
+      "embedding_preset": "main",
+      "k_roots": 50,
+      "n_boot": 1000,
+      "n_candidates": 500,
+      "n_embeddings_ok": 5,
+      "root_method": "uniform",
+      "save_dir": "/Users/lenatrnovec/crossspecies-benchmark/results/pseudotime_dicty/runs/20260703_130811",
+      "time_key": "time",
+      "timestamped_save_dir": true
+    },
+    {
+      "base_save_dir": "/Users/lenatrnovec/crossspecies-benchmark/results/pseudotime_elegans",
+      "dataset": "elegans",
+      "elapsed_seconds": 7165.794905900955,
+      "embedding_preset": "main",
+      "k_roots": 50,
+      "n_boot": 1000,
+      "n_candidates": 500,
+      "n_embeddings_ok": 5,
+      "root_method": "uniform",
+      "save_dir": "/Users/lenatrnovec/crossspecies-benchmark/results/pseudotime_elegans/runs/20260703_130811",
+      "time_key": "embryo.time",
+      "timestamped_save_dir": true
+    }
+  ]
+}

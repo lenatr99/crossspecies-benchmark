@@ -1,0 +1,132 @@
+{
+    "X_pca_hvg_scaled": {
+        "spearman": 0.762606230593368,
+        "lins_ccc": 0.7270138207062622,
+        "spearman_consensus": 0.7769839356934807,
+        "lins_ccc_consensus": 0.7675116032386113,
+        "spearman_ci": [
+            0.706073287839839,
+            0.7856308889667183
+        ],
+        "spearman_mean": 0.7599286298013458,
+        "spearman_std": 0.022823234182973533,
+        "lins_ccc_ci": [
+            0.6656406352891627,
+            0.752794533286966
+        ],
+        "lins_ccc_mean": 0.7215210937466002,
+        "lins_ccc_std": 0.02921625029255039,
+        "spearman_consensus_ci": [
+            0.7656697554552524,
+            0.787184418546393
+        ],
+        "spearman_consensus_mean": 0.7785180620928656,
+        "spearman_consensus_std": 0.005695362919983882,
+        "lins_ccc_consensus_ci": [
+            0.6971087408259926,
+            0.7831160273759521
+        ],
+        "lins_ccc_consensus_mean": 0.7653829623291575,
+        "lins_ccc_consensus_std": 0.025697048559762115
+    },
+    "X_uce_33L": {
+        "spearman": 0.4078622785456209,
+        "lins_ccc": 0.43320822390643193,
+        "spearman_consensus": 0.8388730214790057,
+        "lins_ccc_consensus": 0.8071930420374724,
+        "spearman_ci": [
+            0.36522569012955064,
+            0.43756427807273024
+        ],
+        "spearman_mean": 0.3980580975370222,
+        "spearman_std": 0.020474085963956442,
+        "lins_ccc_ci": [
+            0.38616498205898386,
+            0.47178173425393755
+        ],
+        "lins_ccc_mean": 0.4282008730155537,
+        "lins_ccc_std": 0.022856747315423052,
+        "spearman_consensus_ci": [
+            0.7192698047080621,
+            0.8483680743674659
+        ],
+        "spearman_consensus_mean": 0.8209382143434624,
+        "spearman_consensus_std": 0.049763720900724215,
+        "lins_ccc_consensus_ci": [
+            0.6389088505676773,
+            0.8399269977939833
+        ],
+        "lins_ccc_consensus_mean": 0.7733009567159663,
+        "lins_ccc_consensus_std": 0.06315387809364793
+    },
+    "_distinguishability": {
+        "spearman": {
+            "metric": "spearman",
+            "pairs": [
+                {
+                    "emb_a": "X_pca_hvg_scaled",
+                    "emb_b": "X_uce_33L",
+                    "mean_diff": 0.3618705322643235,
+                    "diff_ci": [
+                        0.3086398207843003,
+                        0.39726605910054763
+                    ],
+                    "distinguishable": true
+                }
+            ]
+        },
+        "lins_ccc": {
+            "metric": "lins_ccc",
+            "pairs": [
+                {
+                    "emb_a": "X_pca_hvg_scaled",
+                    "emb_b": "X_uce_33L",
+                    "mean_diff": 0.2933202207310465,
+                    "diff_ci": [
+                        0.22098047942105378,
+                        0.33987508445656794
+                    ],
+                    "distinguishable": true
+                }
+            ]
+        },
+        "spearman_consensus": {
+            "metric": "spearman_consensus",
+            "pairs": [
+                {
+                    "emb_a": "X_pca_hvg_scaled",
+                    "emb_b": "X_uce_33L",
+                    "mean_diff": -0.04242015225059663,
+                    "diff_ci": [
+                        -0.07050658118620864,
+                        0.06730837447245289
+                    ],
+                    "distinguishable": false
+                }
+            ]
+        },
+        "lins_ccc_consensus": {
+            "metric": "lins_ccc_consensus",
+            "pairs": [
+                {
+                    "emb_a": "X_pca_hvg_scaled",
+                    "emb_b": "X_uce_33L",
+                    "mean_diff": -0.00791799438680915,
+                    "diff_ci": [
+                        -0.10569994326582802,
+                        0.14265759045495432
+                    ],
+                    "distinguishable": false
+                }
+            ]
+        }
+    },
+    "_inference": {
+        "method": "subsampling_without_replacement_recompute",
+        "n_repeats": 30,
+        "subsample_frac": 0.9,
+        "k_roots": 20,
+        "n_candidates": 500,
+        "seed": 0
+    }
+}

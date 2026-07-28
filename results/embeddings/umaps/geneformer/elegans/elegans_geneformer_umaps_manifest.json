@@ -1,0 +1,71 @@
+{
+  "dataset": "elegans",
+  "model": "geneformer",
+  "h5ad_path": "/Users/lenatrnovec/crossspecies-benchmark/data/elegans.h5ad",
+  "generated_utc": "2026-05-02T06:52:16.994809+00:00",
+  "embedding_template": "X_geneformer_ortholog_{variant}{representation_suffix}",
+  "embedding_keys": null,
+  "output_prefix": "geneformer",
+  "random_state": 42,
+  "min_dist": 0.5,
+  "n_neighbors": 15,
+  "size": 5,
+  "alpha": 1.0,
+  "dpi": 180,
+  "outputs": [
+    {
+      "model": "geneformer",
+      "variant": "tier1",
+      "representation": "pca50",
+      "embedding_key": "X_geneformer_ortholog_tier1_50",
+      "umap_key": "X_geneformer_ortholog_tier1_50_umap",
+      "color": "time",
+      "figure": "/Users/lenatrnovec/crossspecies-benchmark/results/embeddings/umaps/geneformer/elegans/elegans_geneformer_ortholog_tier1_50_umap_by_time.png"
+    },
+    {
+      "model": "geneformer",
+      "variant": "tier1",
+      "representation": "pca50",
+      "embedding_key": "X_geneformer_ortholog_tier1_50",
+      "umap_key": "X_geneformer_ortholog_tier1_50_umap",
+      "color": "cell_type",
+      "figure": "/Users/lenatrnovec/crossspecies-benchmark/results/embeddings/umaps/geneformer/elegans/elegans_geneformer_ortholog_tier1_50_umap_by_cell_type.png"
+    },
+    {
+      "model": "geneformer",
+      "variant": "tier12",
+      "representation": "pca50",
+      "embedding_key": "X_geneformer_ortholog_tier12_50",
+      "umap_key": "X_geneformer_ortholog_tier12_50_umap",
+      "color": "time",
+      "figure": "/Users/lenatrnovec/crossspecies-benchmark/results/embeddings/umaps/geneformer/elegans/elegans_geneformer_ortholog_tier12_50_umap_by_time.png"
+    },
+    {
+      "model": "geneformer",
+      "variant": "tier12",
+      "representation": "pca50",
+      "embedding_key": "X_geneformer_ortholog_tier12_50",
+      "umap_key": "X_geneformer_ortholog_tier12_50_umap",
+      "color": "cell_type",
+      "figure": "/Users/lenatrnovec/crossspecies-benchmark/results/embeddings/umaps/geneformer/elegans/elegans_geneformer_ortholog_tier12_50_umap_by_cell_type.png"
+    },
+    {
+      "model": "geneformer",
+      "variant": "tier123",
+      "representation": "pca50",
+      "embedding_key": "X_geneformer_ortholog_tier123_50",
+      "umap_key": "X_geneformer_ortholog_tier123_50_umap",
+      "color": "time",
+      "figure": "/Users/lenatrnovec/crossspecies-benchmark/results/embeddings/umaps/geneformer/elegans/elegans_geneformer_ortholog_tier123_50_umap_by_time.png"
+    },
+    {
+      "model": "geneformer",
+      "variant": "tier123",
+      "representation": "pca50",
+      "embedding_key": "X_geneformer_ortholog_tier123_50",
+      "umap_key": "X_geneformer_ortholog_tier123_50_umap",
+      "color": "cell_type",
+      "figure": "/Users/lenatrnovec/crossspecies-benchmark/results/embeddings/umaps/geneformer/elegans/elegans_geneformer_ortholog_tier123_50_umap_by_cell_type.png"
+    }
+  ]
+}

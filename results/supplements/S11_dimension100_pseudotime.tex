@@ -1,0 +1,25 @@
+\begin{table}[H]
+\centering
+\caption{\textbf{Common 100-component sensitivity for developmental ordering.} PCA and scVI are already 100-dimensional and are reused unchanged; the other three representations are reduced by post-embedding PCA. Each cell shows native $\to$ 100-dimensional full-data point estimate, followed by the 2.5th--97.5th percentile stability interval for that 100-dimensional condition from 30 repeated 90\% subsamples. Correlations are displayed on $[0,1]$ via $(r+1)/2$.}
+\label{tab:s11}
+\small
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{@{}llcc@{}}
+\toprule
+Organism & Method & Spearman $\rho$: native $\to$ 100D [interval] & Consensus Lin's CCC: native $\to$ 100D [interval] \\
+\midrule
+\species{D.~discoideum} & PCA & 0.905 $\to$ 0.905 [0.875, 0.919] & 0.895 $\to$ 0.895 [0.886, 0.904] \\
+ & scVI & 0.906 $\to$ 0.906 [0.878, 0.916] & 0.893 $\to$ 0.893 [0.883, 0.905] \\
+ & scGPT & 0.909 $\to$ 0.909 [0.878, 0.912] & 0.908 $\to$ 0.907 [0.903, 0.912] \\
+ & Geneformer & 0.869 $\to$ 0.870 [0.852, 0.885] & 0.829 $\to$ 0.823 [0.815, 0.840] \\
+ & UCE-4L & 0.911 $\to$ 0.912 [0.885, 0.915] & 0.892 $\to$ 0.892 [0.880, 0.896] \\
+\addlinespace
+\species{C.~elegans} & PCA & 0.832 $\to$ 0.832 [0.795, 0.860] & 0.526 $\to$ 0.526 [0.524, 0.532] \\
+ & scVI & 0.722 $\to$ 0.722 [0.703, 0.758] & 0.535 $\to$ 0.535 [0.525, 0.580] \\
+ & scGPT & 0.826 $\to$ 0.827 [0.814, 0.832] & 0.579 $\to$ 0.582 [0.568, 0.602] \\
+ & Geneformer & 0.818 $\to$ 0.816 [0.802, 0.822] & 0.518 $\to$ 0.586 [0.522, 0.622] \\
+ & UCE-4L & 0.868 $\to$ 0.866 [0.862, 0.873] & 0.734 $\to$ 0.739 [0.650, 0.771] \\
+\bottomrule
+\end{tabular}%
+}
+\end{table}

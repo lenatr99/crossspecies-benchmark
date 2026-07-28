@@ -1,0 +1,14 @@
+{
+  "generated_utc": "2026-04-30T23:23:21.529965+00:00",
+  "label": "C. elegans",
+  "n_rows": 25663,
+  "n_unique_human_symbols": 11432,
+  "n_unique_organism_genes": 8204,
+  "note": "Parsed OrthoList 2 from /workspace/data/curated/ortholist_master.xlsx",
+  "organism": "elegans",
+  "output_tsv": "/workspace/results/orthologs/01e_curated_elegans.tsv",
+  "source": "OrthoList2",
+  "source_path": "/workspace/data/curated/ortholist_master.xlsx",
+  "source_sha256": "4d75f0979a0a25d046fc91dfa618a1a01ee32f37d0081d2917828d4cc3f3a7cc",
+  "step": "01e_curated"
+}

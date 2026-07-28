@@ -1,0 +1,392 @@
+{
+    "X_uce_4L_orthoT12": {
+        "spearman": 0.8276322850317452,
+        "lins_ccc": 0.7796695468910323,
+        "spearman_consensus": 0.8320366486248184,
+        "lins_ccc_consensus": 0.806207197586394,
+        "spearman_ci": [
+            0.7789427997823519,
+            0.8303103485844655
+        ],
+        "spearman_mean": 0.8191434773293865,
+        "spearman_std": 0.016212577696912617,
+        "lins_ccc_ci": [
+            0.7342292512069731,
+            0.7842865091926254
+        ],
+        "lins_ccc_mean": 0.7712251947467588,
+        "lins_ccc_std": 0.016478591497273227,
+        "spearman_consensus_ci": [
+            0.8284645357824092,
+            0.8329833283023902
+        ],
+        "spearman_consensus_mean": 0.8310401276120586,
+        "spearman_consensus_std": 0.0011185778033918578,
+        "lins_ccc_consensus_ci": [
+            0.785566781493405,
+            0.8182065306127642
+        ],
+        "lins_ccc_consensus_mean": 0.803808196935447,
+        "lins_ccc_consensus_std": 0.007868959004997596
+    },
+    "X_scGPT_ortholog_tier12_pca100_supp": {
+        "spearman": 0.8183102421779953,
+        "lins_ccc": 0.8010704372034163,
+        "spearman_consensus": 0.8248043127708592,
+        "lins_ccc_consensus": 0.8139793743901472,
+        "spearman_ci": [
+            0.756692351165266,
+            0.8239984742433505
+        ],
+        "spearman_mean": 0.8090449457747053,
+        "spearman_std": 0.02122939441429327,
+        "lins_ccc_ci": [
+            0.7432602564059755,
+            0.8084277495275006
+        ],
+        "lins_ccc_mean": 0.7932365975991176,
+        "lins_ccc_std": 0.02024934873235128,
+        "spearman_consensus_ci": [
+            0.8227035842176272,
+            0.8264313394105431
+        ],
+        "spearman_consensus_mean": 0.8245900636310511,
+        "spearman_consensus_std": 0.0010519441852310499,
+        "lins_ccc_consensus_ci": [
+            0.8063086835445903,
+            0.8248673849246431
+        ],
+        "lins_ccc_consensus_mean": 0.8145539742097135,
+        "lins_ccc_consensus_std": 0.004814198305432119
+    },
+    "X_geneformer_ortholog_tier12_pca100_supp": {
+        "spearman": 0.7397021635659052,
+        "lins_ccc": 0.5917376272243785,
+        "spearman_consensus": 0.7685554022477705,
+        "lins_ccc_consensus": 0.6465328236502667,
+        "spearman_ci": [
+            0.7049208663449239,
+            0.7704186640956326
+        ],
+        "spearman_mean": 0.7360023910532799,
+        "spearman_std": 0.02094826129766963,
+        "lins_ccc_ci": [
+            0.5609647179709919,
+            0.6091552461990508
+        ],
+        "lins_ccc_mean": 0.5894922742534985,
+        "lins_ccc_std": 0.016298107340240956,
+        "spearman_consensus_ci": [
+            0.7652175526137178,
+            0.7743066860791583
+        ],
+        "spearman_consensus_mean": 0.7698218102723385,
+        "spearman_consensus_std": 0.002799875340738186,
+        "lins_ccc_consensus_ci": [
+            0.629474945168703,
+            0.6805051272320563
+        ],
+        "lins_ccc_consensus_mean": 0.6526957744685531,
+        "lins_ccc_consensus_std": 0.012982217320937706
+    },
+    "X_uce_4L_pca100_supp": {
+        "spearman": 0.8235214675527225,
+        "lins_ccc": 0.747563813221914,
+        "spearman_consensus": 0.8314576337180148,
+        "lins_ccc_consensus": 0.78402652216895,
+        "spearman_ci": [
+            0.7702159845609662,
+            0.8309933756761767
+        ],
+        "spearman_mean": 0.813162503099742,
+        "spearman_std": 0.019225301790090004,
+        "lins_ccc_ci": [
+            0.7159415603923857,
+            0.7571077987356142
+        ],
+        "lins_ccc_mean": 0.7432943069835687,
+        "lins_ccc_std": 0.010759110179227161,
+        "spearman_consensus_ci": [
+            0.8277254685551912,
+            0.833089454405395
+        ],
+        "spearman_consensus_mean": 0.8305902526494019,
+        "spearman_consensus_std": 0.0014338294017082387,
+        "lins_ccc_consensus_ci": [
+            0.7603739829096234,
+            0.7921398678349048
+        ],
+        "lins_ccc_consensus_mean": 0.7777723857331689,
+        "lins_ccc_consensus_std": 0.008251811818653398
+    },
+    "_distinguishability": {
+        "spearman": {
+            "metric": "spearman",
+            "pairs": [
+                {
+                    "emb_a": "X_uce_4L_orthoT12",
+                    "emb_b": "X_scGPT_ortholog_tier12_pca100_supp",
+                    "mean_diff": 0.010098531554681123,
+                    "diff_ci": [
+                        -0.029522721535358315,
+                        0.06095105094280878
+                    ],
+                    "distinguishable": false
+                },
+                {
+                    "emb_a": "X_uce_4L_orthoT12",
+                    "emb_b": "X_geneformer_ortholog_tier12_pca100_supp",
+                    "mean_diff": 0.08314108627610652,
+                    "diff_ci": [
+                        0.042736248181576536,
+                        0.11684687822450633
+                    ],
+                    "distinguishable": true
+                },
+                {
+                    "emb_a": "X_uce_4L_orthoT12",
+                    "emb_b": "X_uce_4L_pca100_supp",
+                    "mean_diff": 0.0059809742296444346,
+                    "diff_ci": [
+                        -0.021267400357720415,
+                        0.034094954330597185
+                    ],
+                    "distinguishable": false
+                },
+                {
+                    "emb_a": "X_scGPT_ortholog_tier12_pca100_supp",
+                    "emb_b": "X_geneformer_ortholog_tier12_pca100_supp",
+                    "mean_diff": 0.07304255472142539,
+                    "diff_ci": [
+                        0.020651358673632346,
+                        0.10970249029811545
+                    ],
+                    "distinguishable": true
+                },
+                {
+                    "emb_a": "X_scGPT_ortholog_tier12_pca100_supp",
+                    "emb_b": "X_uce_4L_pca100_supp",
+                    "mean_diff": -0.004117557325036688,
+                    "diff_ci": [
+                        -0.03244284532224997,
+                        0.0319923472554212
+                    ],
+                    "distinguishable": false
+                },
+                {
+                    "emb_a": "X_geneformer_ortholog_tier12_pca100_supp",
+                    "emb_b": "X_uce_4L_pca100_supp",
+                    "mean_diff": -0.07716011204646205,
+                    "diff_ci": [
+                        -0.11183280356738141,
+                        -0.04034175292335552
+                    ],
+                    "distinguishable": true
+                }
+            ]
+        },
+        "lins_ccc": {
+            "metric": "lins_ccc",
+            "pairs": [
+                {
+                    "emb_a": "X_uce_4L_orthoT12",
+                    "emb_b": "X_scGPT_ortholog_tier12_pca100_supp",
+                    "mean_diff": -0.02201140285235879,
+                    "diff_ci": [
+                        -0.06353435811729513,
+                        0.01941668600273444
+                    ],
+                    "distinguishable": false
+                },
+                {
+                    "emb_a": "X_uce_4L_orthoT12",
+                    "emb_b": "X_geneformer_ortholog_tier12_pca100_supp",
+                    "mean_diff": 0.18173292049326026,
+                    "diff_ci": [
+                        0.1298374012384806,
+                        0.22207903413173571
+                    ],
+                    "distinguishable": true
+                },
+                {
+                    "emb_a": "X_uce_4L_orthoT12",
+                    "emb_b": "X_uce_4L_pca100_supp",
+                    "mean_diff": 0.027930887763190117,
+                    "diff_ci": [
+                        -0.0073968271946777695,
+                        0.05128694667053658
+                    ],
+                    "distinguishable": false
+                },
+                {
+                    "emb_a": "X_scGPT_ortholog_tier12_pca100_supp",
+                    "emb_b": "X_geneformer_ortholog_tier12_pca100_supp",
+                    "mean_diff": 0.2037443233456191,
+                    "diff_ci": [
+                        0.14138382702536526,
+                        0.2453491488619116
+                    ],
+                    "distinguishable": true
+                },
+                {
+                    "emb_a": "X_scGPT_ortholog_tier12_pca100_supp",
+                    "emb_b": "X_uce_4L_pca100_supp",
+                    "mean_diff": 0.049942290615548904,
+                    "diff_ci": [
+                        0.007571875243642725,
+                        0.0779687734856988
+                    ],
+                    "distinguishable": true
+                },
+                {
+                    "emb_a": "X_geneformer_ortholog_tier12_pca100_supp",
+                    "emb_b": "X_uce_4L_pca100_supp",
+                    "mean_diff": -0.15380203273007015,
+                    "diff_ci": [
+                        -0.19051142038465377,
+                        -0.1261720297298321
+                    ],
+                    "distinguishable": true
+                }
+            ]
+        },
+        "spearman_consensus": {
+            "metric": "spearman_consensus",
+            "pairs": [
+                {
+                    "emb_a": "X_uce_4L_orthoT12",
+                    "emb_b": "X_scGPT_ortholog_tier12_pca100_supp",
+                    "mean_diff": 0.006450063981007314,
+                    "diff_ci": [
+                        0.0034467399757886433,
+                        0.00916884756547306
+                    ],
+                    "distinguishable": true
+                },
+                {
+                    "emb_a": "X_uce_4L_orthoT12",
+                    "emb_b": "X_geneformer_ortholog_tier12_pca100_supp",
+                    "mean_diff": 0.061218317339719906,
+                    "diff_ci": [
+                        0.055651797305622835,
+                        0.06627686205129041
+                    ],
+                    "distinguishable": true
+                },
+                {
+                    "emb_a": "X_uce_4L_orthoT12",
+                    "emb_b": "X_uce_4L_pca100_supp",
+                    "mean_diff": 0.0004498749626564121,
+                    "diff_ci": [
+                        -0.0016566205755072921,
+                        0.0032681056589938854
+                    ],
+                    "distinguishable": false
+                },
+                {
+                    "emb_a": "X_scGPT_ortholog_tier12_pca100_supp",
+                    "emb_b": "X_geneformer_ortholog_tier12_pca100_supp",
+                    "mean_diff": 0.05476825335871258,
+                    "diff_ci": [
+                        0.05069346894904582,
+                        0.05913412361024232
+                    ],
+                    "distinguishable": true
+                },
+                {
+                    "emb_a": "X_scGPT_ortholog_tier12_pca100_supp",
+                    "emb_b": "X_uce_4L_pca100_supp",
+                    "mean_diff": -0.006000189018350903,
+                    "diff_ci": [
+                        -0.008719150979033127,
+                        -0.0034593804428504145
+                    ],
+                    "distinguishable": true
+                },
+                {
+                    "emb_a": "X_geneformer_ortholog_tier12_pca100_supp",
+                    "emb_b": "X_uce_4L_pca100_supp",
+                    "mean_diff": -0.06076844237706348,
+                    "diff_ci": [
+                        -0.06653211426409139,
+                        -0.054696088939038
+                    ],
+                    "distinguishable": true
+                }
+            ]
+        },
+        "lins_ccc_consensus": {
+            "metric": "lins_ccc_consensus",
+            "pairs": [
+                {
+                    "emb_a": "X_uce_4L_orthoT12",
+                    "emb_b": "X_scGPT_ortholog_tier12_pca100_supp",
+                    "mean_diff": -0.010745777274266592,
+                    "diff_ci": [
+                        -0.03331638523987222,
+                        0.005324024717669074
+                    ],
+                    "distinguishable": false
+                },
+                {
+                    "emb_a": "X_uce_4L_orthoT12",
+                    "emb_b": "X_geneformer_ortholog_tier12_pca100_supp",
+                    "mean_diff": 0.1511124224668939,
+                    "diff_ci": [
+                        0.12178315593889305,
+                        0.1855121666910471
+                    ],
+                    "distinguishable": true
+                },
+                {
+                    "emb_a": "X_uce_4L_orthoT12",
+                    "emb_b": "X_uce_4L_pca100_supp",
+                    "mean_diff": 0.0260358112022782,
+                    "diff_ci": [
+                        0.010905144779835901,
+                        0.055475009833724206
+                    ],
+                    "distinguishable": true
+                },
+                {
+                    "emb_a": "X_scGPT_ortholog_tier12_pca100_supp",
+                    "emb_b": "X_geneformer_ortholog_tier12_pca100_supp",
+                    "mean_diff": 0.16185819974116053,
+                    "diff_ci": [
+                        0.13413379722760743,
+                        0.18530697224166753
+                    ],
+                    "distinguishable": true
+                },
+                {
+                    "emb_a": "X_scGPT_ortholog_tier12_pca100_supp",
+                    "emb_b": "X_uce_4L_pca100_supp",
+                    "mean_diff": 0.036781588476544794,
+                    "diff_ci": [
+                        0.018700673188247943,
+                        0.05428309475548238
+                    ],
+                    "distinguishable": true
+                },
+                {
+                    "emb_a": "X_geneformer_ortholog_tier12_pca100_supp",
+                    "emb_b": "X_uce_4L_pca100_supp",
+                    "mean_diff": -0.12507661126461572,
+                    "diff_ci": [
+                        -0.14343851534897892,
+                        -0.09655528616195358
+                    ],
+                    "distinguishable": true
+                }
+            ]
+        }
+    },
+    "_inference": {
+        "method": "subsampling_without_replacement_recompute",
+        "n_repeats": 30,
+        "subsample_frac": 0.9,
+        "k_roots": 20,
+        "n_candidates": 500,
+        "seed": 0
+    }
+}

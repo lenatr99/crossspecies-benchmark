@@ -1,0 +1,17 @@
+\begin{table}[H]
+\centering
+\caption{\textbf{Coverage-matched UCE-4L sensitivity for developmental ordering.} The full UCE-4L representation uses all eligible target-species proteins; the matched condition is reconstructed from genes with Tier~1--2 source-to-human ortholog assignments, matching the ortholog-available input pool used by fixed-vocabulary models. Values are full-data point estimates with 2.5th--97.5th percentile intervals from 30 repeated 90\% subsamples. Correlations are displayed on $[0,1]$ via $(r+1)/2$.}
+\label{tab:s9}
+\small
+\begin{tabular}{@{}llcc@{}}
+\toprule
+Organism & UCE-4L gene set & Spearman $\rho$ [interval] & Consensus Lin's CCC [interval] \\
+\midrule
+\species{D.~discoideum} & Full eligible gene set & 0.911 [0.885, 0.915] & 0.892 [0.881, 0.896] \\
+ & Ortholog-available gene set & 0.914 [0.889, 0.915] & 0.903 [0.893, 0.909] \\
+\addlinespace
+\species{C.~elegans} & Full eligible gene set & 0.868 [0.862, 0.872] & 0.734 [0.644, 0.767] \\
+ & Ortholog-available gene set & 0.868 [0.863, 0.871] & 0.708 [0.589, 0.763] \\
+\bottomrule
+\end{tabular}
+\end{table}

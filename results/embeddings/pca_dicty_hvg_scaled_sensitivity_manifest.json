@@ -1,0 +1,69 @@
+{
+  "dataset": "dicty",
+  "generated_utc": "2026-07-21T20:19:18.658434+00:00",
+  "h5ad_path": "/Users/lenatrnovec/crossspecies-benchmark/data/dicty.h5ad",
+  "h5ad_sha256_after": "88680029551f072dc6839d80bbf2a6d8b9dca4d3a3ac5436937c58bba42b005f",
+  "h5ad_sha256_before": "0503a277b1d2329c1d293d4e3b7d381541ca7ec37044442553dcb6006bbd61a4",
+  "runtime": {
+    "batch_key": "time",
+    "hvg_flavor": "seurat_v3",
+    "manifest_tag": "hvg_scaled_sensitivity",
+    "max_cells": null,
+    "n_components": 100,
+    "n_top_genes": 2000,
+    "overwrite": true,
+    "recipes": [
+      "hvg_scaled"
+    ],
+    "seed": 42,
+    "variants": [
+      "full"
+    ]
+  },
+  "step": "pca_embed",
+  "variants": [
+    {
+      "n_cells": 48983,
+      "n_collapsed_paralog_rows": 0,
+      "n_selected_ortholog_symbols": 0,
+      "n_source_genes": 12883,
+      "n_unique_ids": 12883,
+      "recipes": [
+        {
+          "batch_key": null,
+          "effective_n_components": 100,
+          "embedding_shape": [
+            48983,
+            100
+          ],
+          "hvg_flavor": "seurat_v3",
+          "n_hvg_genes": 2000,
+          "n_input_cells": 48983,
+          "n_input_genes": 12883,
+          "n_top_genes": 2000,
+          "obsm_keys_written": [
+            "X_pca_hvg_scaled",
+            "X_pca_hvg_scaled_50"
+          ],
+          "pca50_shape": [
+            48983,
+            50
+          ],
+          "preprocessing": [
+            "highly_variable_genes",
+            "normalize_total_target_sum_1e4",
+            "log1p",
+            "scale_max_value_10"
+          ],
+          "recipe": "hvg_scaled",
+          "requested_n_components": 100,
+          "skipped_existing": false,
+          "smoke_embedding_arrays": []
+        }
+      ],
+      "tier_columns": [],
+      "variant": "full"
+    }
+  ],
+  "work_dir": "/Users/lenatrnovec/crossspecies-benchmark/data/pca/work"
+}

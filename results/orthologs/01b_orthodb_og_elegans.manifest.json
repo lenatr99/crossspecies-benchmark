@@ -1,0 +1,26 @@
+{
+  "generated_utc": "2026-04-30T12:03:19.691276+00:00",
+  "human_orthodb_id": "9606_1",
+  "input_sha256": {
+    "OG2genes": "c9c3146763e98b72016368edbc2fa53dd5a605fac6614597210c0b5a54e8ab59",
+    "levels": "521e6370e1c20aa6219fb441b66ef9b38e87e2b6b96fa05eb293d850e50e546a"
+  },
+  "level_metadata": {
+    "n_genes": "40531522",
+    "n_ogs": "275697",
+    "n_species": "2506",
+    "name": "Metazoa"
+  },
+  "level_taxid": "33208",
+  "n_ogs_with_both_species": 18681,
+  "n_one_to_one_ogs": 2487,
+  "n_organism_genes": 8715,
+  "organism": "elegans",
+  "organism_orthodb_id": "6239_0",
+  "orthodb_bulk_base": "https://data.orthodb.org/current/download/odb_data_dump",
+  "orthodb_bulk_file_tag": "odb12v2",
+  "orthodb_release": "odb12v1",
+  "output_parquet": "/workspace/results/orthologs/01b_orthodb_og_elegans.parquet",
+  "output_tsv": "/workspace/results/orthologs/01b_orthodb_og_elegans.tsv",
+  "step": "01b_orthodb_og"
+}

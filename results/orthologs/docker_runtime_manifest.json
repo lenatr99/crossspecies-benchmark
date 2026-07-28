@@ -1,0 +1,7 @@
+{
+  "generated_utc": "2026-04-30T18:31:39.502815+00:00",
+  "image": "crossspecies-orthologs:2026-04-28",
+  "image_id": "sha256:4c14c5f97c3e941f7243e3b0a317ba859cab05bbaea410a9fc41a3a488daf0ba",
+  "platform": "linux/amd64",
+  "python_exe": "/opt/conda/bin/python"
+}

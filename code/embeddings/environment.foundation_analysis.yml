@@ -1,0 +1,11 @@
+# Conda layer for the foundation-analysis / UMAP plotting stack.
+# Solver output is pinned in environment.foundation_analysis.conda-lock.yml
+# (regenerate via conda-lock after edits here — see embeddings README).
+#
+# Omitting `name:` so callers can pass `-n <env>` (see run_foundation_analysis_locally.sh).
+# PyPI libs: pip install -r foundation_analysis_pip_lock.txt (or run the wrapper script).
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11.15
+  - pip

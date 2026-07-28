@@ -1,0 +1,173 @@
+{
+  "dataset": "elegans",
+  "generated_utc": "2026-05-22T11:44:20.475090+00:00",
+  "h5ad_path": "/Users/lenatrnovec/crossspecies-benchmark/data/elegans.h5ad",
+  "h5ad_sha256_after": "9405cd7db9e8b49a398981f1cb55893ba933622db29129dffc015c26350fe71e",
+  "h5ad_sha256_before": "b4ff04384a505e676982ee738b17c1767f3fb5e6e71e4ee7d3291760af7280ee",
+  "runtime": {
+    "batch_key": "time",
+    "hvg_flavor": "seurat_v3",
+    "max_cells": null,
+    "n_components": 100,
+    "n_top_genes": 2000,
+    "overwrite": true,
+    "recipes": [
+      "raw"
+    ],
+    "seed": 42,
+    "variants": [
+      "full",
+      "tier1",
+      "tier12",
+      "tier123"
+    ]
+  },
+  "step": "pca_embed",
+  "variants": [
+    {
+      "n_cells": 89701,
+      "n_collapsed_paralog_rows": 0,
+      "n_selected_ortholog_symbols": 0,
+      "n_source_genes": 20222,
+      "n_unique_ids": 20222,
+      "recipes": [
+        {
+          "effective_n_components": 100,
+          "embedding_shape": [
+            89701,
+            100
+          ],
+          "n_input_cells": 89701,
+          "n_input_genes": 20222,
+          "obsm_keys_written": [
+            "X_pca",
+            "X_pca_50"
+          ],
+          "pca50_shape": [
+            89701,
+            50
+          ],
+          "preprocessing": [],
+          "recipe": "raw",
+          "requested_n_components": 100,
+          "skipped_existing": false,
+          "smoke_embedding_arrays": []
+        }
+      ],
+      "tier_columns": [],
+      "variant": "full"
+    },
+    {
+      "n_cells": 89701,
+      "n_collapsed_paralog_rows": 0,
+      "n_mapped_ids": 1659,
+      "n_selected_ortholog_symbols": 1659,
+      "n_source_genes": 20222,
+      "n_unique_ids": 1659,
+      "recipes": [
+        {
+          "effective_n_components": 100,
+          "embedding_shape": [
+            89701,
+            100
+          ],
+          "n_input_cells": 89701,
+          "n_input_genes": 1659,
+          "obsm_keys_written": [
+            "X_pca_ortholog_tier1",
+            "X_pca_ortholog_tier1_50"
+          ],
+          "pca50_shape": [
+            89701,
+            50
+          ],
+          "preprocessing": [],
+          "recipe": "raw",
+          "requested_n_components": 100,
+          "skipped_existing": false,
+          "smoke_embedding_arrays": []
+        }
+      ],
+      "tier_columns": [
+        "ortholog_tier_1"
+      ],
+      "variant": "tier1"
+    },
+    {
+      "n_cells": 89701,
+      "n_collapsed_paralog_rows": 8,
+      "n_mapped_ids": 3568,
+      "n_selected_ortholog_symbols": 3568,
+      "n_source_genes": 20222,
+      "n_unique_ids": 3560,
+      "recipes": [
+        {
+          "effective_n_components": 100,
+          "embedding_shape": [
+            89701,
+            100
+          ],
+          "n_input_cells": 89701,
+          "n_input_genes": 3560,
+          "obsm_keys_written": [
+            "X_pca_ortholog_tier12",
+            "X_pca_ortholog_tier12_50"
+          ],
+          "pca50_shape": [
+            89701,
+            50
+          ],
+          "preprocessing": [],
+          "recipe": "raw",
+          "requested_n_components": 100,
+          "skipped_existing": false,
+          "smoke_embedding_arrays": []
+        }
+      ],
+      "tier_columns": [
+        "ortholog_tier_1",
+        "ortholog_tier_2"
+      ],
+      "variant": "tier12"
+    },
+    {
+      "n_cells": 89701,
+      "n_collapsed_paralog_rows": 3697,
+      "n_mapped_ids": 9853,
+      "n_selected_ortholog_symbols": 9853,
+      "n_source_genes": 20222,
+      "n_unique_ids": 6156,
+      "recipes": [
+        {
+          "effective_n_components": 100,
+          "embedding_shape": [
+            89701,
+            100
+          ],
+          "n_input_cells": 89701,
+          "n_input_genes": 6156,
+          "obsm_keys_written": [
+            "X_pca_ortholog_tier123",
+            "X_pca_ortholog_tier123_50"
+          ],
+          "pca50_shape": [
+            89701,
+            50
+          ],
+          "preprocessing": [],
+          "recipe": "raw",
+          "requested_n_components": 100,
+          "skipped_existing": false,
+          "smoke_embedding_arrays": []
+        }
+      ],
+      "tier_columns": [
+        "ortholog_tier_1",
+        "ortholog_tier_2",
+        "ortholog_tier_3"
+      ],
+      "variant": "tier123"
+    }
+  ],
+  "work_dir": "/Users/lenatrnovec/crossspecies-benchmark/data/pca/work"
+}

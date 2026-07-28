@@ -1,0 +1,39 @@
+\begin{table}[H]
+\centering
+\caption{\textbf{UCE checkpoint-depth pseudotime sensitivity.} Full-data point estimates and 2.5th--97.5th percentile stability intervals from 30 repeated 90\% subsamples. Both correlations are displayed on $[0,1]$ via $(r+1)/2$.}
+\label{tab:s5}
+\small
+\begin{tabular}{@{}llcc@{}}
+\toprule
+Organism & Checkpoint & Spearman $\rho$ [interval] & Consensus Lin's CCC [interval] \\
+\midrule
+\species{D.~discoideum} & UCE-4L & 0.911 [0.885, 0.915] & 0.892 [0.881, 0.896] \\
+ & UCE-33L & 0.704 [0.683, 0.719] & 0.904 [0.819, 0.920] \\
+\addlinespace
+\species{C.~elegans} & UCE-4L & 0.868 [0.862, 0.872] & 0.734 [0.644, 0.767] \\
+ & UCE-33L & 0.851 [0.846, 0.855] & 0.646 [0.611, 0.679] \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\begin{table}[H]
+\centering
+\caption{\textbf{Protein-space diagnostics before and after cell-label-free calibration.} ``Before'' denotes raw ESM-2 vectors. Global moment matching used all 13{,}209 \species{D.~discoideum} or 19{,}985 \species{C.~elegans} target proteins and the shared dictionary of 19{,}790 human proteins. The macrogene adapter began with that transform and used 960 or 1{,}638 Tier~1 anchor pairs, respectively. Nearest-human cosine is evaluated for all target proteins; assigned-ortholog cosine uses the recorded consensus pairs in each tier. The calibrated columns report global matching alone and the complete macrogene-residual adapter on the same evaluation sets.}
+\label{tab:s6}
+\small
+\begin{tabular}{@{}llcccc@{}}
+\toprule
+Organism & Diagnostic & Before & Global matching & Macrogene residual & Evaluation $n$ \\
+\midrule
+\species{D.~discoideum} & Nearest human & 0.761 & 0.806 & 0.809 & 13,209 \\
+ & Assigned ortholog T1 & 0.721 & 0.810 & 0.815 & 960 \\
+ & Assigned ortholog T2 & 0.731 & 0.807 & 0.812 & 1,331 \\
+ & Assigned ortholog T3 & 0.661 & 0.764 & 0.767 & 3,415 \\
+\addlinespace
+\species{C.~elegans} & Nearest human & 0.813 & 0.828 & 0.829 & 19,985 \\
+ & Assigned ortholog T1 & 0.781 & 0.832 & 0.835 & 1,638 \\
+ & Assigned ortholog T2 & 0.801 & 0.835 & 0.838 & 1,809 \\
+ & Assigned ortholog T3 & 0.730 & 0.784 & 0.786 & 6,085 \\
+\bottomrule
+\end{tabular}
+\end{table}

@@ -1,0 +1,27 @@
+{
+  "comparison": "two independent 512-cell executions per organism",
+  "command": "xspecies embed pca --dataset all --variants full --recipes hvg_scaled --n-top-genes 2000 --n-comps 100 --seed 42 --max-cells 512 --manifest-tag hvg_scaled_sensitivity --overwrite",
+  "dataset_order": "deterministic first 512 cells from each recorded atlas",
+  "generated_utc": "2026-07-21T21:31:17Z",
+  "manifest_paths": {
+    "dicty": "results/embeddings/pca_dicty_hvg_scaled_sensitivity_smoke_manifest.json",
+    "elegans": "results/embeddings/pca_elegans_hvg_scaled_sensitivity_smoke_manifest.json"
+  },
+  "runs": {
+    "dicty": {
+      "pca100_sha256_run_1": "1e7538079ca659d4e68bb4c4814a03827998d5d71766c7fb4f76a60cc5f6da3e",
+      "pca100_sha256_run_2": "1e7538079ca659d4e68bb4c4814a03827998d5d71766c7fb4f76a60cc5f6da3e",
+      "pca50_sha256_run_1": "5e3043b3541582a38785c4c6789d8d5b76bcc162f15dfe5b6116623f7f3e9ba1",
+      "pca50_sha256_run_2": "5e3043b3541582a38785c4c6789d8d5b76bcc162f15dfe5b6116623f7f3e9ba1",
+      "identical": true
+    },
+    "elegans": {
+      "pca100_sha256_run_1": "46441c86c99f9e47478b2f2d00a81fd9d6a6d982385d5a3a60a5310d5638b6f6",
+      "pca100_sha256_run_2": "46441c86c99f9e47478b2f2d00a81fd9d6a6d982385d5a3a60a5310d5638b6f6",
+      "pca50_sha256_run_1": "e3342c1df52948173e1849086786a4d11c2402708a7618ba3f90c2f3fcc18f94",
+      "pca50_sha256_run_2": "e3342c1df52948173e1849086786a4d11c2402708a7618ba3f90c2f3fcc18f94",
+      "identical": true
+    }
+  },
+  "seed": 42
+}

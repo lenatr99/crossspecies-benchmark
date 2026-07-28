@@ -1,0 +1,37 @@
+\begin{table}[H]
+\centering
+\caption{\textbf{PCA preprocessing sensitivity for annotation preservation.} Raw-count PCA is the minimal headline baseline. The sensitivity recipe selects 2,000 Seurat-v3 highly variable genes, normalizes to 10,000 counts per cell, applies \texttt{log1p}, scales with a cap of 10 and computes 100 PCs. Delta is preprocessed minus raw.}
+\label{tab:s5}
+\small
+\begin{tabular}{@{}llrrr@{}}
+\toprule
+Organism & Annotation & Raw PCA & Preprocessed PCA & Delta \\
+\midrule
+\species{D.~discoideum} & Cell type & 0.437 & 0.531 & 0.094 \\
+ & cAMP-pulse-induced genes & 0.458 & 0.484 & 0.026 \\
+ & Milestones & 0.321 & 0.387 & 0.066 \\
+\addlinespace
+\species{C.~elegans} & Cell/tissue classes & 0.657 & 0.724 & 0.067 \\
+ & Lineage categories & 0.569 & 0.643 & 0.073 \\
+ & Developmental markers & 0.468 & 0.387 & -0.080 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\begin{table}[H]
+\centering
+\caption{\textbf{PCA preprocessing sensitivity for developmental ordering.} Full-data point estimates and 2.5th--97.5th percentile stability intervals from 30 repeated 90\% subsamples; correlations are displayed on $[0,1]$ via $(r+1)/2$.}
+\label{tab:s6}
+\small
+\begin{tabular}{@{}llcc@{}}
+\toprule
+Organism & PCA condition & Spearman $\rho$ [interval] & Consensus Lin's CCC [interval] \\
+\midrule
+\species{D.~discoideum} & Raw-count PCA & 0.905 [0.875, 0.919] & 0.895 [0.886, 0.904] \\
+ & Preprocessed PCA & 0.881 [0.853, 0.893] & 0.884 [0.849, 0.892] \\
+\addlinespace
+\species{C.~elegans} & Raw-count PCA & 0.832 [0.795, 0.860] & 0.526 [0.524, 0.532] \\
+ & Preprocessed PCA & 0.722 [0.712, 0.746] & 0.525 [0.518, 0.551] \\
+\bottomrule
+\end{tabular}
+\end{table}

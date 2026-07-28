@@ -1,0 +1,36 @@
+{
+  "cache_dir": "/workspace/data/oma/api_cache",
+  "errors_log": "/workspace/data/oma/api_cache/_errors.jsonl",
+  "generated_utc": "2026-04-30T23:23:16.879560+00:00",
+  "human_symbol_source": {
+    "human_gene_info_path": "/workspace/data/Homo_sapiens.gene_info",
+    "human_gene_info_sha256": "6fa1c4a756c206ea44dc68529a566da9a0166b84ed08da578bbba96413ff2820",
+    "human_gene_info_url": "https://ftp.ncbi.nlm.nih.gov/gene/DATA/GENE_INFO/Mammalia/Homo_sapiens.gene_info.gz",
+    "human_xrefs_note": "Derived from OrthoDB gene xrefs by retaining rows for species 9606_1 with xref type NCBIgid.",
+    "human_xrefs_path": "/workspace/data/human_ncbi_annotations.txt",
+    "human_xrefs_sha256": "acda68a2ea9b697d2f334cbf721ac5c4e1f8362368e829ccff3a0c2374edac16"
+  },
+  "n_pairs_with_resolved_symbol": 2651,
+  "n_total_human_pairs": 3457,
+  "n_unique_organism_genes_with_human_orthologs": 2486,
+  "oma_api_base": "https://omabrowser.org/api",
+  "oma_pair_genomes": null,
+  "oma_pair_rows": null,
+  "oma_queries_from": "xref_uniprot",
+  "oma_rel_type_counts": {
+    "1:1": 1593,
+    "1:n": 1029,
+    "n:1": 250,
+    "n:m": 585
+  },
+  "oma_workers": 16,
+  "organism": "elegans",
+  "organism_fasta": null,
+  "organism_genes_no_human_ortholog": 17763,
+  "organism_genes_skipped_no_probe": 0,
+  "organism_genes_with_probe": 20249,
+  "organism_orthodb_id": "6239_0",
+  "output_tsv": "/workspace/results/orthologs/01d_oma_orthologs_elegans.tsv",
+  "queried_proteins": 20249,
+  "step": "01d_oma_rest"
+}

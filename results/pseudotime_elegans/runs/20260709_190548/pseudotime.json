@@ -1,0 +1,582 @@
+{
+    "X_pca": {
+        "spearman": 0.6641229863890632,
+        "lins_ccc": 0.054056022742164804,
+        "spearman_consensus": 0.7195978667743529,
+        "lins_ccc_consensus": 0.05186030621256034,
+        "spearman_ci": [
+            0.5896265163310428,
+            0.7191707051995448
+        ],
+        "spearman_mean": 0.6496784538458311,
+        "spearman_std": 0.03614125918372436,
+        "lins_ccc_ci": [
+            0.051421023331577165,
+            0.06747730059951247
+        ],
+        "lins_ccc_mean": 0.05934367122981867,
+        "lins_ccc_std": 0.004892400508977154,
+        "spearman_consensus_ci": [
+            0.6416597601549747,
+            0.7423181904444919
+        ],
+        "spearman_consensus_mean": 0.7072115500524695,
+        "spearman_consensus_std": 0.02893737517687247,
+        "lins_ccc_consensus_ci": [
+            0.04865877142740606,
+            0.06442944312168578
+        ],
+        "lins_ccc_consensus_mean": 0.05654342606481545,
+        "lins_ccc_consensus_std": 0.004539351590269388
+    },
+    "X_scVI": {
+        "spearman": 0.4432059804253871,
+        "lins_ccc": 0.0865001169499992,
+        "spearman_consensus": 0.49052030466830127,
+        "lins_ccc_consensus": 0.06921703626458779,
+        "spearman_ci": [
+            0.4051928971872352,
+            0.5153866903154509
+        ],
+        "spearman_mean": 0.46184577950052014,
+        "spearman_std": 0.031330076568519494,
+        "lins_ccc_ci": [
+            0.039282163216244045,
+            0.11642291866871178
+        ],
+        "lins_ccc_mean": 0.089002658532183,
+        "lins_ccc_std": 0.020469571694806947,
+        "spearman_consensus_ci": [
+            0.4308255861018456,
+            0.5649187304179635
+        ],
+        "spearman_consensus_mean": 0.5038874404328384,
+        "spearman_consensus_std": 0.04026430668921017,
+        "lins_ccc_consensus_ci": [
+            0.05093792075552425,
+            0.16096829198717022
+        ],
+        "lins_ccc_consensus_mean": 0.08538221292339357,
+        "lins_ccc_consensus_std": 0.03006199262691267
+    },
+    "X_scGPT_ortholog_tier12": {
+        "spearman": 0.6515182688673827,
+        "lins_ccc": 0.2001269869709234,
+        "spearman_consensus": 0.667073998965633,
+        "lins_ccc_consensus": 0.15899860074583616,
+        "spearman_ci": [
+            0.6264021253636051,
+            0.6619412535388639
+        ],
+        "spearman_mean": 0.6520047890913865,
+        "spearman_std": 0.010324728462431449,
+        "lins_ccc_ci": [
+            0.17208644012127156,
+            0.22761684108411276
+        ],
+        "lins_ccc_mean": 0.20305237923840547,
+        "lins_ccc_std": 0.018244935491903987,
+        "spearman_consensus_ci": [
+            0.6632788881816251,
+            0.6700649056229244
+        ],
+        "spearman_consensus_mean": 0.6664655150003077,
+        "spearman_consensus_std": 0.0020278737757784835,
+        "lins_ccc_consensus_ci": [
+            0.13446291702284682,
+            0.21085145864080548
+        ],
+        "lins_ccc_consensus_mean": 0.16706934955089875,
+        "lins_ccc_consensus_std": 0.021976615706771688
+    },
+    "X_geneformer_ortholog_tier12": {
+        "spearman": 0.6353484011991203,
+        "lins_ccc": 0.05666193145431127,
+        "spearman_consensus": 0.6601903236512932,
+        "lins_ccc_consensus": 0.036166615291936786,
+        "spearman_ci": [
+            0.6099999402152675,
+            0.649958529182907
+        ],
+        "spearman_mean": 0.6309241927482468,
+        "spearman_std": 0.01190833642177235,
+        "lins_ccc_ci": [
+            0.04583575705993002,
+            0.1754431969980242
+        ],
+        "lins_ccc_mean": 0.07552739632765429,
+        "lins_ccc_std": 0.03688170403127669,
+        "spearman_consensus_ci": [
+            0.6426297884196108,
+            0.6740956060865398
+        ],
+        "spearman_consensus_mean": 0.6610110466572945,
+        "spearman_consensus_std": 0.008547303305338504,
+        "lins_ccc_consensus_ci": [
+            0.03066388089291905,
+            0.22659134265370387
+        ],
+        "lins_ccc_consensus_mean": 0.061450339298352426,
+        "lins_ccc_consensus_std": 0.059259603306661926
+    },
+    "X_uce_4L": {
+        "spearman": 0.7351701753955405,
+        "lins_ccc": 0.18011923071201913,
+        "spearman_consensus": 0.7459865300237492,
+        "lins_ccc_consensus": 0.46790153118764766,
+        "spearman_ci": [
+            0.7248188389594469,
+            0.7441265403227799
+        ],
+        "spearman_mean": 0.7345257717156408,
+        "spearman_std": 0.005994419143243915,
+        "lins_ccc_ci": [
+            0.15489058268989622,
+            0.23980495565595467
+        ],
+        "lins_ccc_mean": 0.1902679334905283,
+        "lins_ccc_std": 0.023259580960972397,
+        "spearman_consensus_ci": [
+            0.7366784108394334,
+            0.7507723781274483
+        ],
+        "spearman_consensus_mean": 0.742688889511421,
+        "spearman_consensus_std": 0.0043451551639354805,
+        "lins_ccc_consensus_ci": [
+            0.2889677415780245,
+            0.5345669237971351
+        ],
+        "lins_ccc_consensus_mean": 0.44097930169499044,
+        "lins_ccc_consensus_std": 0.07244740702682592
+    },
+    "_distinguishability": {
+        "spearman": {
+            "metric": "spearman",
+            "pairs": [
+                {
+                    "emb_a": "X_pca",
+                    "emb_b": "X_scVI",
+                    "mean_diff": 0.187832674345311,
+                    "diff_ci": [
+                        0.12094947912554181,
+                        0.276048695722402
+                    ],
+                    "distinguishable": true
+                },
+                {
+                    "emb_a": "X_pca",
+                    "emb_b": "X_scGPT_ortholog_tier12",
+                    "mean_diff": -0.0023263352455552997,
+                    "diff_ci": [
+                        -0.06557436420637235,
+                        0.06342470334204034
+                    ],
+                    "distinguishable": false
+                },
+                {
+                    "emb_a": "X_pca",
+                    "emb_b": "X_geneformer_ortholog_tier12",
+                    "mean_diff": 0.0187542610975841,
+                    "diff_ci": [
+                        -0.04709780718983282,
+                        0.07733053052094017
+                    ],
+                    "distinguishable": false
+                },
+                {
+                    "emb_a": "X_pca",
+                    "emb_b": "X_uce_4L",
+                    "mean_diff": -0.08484731786980969,
+                    "diff_ci": [
+                        -0.14161786286978725,
+                        -0.01961272592395163
+                    ],
+                    "distinguishable": true
+                },
+                {
+                    "emb_a": "X_scVI",
+                    "emb_b": "X_scGPT_ortholog_tier12",
+                    "mean_diff": -0.1901590095908663,
+                    "diff_ci": [
+                        -0.24927902540608946,
+                        -0.13664482128301564
+                    ],
+                    "distinguishable": true
+                },
+                {
+                    "emb_a": "X_scVI",
+                    "emb_b": "X_geneformer_ortholog_tier12",
+                    "mean_diff": -0.1690784132477269,
+                    "diff_ci": [
+                        -0.23301115152424523,
+                        -0.11049871542935137
+                    ],
+                    "distinguishable": true
+                },
+                {
+                    "emb_a": "X_scVI",
+                    "emb_b": "X_uce_4L",
+                    "mean_diff": -0.27267999221512074,
+                    "diff_ci": [
+                        -0.334978142792647,
+                        -0.2190742732559824
+                    ],
+                    "distinguishable": true
+                },
+                {
+                    "emb_a": "X_scGPT_ortholog_tier12",
+                    "emb_b": "X_geneformer_ortholog_tier12",
+                    "mean_diff": 0.0210805963431394,
+                    "diff_ci": [
+                        -0.008226084688228127,
+                        0.04591540621222235
+                    ],
+                    "distinguishable": false
+                },
+                {
+                    "emb_a": "X_scGPT_ortholog_tier12",
+                    "emb_b": "X_uce_4L",
+                    "mean_diff": -0.08252098262425439,
+                    "diff_ci": [
+                        -0.1019542748602368,
+                        -0.06564624539827378
+                    ],
+                    "distinguishable": true
+                },
+                {
+                    "emb_a": "X_geneformer_ortholog_tier12",
+                    "emb_b": "X_uce_4L",
+                    "mean_diff": -0.1036015789673938,
+                    "diff_ci": [
+                        -0.12448764690935042,
+                        -0.08459110343020809
+                    ],
+                    "distinguishable": true
+                }
+            ]
+        },
+        "lins_ccc": {
+            "metric": "lins_ccc",
+            "pairs": [
+                {
+                    "emb_a": "X_pca",
+                    "emb_b": "X_scVI",
+                    "mean_diff": -0.029658987302364347,
+                    "diff_ci": [
+                        -0.06031000448688804,
+                        0.016017203133450633
+                    ],
+                    "distinguishable": false
+                },
+                {
+                    "emb_a": "X_pca",
+                    "emb_b": "X_scGPT_ortholog_tier12",
+                    "mean_diff": -0.14370870800858676,
+                    "diff_ci": [
+                        -0.17175445191529107,
+                        -0.11244843478274788
+                    ],
+                    "distinguishable": true
+                },
+                {
+                    "emb_a": "X_pca",
+                    "emb_b": "X_geneformer_ortholog_tier12",
+                    "mean_diff": -0.016183725097835628,
+                    "diff_ci": [
+                        -0.11334445786600497,
+                        0.009841059768979695
+                    ],
+                    "distinguishable": false
+                },
+                {
+                    "emb_a": "X_pca",
+                    "emb_b": "X_uce_4L",
+                    "mean_diff": -0.13092426226070966,
+                    "diff_ci": [
+                        -0.1736146541846791,
+                        -0.0935739042308023
+                    ],
+                    "distinguishable": true
+                },
+                {
+                    "emb_a": "X_scVI",
+                    "emb_b": "X_scGPT_ortholog_tier12",
+                    "mean_diff": -0.11404972070622245,
+                    "diff_ci": [
+                        -0.16338684009113502,
+                        -0.0687845877813106
+                    ],
+                    "distinguishable": true
+                },
+                {
+                    "emb_a": "X_scVI",
+                    "emb_b": "X_geneformer_ortholog_tier12",
+                    "mean_diff": 0.013475262204528726,
+                    "diff_ci": [
+                        -0.08478986383936898,
+                        0.05692400685823007
+                    ],
+                    "distinguishable": false
+                },
+                {
+                    "emb_a": "X_scVI",
+                    "emb_b": "X_uce_4L",
+                    "mean_diff": -0.10126527495834531,
+                    "diff_ci": [
+                        -0.1557388527363161,
+                        -0.05880735136331119
+                    ],
+                    "distinguishable": true
+                },
+                {
+                    "emb_a": "X_scGPT_ortholog_tier12",
+                    "emb_b": "X_geneformer_ortholog_tier12",
+                    "mean_diff": 0.12752498291075115,
+                    "diff_ci": [
+                        0.02674284880988791,
+                        0.17206916918888732
+                    ],
+                    "distinguishable": true
+                },
+                {
+                    "emb_a": "X_scGPT_ortholog_tier12",
+                    "emb_b": "X_uce_4L",
+                    "mean_diff": 0.01278444574787713,
+                    "diff_ci": [
+                        -0.0372232984601508,
+                        0.05356530933471024
+                    ],
+                    "distinguishable": false
+                },
+                {
+                    "emb_a": "X_geneformer_ortholog_tier12",
+                    "emb_b": "X_uce_4L",
+                    "mean_diff": -0.11474053716287405,
+                    "diff_ci": [
+                        -0.17632542363975148,
+                        0.0007290100173501009
+                    ],
+                    "distinguishable": false
+                }
+            ]
+        },
+        "spearman_consensus": {
+            "metric": "spearman_consensus",
+            "pairs": [
+                {
+                    "emb_a": "X_pca",
+                    "emb_b": "X_scVI",
+                    "mean_diff": 0.20332410961963118,
+                    "diff_ci": [
+                        0.12227100715999649,
+                        0.2946364586054573
+                    ],
+                    "distinguishable": true
+                },
+                {
+                    "emb_a": "X_pca",
+                    "emb_b": "X_scGPT_ortholog_tier12",
+                    "mean_diff": 0.040746035052162025,
+                    "diff_ci": [
+                        -0.026694791531959354,
+                        0.07271214322668568
+                    ],
+                    "distinguishable": false
+                },
+                {
+                    "emb_a": "X_pca",
+                    "emb_b": "X_geneformer_ortholog_tier12",
+                    "mean_diff": 0.04620050339517512,
+                    "diff_ci": [
+                        -0.024330492093115493,
+                        0.08466663208398947
+                    ],
+                    "distinguishable": false
+                },
+                {
+                    "emb_a": "X_pca",
+                    "emb_b": "X_uce_4L",
+                    "mean_diff": -0.03547733945895139,
+                    "diff_ci": [
+                        -0.1018061149061014,
+                        -0.0013553997552288122
+                    ],
+                    "distinguishable": true
+                },
+                {
+                    "emb_a": "X_scVI",
+                    "emb_b": "X_scGPT_ortholog_tier12",
+                    "mean_diff": -0.16257807456746914,
+                    "diff_ci": [
+                        -0.23483868780390246,
+                        -0.10021991482342565
+                    ],
+                    "distinguishable": true
+                },
+                {
+                    "emb_a": "X_scVI",
+                    "emb_b": "X_geneformer_ortholog_tier12",
+                    "mean_diff": -0.15712360622445606,
+                    "diff_ci": [
+                        -0.2387592750950433,
+                        -0.09557243573831292
+                    ],
+                    "distinguishable": true
+                },
+                {
+                    "emb_a": "X_scVI",
+                    "emb_b": "X_uce_4L",
+                    "mean_diff": -0.23880144907858256,
+                    "diff_ci": [
+                        -0.31221993919433977,
+                        -0.17709937941496223
+                    ],
+                    "distinguishable": true
+                },
+                {
+                    "emb_a": "X_scGPT_ortholog_tier12",
+                    "emb_b": "X_geneformer_ortholog_tier12",
+                    "mean_diff": 0.0054544683430131,
+                    "diff_ci": [
+                        -0.007444253761182826,
+                        0.02198250537007821
+                    ],
+                    "distinguishable": false
+                },
+                {
+                    "emb_a": "X_scGPT_ortholog_tier12",
+                    "emb_b": "X_uce_4L",
+                    "mean_diff": -0.07622337451111341,
+                    "diff_ci": [
+                        -0.08468111086633388,
+                        -0.06935405095732401
+                    ],
+                    "distinguishable": true
+                },
+                {
+                    "emb_a": "X_geneformer_ortholog_tier12",
+                    "emb_b": "X_uce_4L",
+                    "mean_diff": -0.08167784285412652,
+                    "diff_ci": [
+                        -0.10008026384958482,
+                        -0.06640253685869124
+                    ],
+                    "distinguishable": true
+                }
+            ]
+        },
+        "lins_ccc_consensus": {
+            "metric": "lins_ccc_consensus",
+            "pairs": [
+                {
+                    "emb_a": "X_pca",
+                    "emb_b": "X_scVI",
+                    "mean_diff": -0.02883878685857809,
+                    "diff_ci": [
+                        -0.10265788030194835,
+                        0.006139813898436301
+                    ],
+                    "distinguishable": false
+                },
+                {
+                    "emb_a": "X_pca",
+                    "emb_b": "X_scGPT_ortholog_tier12",
+                    "mean_diff": -0.1105259234860833,
+                    "diff_ci": [
+                        -0.14777003865804153,
+                        -0.0762772722081726
+                    ],
+                    "distinguishable": true
+                },
+                {
+                    "emb_a": "X_pca",
+                    "emb_b": "X_geneformer_ortholog_tier12",
+                    "mean_diff": -0.004906913233536985,
+                    "diff_ci": [
+                        -0.16786215914767896,
+                        0.024110157422018507
+                    ],
+                    "distinguishable": false
+                },
+                {
+                    "emb_a": "X_pca",
+                    "emb_b": "X_uce_4L",
+                    "mean_diff": -0.38443587563017506,
+                    "diff_ci": [
+                        -0.4780449447704806,
+                        -0.2383787372980264
+                    ],
+                    "distinguishable": true
+                },
+                {
+                    "emb_a": "X_scVI",
+                    "emb_b": "X_scGPT_ortholog_tier12",
+                    "mean_diff": -0.0816871366275052,
+                    "diff_ci": [
+                        -0.14384888046300648,
+                        -0.005125846021878229
+                    ],
+                    "distinguishable": true
+                },
+                {
+                    "emb_a": "X_scVI",
+                    "emb_b": "X_geneformer_ortholog_tier12",
+                    "mean_diff": 0.0239318736250411,
+                    "diff_ci": [
+                        -0.1528733497124955,
+                        0.12398165183102407
+                    ],
+                    "distinguishable": false
+                },
+                {
+                    "emb_a": "X_scVI",
+                    "emb_b": "X_uce_4L",
+                    "mean_diff": -0.35559708877159685,
+                    "diff_ci": [
+                        -0.47615816744831696,
+                        -0.2085960682927306
+                    ],
+                    "distinguishable": true
+                },
+                {
+                    "emb_a": "X_scGPT_ortholog_tier12",
+                    "emb_b": "X_geneformer_ortholog_tier12",
+                    "mean_diff": 0.1056190102525463,
+                    "diff_ci": [
+                        -0.06443519239761733,
+                        0.16017341118189568
+                    ],
+                    "distinguishable": false
+                },
+                {
+                    "emb_a": "X_scGPT_ortholog_tier12",
+                    "emb_b": "X_uce_4L",
+                    "mean_diff": -0.2739099521440917,
+                    "diff_ci": [
+                        -0.38937803839349344,
+                        -0.10431770241428652
+                    ],
+                    "distinguishable": true
+                },
+                {
+                    "emb_a": "X_geneformer_ortholog_tier12",
+                    "emb_b": "X_uce_4L",
+                    "mean_diff": -0.3795289623966381,
+                    "diff_ci": [
+                        -0.4930139759311598,
+                        -0.16937250238789855
+                    ],
+                    "distinguishable": true
+                }
+            ]
+        }
+    },
+    "_inference": {
+        "method": "subsampling_without_replacement_recompute",
+        "n_repeats": 30,
+        "subsample_frac": 0.9,
+        "k_roots": 20,
+        "n_candidates": 500,
+        "seed": 0
+    }
+}

@@ -1,0 +1,23 @@
+{
+  "consensus_sha256": "5e465f032d5cd6f058f8715ac340c14b2260f4be015227d6ce2a711026661dcf",
+  "consensus_tsv": "/workspace/results/orthologs/02_consensus_dicty.tsv",
+  "evidence_sources": [
+    "orthofinder",
+    "orthodb_og",
+    "oma",
+    "curated"
+  ],
+  "generated_utc": "2026-04-30T20:13:21.969426+00:00",
+  "min_tier": 2,
+  "n_genes_in_main": 2350,
+  "n_genes_with_evidence": 5927,
+  "organism": "dicty",
+  "orthodb_release": "odb12v1",
+  "output_evidence_json": "/workspace/data/ortholog_mapping_orthodb.evidence.json",
+  "output_json": "/workspace/data/ortholog_mapping_orthodb.json",
+  "step": "03_build_symbol_mapping",
+  "tier_counts_in_main": {
+    "1": 979,
+    "2": 1371
+  }
+}

@@ -1,0 +1,15 @@
+# Top-level runtime pins for the cleaned scGPT embedding wrapper.
+# This intentionally stays model-specific; plotting/UMAPs use the shared
+# foundation-analysis environment one level up.
+anndata==0.11.4
+gdown==5.2.0
+h5py==3.13.0
+ipython==8.37.0
+numpy==1.26.4
+pandas==2.2.3
+scanpy==1.11.1
+scgpt==0.2.4
+scikit-learn==1.5.2
+scipy==1.15.2
+torch==2.2.2
+tqdm==4.67.1

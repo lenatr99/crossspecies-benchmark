@@ -1,0 +1,7 @@
+organism	panel	n_marker_genes	retained_T1	retained_T12	retained_T123	retained_UCE_exact
+dicty	Cell type	83	2	2	25	83
+dicty	cAMP-pulse-induced genes	60	2	5	22	59
+dicty	Milestones	879	38	89	337	861
+elegans	Cell/tissue classes	78	3	22	67	77
+elegans	Lineage categories	47	1	10	40	47
+elegans	Developmental markers	51	3	13	42	51

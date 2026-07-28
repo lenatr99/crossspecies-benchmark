@@ -1,0 +1,38 @@
+{
+  "dataset": "elegans",
+  "model": "pca_preprocessing_supp",
+  "h5ad_path": "/Users/lenatrnovec/crossspecies-benchmark/data/elegans.h5ad",
+  "generated_utc": "2026-07-21T20:23:21.186646+00:00",
+  "embedding_template": "X_geneformer_ortholog_{variant}{representation_suffix}",
+  "embedding_keys": [
+    "X_pca_hvg_scaled"
+  ],
+  "output_prefix": "pca_preprocessing_supp",
+  "output_dir_template": "{output_prefix}/{dataset}",
+  "random_state": 42,
+  "min_dist": 0.1,
+  "n_neighbors": 15,
+  "size": 5,
+  "alpha": 1.0,
+  "dpi": 180,
+  "outputs": [
+    {
+      "model": "pca_preprocessing_supp",
+      "variant": null,
+      "representation": "custom",
+      "embedding_key": "X_pca_hvg_scaled",
+      "umap_key": "X_pca_hvg_scaled_umap",
+      "color": "time",
+      "figure": "/Users/lenatrnovec/crossspecies-benchmark/results/embeddings/umaps/pca_preprocessing_supp/elegans/elegans_pca_hvg_scaled_umap_by_time.png"
+    },
+    {
+      "model": "pca_preprocessing_supp",
+      "variant": null,
+      "representation": "custom",
+      "embedding_key": "X_pca_hvg_scaled",
+      "umap_key": "X_pca_hvg_scaled_umap",
+      "color": "cell_type",
+      "figure": "/Users/lenatrnovec/crossspecies-benchmark/results/embeddings/umaps/pca_preprocessing_supp/elegans/elegans_pca_hvg_scaled_umap_by_cell_type.png"
+    }
+  ]
+}

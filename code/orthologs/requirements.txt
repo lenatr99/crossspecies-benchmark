@@ -1,0 +1,6 @@
+# Ortholog consensus pipeline (code/orthologs/)
+requests>=2.28
+pandas>=2.0
+pyarrow>=14
+tqdm>=4.66
+openpyxl>=3.1

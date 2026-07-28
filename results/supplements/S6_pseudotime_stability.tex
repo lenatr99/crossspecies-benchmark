@@ -1,0 +1,25 @@
+\begin{table}[H]
+\centering
+\caption{\textbf{Pseudotime point estimates and repeated-subsampling stability intervals.} Point estimates come from the frozen full-data outputs. Brackets show the 2.5th--97.5th percentiles across 30 paired repeats from the completed stability analysis, each sampling 90\% of cells without replacement and recomputing the neighbour graph and DPT. Spearman is averaged across roots; consensus Lin's CCC is computed on the root-averaged cell-level pseudotime. All correlations are displayed on $[0,1]$ via $(r+1)/2$. These are stability intervals, not population confidence intervals.}
+\label{tab:s8}
+\scriptsize
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{@{}llcc@{}}
+\toprule
+Organism & Method & Spearman $\rho$ [stability interval] & Consensus Lin's CCC [stability interval] \\
+\midrule
+\species{D.~discoideum} & PCA & 0.905 [0.875, 0.919] & 0.895 [0.886, 0.904] \\
+ & scVI & 0.906 [0.878, 0.916] & 0.893 [0.883, 0.905] \\
+ & Geneformer & 0.869 [0.851, 0.883] & 0.829 [0.819, 0.840] \\
+ & scGPT & 0.909 [0.877, 0.912] & 0.908 [0.902, 0.912] \\
+ & UCE-4L & 0.911 [0.885, 0.915] & 0.892 [0.881, 0.896] \\
+\addlinespace
+\species{C.~elegans} & PCA & 0.832 [0.795, 0.860] & 0.526 [0.524, 0.532] \\
+ & scVI & 0.722 [0.703, 0.758] & 0.535 [0.525, 0.580] \\
+ & Geneformer & 0.818 [0.805, 0.825] & 0.518 [0.515, 0.613] \\
+ & scGPT & 0.826 [0.813, 0.831] & 0.579 [0.567, 0.605] \\
+ & UCE-4L & 0.868 [0.862, 0.872] & 0.734 [0.644, 0.767] \\
+\bottomrule
+\end{tabular}%
+}
+\end{table}

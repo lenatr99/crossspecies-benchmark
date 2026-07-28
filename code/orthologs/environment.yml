@@ -1,0 +1,17 @@
+name: orthologs
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.11
+  - orthofinder
+  - diamond
+  - mafft
+  - fasttree
+  - pandas
+  - pyarrow
+  - requests
+  - tqdm
+  - openpyxl
+  - scipy
+  - numpy

@@ -1,0 +1,45 @@
+# Local data are ignored by default. Keep only compact, reproducibility-critical
+# mappings, evidence, deterministic bridges, and provenance in Git.
+/data/*
+!/data/README.md
+!/data/manifest.json
+!/data/ortholog_mapping_orthodb.json
+!/data/ortholog_mapping_orthodb.evidence.json
+!/data/ortholog_mapping_orthodb.json.manifest.json
+!/data/ortholog_mapping_elegans_orthodb.json
+!/data/ortholog_mapping_elegans_orthodb.evidence.json
+!/data/ortholog_mapping_elegans_orthodb.json.manifest.json
+!/data/human_ncbi_annotations.txt
+!/data/Homo_sapiens.gene_info.gz.metadata.json
+!/data/curated/
+/data/curated/*
+!/data/curated/dictybase_ensembl_protein_to_symbol.tsv
+!/data/curated/dictybase_ortholog_information.txt.metadata.json
+!/data/curated/ortholist_master.xlsx.metadata.json
+models
+notes
+manuscript
+literature
+fonts
+*.pt
+
+# Local archives and generated caches
+/.archive/
+**/__pycache__/
+*.py[cod]
+
+# Optional per-panel publication exports
+/manuscript/figures/panels/
+__pycache__/
+
+# OS metadata
+.DS_Store
+**/.DS_Store
+._*
+Thumbs.db
+Desktop.ini
+
+# Python cache/build files
+__pycache__/
+*.py[cod]
+*.egg-info/

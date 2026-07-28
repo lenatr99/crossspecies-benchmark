@@ -1,0 +1,19 @@
+# Shared postprocessing/visualization stack for foundation-model embeddings.
+# Keep this independent from model runtimes (Geneformer/scGPT/UCE/scVI) so UMAPs
+# and comparison figures are reproducible across all embedding families.
+#
+# For a fully pinned transitive closure (recommended for thesis-grade replay),
+# the runner installs foundation_analysis_pip_lock.txt after conda env create
+# from environment.foundation_analysis.yml. Regenerate that lock after any
+# change here (see header in the lock file).
+packaging==26.2
+anndata==0.12.1
+h5py==3.14.0
+matplotlib==3.10.5
+numpy==2.2.6
+pandas==2.3.1
+scanpy==1.11.4
+scikit-learn==1.7.1
+scipy==1.16.1
+seaborn==0.13.2
+umap-learn==0.5.9.post2

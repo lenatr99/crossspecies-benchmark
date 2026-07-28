@@ -1,0 +1,7 @@
+organism	panel	UCE-4L (full)	UCE-4L (ortho T12)	Geneformer	scGPT
+dicty	Cell type	0.618	0.342	0.457	0.322
+dicty	cAMP-pulse-induced genes	0.781	0.770	0.622	0.754
+dicty	Milestones	0.298	0.332	0.319	0.293
+elegans	Cell/tissue classes	0.699	0.655	0.576	0.582
+elegans	Lineage categories	0.610	0.593	0.582	0.554
+elegans	Developmental markers	0.509	0.491	0.489	0.393

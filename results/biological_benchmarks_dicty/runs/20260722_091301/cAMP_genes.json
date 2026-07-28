@@ -1,0 +1,14 @@
+{
+    "X_pca_hvg_scaled": {
+        "NMI_cluster/label": 0.45751405583624627,
+        "ARI_cluster/label": 0.3059171810052506,
+        "ASW_label": 0.6895641684532166,
+        "ASW_label/batch": 0.7527523040771484,
+        "graph_conn": 0.9956435671025197,
+        "leiden_resolution": 0.1,
+        "n_clusters": 5,
+        "avg_bio": 0.4843318017649045,
+        "avg_batch": 0.874197935589834,
+        "overall_score": 0.6402782552948763
+    }
+}

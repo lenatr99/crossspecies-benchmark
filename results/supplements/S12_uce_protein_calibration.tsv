@@ -1,0 +1,31 @@
+organism	annotation_panel	condition	embedding_key	avgBIO
+dicty	cell_type	UCE-4L	X_uce_4L	0.6176668151634618
+dicty	cell_type	UCE-4L global	X_uce_4L_whitening	0.45608484911679553
+dicty	cell_type	UCE-33L	X_uce_33L	0.25211492471855673
+dicty	cell_type	UCE-33L global	X_uce_33L_whitening	0.42960007013690843
+dicty	cell_type	UCE-33L macrogene	X_uce_33L_macrogene	0.5910693834642982
+dicty	cAMP_genes	UCE-4L	X_uce_4L	0.7809342508346813
+dicty	cAMP_genes	UCE-4L global	X_uce_4L_whitening	0.7784482767283148
+dicty	cAMP_genes	UCE-33L	X_uce_33L	0.49962086688831225
+dicty	cAMP_genes	UCE-33L global	X_uce_33L_whitening	0.7705242164290039
+dicty	cAMP_genes	UCE-33L macrogene	X_uce_33L_macrogene	0.7690968779830095
+dicty	milestones	UCE-4L	X_uce_4L	0.2982658366182817
+dicty	milestones	UCE-4L global	X_uce_4L_whitening	0.32901659832255514
+dicty	milestones	UCE-33L	X_uce_33L	0.2502882387718212
+dicty	milestones	UCE-33L global	X_uce_33L_whitening	0.30591324454485064
+dicty	milestones	UCE-33L macrogene	X_uce_33L_macrogene	0.3025603100348273
+elegans	cell_type	UCE-4L	X_uce_4L	0.6985030623157403
+elegans	cell_type	UCE-4L global	X_uce_4L_whitening	0.6919129294858922
+elegans	cell_type	UCE-33L	X_uce_33L	0.7172118944282606
+elegans	cell_type	UCE-33L global	X_uce_33L_whitening	0.6886052838589158
+elegans	cell_type	UCE-33L macrogene	X_uce_33L_macrogene	0.6607955063940532
+elegans	lineage_markers	UCE-4L	X_uce_4L	0.6103205294101607
+elegans	lineage_markers	UCE-4L global	X_uce_4L_whitening	0.6117116046254112
+elegans	lineage_markers	UCE-33L	X_uce_33L	0.6136151880178998
+elegans	lineage_markers	UCE-33L global	X_uce_33L_whitening	0.6070389580686779
+elegans	lineage_markers	UCE-33L macrogene	X_uce_33L_macrogene	0.6032668879750048
+elegans	developmental_markers	UCE-4L	X_uce_4L	0.5093026558697563
+elegans	developmental_markers	UCE-4L global	X_uce_4L_whitening	0.5081657892197202
+elegans	developmental_markers	UCE-33L	X_uce_33L	0.514324141779566
+elegans	developmental_markers	UCE-33L global	X_uce_33L_whitening	0.5078946011858859
+elegans	developmental_markers	UCE-33L macrogene	X_uce_33L_macrogene	0.5100313335506054

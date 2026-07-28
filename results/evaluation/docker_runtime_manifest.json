@@ -1,0 +1,9 @@
+{
+  "image": "crossspecies-evaluation:2026-05-22",
+  "image_id": "sha256:e5a50b5d948b8f314119b73ed392bc7607f5be07518581a3b6fc97291382c81a",
+  "platform": "host-default",
+  "dockerfile": "code/evaluation/Dockerfile",
+  "environment": "code/evaluation/environment.yml",
+  "requirements_lock": "code/evaluation/requirements.lock.txt",
+  "docker_cpus": "10"
+}

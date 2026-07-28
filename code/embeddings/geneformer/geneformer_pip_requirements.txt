@@ -1,0 +1,25 @@
+# Pinned Python stack for Geneformer embeddings (canonical list for reproducibility).
+# Installed after a small conda-only base env unless you bootstrap by hand (see README).
+accelerate==1.9.0
+anndata==0.12.1
+datasets==4.0.0
+h5py==3.14.0
+loompy==3.0.8
+matplotlib==3.10.5
+numpy==2.2.6
+optuna==4.4.0
+optuna-integration==4.4.0
+pandas==2.3.1
+peft==0.17.0
+pyarrow==21.0.0
+safetensors==0.6.1
+scanpy==1.11.4
+scikit-learn==1.7.1
+scipy==1.16.1
+seaborn==0.13.2
+tdigest==0.5.2.2
+tensorboard==2.20.0
+torch==2.8.0
+tqdm==4.67.1
+transformers==4.55.0
+umap-learn==0.5.9.post2

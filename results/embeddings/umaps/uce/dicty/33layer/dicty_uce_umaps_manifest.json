@@ -1,0 +1,38 @@
+{
+  "dataset": "dicty",
+  "model": "uce",
+  "h5ad_path": "/Users/lenatrnovec/crossspecies-benchmark/data/dicty.h5ad",
+  "generated_utc": "2026-05-25T13:05:23.600840+00:00",
+  "embedding_template": "X_geneformer_ortholog_{variant}{representation_suffix}",
+  "embedding_keys": [
+    "X_uce_33L_macrogene_50"
+  ],
+  "output_prefix": "uce",
+  "output_dir_template": "{output_prefix}/{dataset}/{layer}",
+  "random_state": 42,
+  "min_dist": 0.1,
+  "n_neighbors": 15,
+  "size": 5,
+  "alpha": 1.0,
+  "dpi": 180,
+  "outputs": [
+    {
+      "model": "uce",
+      "variant": null,
+      "representation": "custom",
+      "embedding_key": "X_uce_33L_macrogene_50",
+      "umap_key": "X_uce_33L_macrogene_50_umap",
+      "color": "time",
+      "figure": "/Users/lenatrnovec/crossspecies-benchmark/results/embeddings/umaps/uce/dicty/33layer/dicty_uce_33L_macrogene_50_umap_by_time.png"
+    },
+    {
+      "model": "uce",
+      "variant": null,
+      "representation": "custom",
+      "embedding_key": "X_uce_33L_macrogene_50",
+      "umap_key": "X_uce_33L_macrogene_50_umap",
+      "color": "cell_type",
+      "figure": "/Users/lenatrnovec/crossspecies-benchmark/results/embeddings/umaps/uce/dicty/33layer/dicty_uce_33L_macrogene_50_umap_by_cell_type.png"
+    }
+  ]
+}

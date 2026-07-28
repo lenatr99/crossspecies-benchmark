@@ -1,0 +1,77 @@
+{
+  "dataset": "dicty",
+  "generated_utc": "2026-07-22T17:24:57.921048+00:00",
+  "h5ad": "/Users/lenatrnovec/crossspecies-benchmark/data/dicty.h5ad",
+  "mode": "full",
+  "parameters": {
+    "center": true,
+    "feature_scaling": false,
+    "n_components": 100,
+    "operation": "PCA applied after cell embedding",
+    "seed": 42,
+    "svd_solver": "randomized",
+    "whiten": false
+  },
+  "records": [
+    {
+      "all_components_nonzero_variance": true,
+      "explained_variance_ratio_sum": 0.9732019901275635,
+      "finite": true,
+      "output_key": "X_scGPT_ortholog_tier12_pca100_supp",
+      "output_sha256": "bb2dbdae361f55b40b900f6826f654016479575fcab2bf0778536ed0123432c6",
+      "output_shape": [
+        48983,
+        100
+      ],
+      "repeat_output_sha256": null,
+      "source_key": "X_scGPT_ortholog_tier12",
+      "source_sha256": "764567e0474bfca3b70b52ae80aaf67d0c3832807c9feae25120f60cf4fbbaaf",
+      "source_shape": [
+        48983,
+        512
+      ]
+    },
+    {
+      "all_components_nonzero_variance": true,
+      "explained_variance_ratio_sum": 0.9604950547218323,
+      "finite": true,
+      "output_key": "X_geneformer_ortholog_tier12_pca100_supp",
+      "output_sha256": "7ec921b98caff394ce40ba50d6d06c06df2f2e6d5e5de2ee51be91ca5ca66873",
+      "output_shape": [
+        48983,
+        100
+      ],
+      "repeat_output_sha256": null,
+      "source_key": "X_geneformer_ortholog_tier12",
+      "source_sha256": "51ea5f6ec290c0d18b8695e8e0682881247eb68649ff9630d1a59baa290f18e3",
+      "source_shape": [
+        48983,
+        512
+      ]
+    },
+    {
+      "all_components_nonzero_variance": true,
+      "explained_variance_ratio_sum": 0.9808946251869202,
+      "finite": true,
+      "output_key": "X_uce_4L_pca100_supp",
+      "output_sha256": "a95abe03f21752b511d3fbef8ed81359e40543f19bc411f733a3e9d4439ee651",
+      "output_shape": [
+        48983,
+        100
+      ],
+      "repeat_output_sha256": null,
+      "source_key": "X_uce_4L",
+      "source_sha256": "994066e04149dc90e03973af3aa25d36be41f370518e1734f73e9019a2f0668b",
+      "source_shape": [
+        48983,
+        1280
+      ]
+    }
+  ],
+  "smoke_cells": 0,
+  "software_versions": {
+    "anndata": "0.12.1",
+    "numpy": "2.2.6",
+    "scikit-learn": "1.7.1"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "bundle_mode": "xor",
+  "created_utc": "2026-07-03T10:19:09.002630+00:00",
+  "data": "/Users/lenatrnovec/crossspecies-benchmark/data/dicty.h5ad",
+  "gene_lists": "/Users/lenatrnovec/crossspecies-benchmark/code/evaluation/src/gene_lists_dicty.py",
+  "gene_sets": "cell_type",
+  "gene_sets_name": "cell_type",
+  "h5ad_written": true,
+  "mode": "discretize_rank_null",
+  "obs_columns_written": [
+    "cell_type",
+    "cell_type__prestalk__score__diag",
+    "cell_type__prespore__score__diag",
+    "cell_type__prestalk__rank_score__diag",
+    "cell_type__prestalk__active__diag",
+    "cell_type__prespore__rank_score__diag",
+    "cell_type__prespore__active__diag",
+    "cell_type__prestalk__pvalue_null__diag",
+    "cell_type__prestalk__qvalue_bh__diag",
+    "cell_type__prestalk__active_bh__diag",
+    "cell_type__prespore__pvalue_null__diag",
+    "cell_type__prespore__qvalue_bh__diag",
+    "cell_type__prespore__active_bh__diag",
+    "cell_type__prestalk__class_prob__diag",
+    "cell_type__prespore__class_prob__diag"
+  ],
+  "out_h5ad": "/Users/lenatrnovec/crossspecies-benchmark/data/dicty.h5ad",
+  "parameters": {
+    "allow_ambiguous": false,
+    "fdr": 0.05,
+    "gene_id_col": "gene_ids",
+    "n_null_sets": 50,
+    "null_cells": 5000,
+    "null_q": 0.99,
+    "threshold_method": "auto",
+    "topk": 1500,
+    "var_names_key": null,
+    "xor_pick": "qvalue"
+  },
+  "programs": {
+    "prespore": 36,
+    "prestalk": 47
+  },
+  "seed": 0,
+  "step": "assign_marker_labels",
+  "thresholds": {
+    "prespore": 0.3395144415355086,
+    "prestalk": 0.2589101954494486
+  }
+}

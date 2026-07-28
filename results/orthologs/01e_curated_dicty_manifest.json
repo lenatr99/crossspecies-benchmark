@@ -1,0 +1,19 @@
+{
+  "dicty_ensp_symbol_cache": "/workspace/data/curated/dictybase_ensembl_protein_to_symbol.tsv",
+  "dicty_ensp_uniprot_cache": "/workspace/data/curated/dictybase_ensembl_protein_to_uniprot.tsv",
+  "dicty_hgnc_via": "ensembl",
+  "dictybase_download_url": "http://dictybase.org/db/cgi-bin/dictyBase/download/download.pl?area=general&ID=ortholog_information.txt",
+  "generated_utc": "2026-04-30T20:13:18.198082+00:00",
+  "human_uniprot_orthodb_cache": "/workspace/data/orthodb/odb12v1/xrefs/human_uniprot_to_orthodb.tsv",
+  "label": "D. discoideum",
+  "n_rows": 9437,
+  "n_unique_human_symbols": 4523,
+  "n_unique_organism_genes": 4224,
+  "note": "Parsed dictyBase orthologs (ensembl) from dictybase_ortholog_information.txt.",
+  "organism": "dicty",
+  "output_tsv": "/workspace/results/orthologs/01e_curated_dicty.tsv",
+  "source": "dictyBase",
+  "source_path": "/workspace/data/curated/dictybase_ortholog_information.txt",
+  "source_sha256": "ab25cc306b7eb90365f72292e79969b54b02a31956484b15ec200438a970b0a9",
+  "step": "01e_curated"
+}

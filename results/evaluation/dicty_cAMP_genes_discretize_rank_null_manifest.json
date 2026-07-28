@@ -1,0 +1,38 @@
+{
+  "bundle_mode": "xor",
+  "created_utc": "2026-07-03T10:19:39.469043+00:00",
+  "data": "/Users/lenatrnovec/crossspecies-benchmark/data/dicty.h5ad",
+  "gene_lists": "/Users/lenatrnovec/crossspecies-benchmark/code/evaluation/src/gene_lists_dicty.py",
+  "gene_sets": "cAMP_genes",
+  "gene_sets_name": "cAMP_genes",
+  "h5ad_written": true,
+  "mode": "discretize_rank_null",
+  "obs_columns_written": [
+    "cAMP_genes",
+    "cAMP_genes__cAMP_genes__score__diag",
+    "cAMP_genes__cAMP_genes__rank_score__diag",
+    "cAMP_genes__cAMP_genes__active__diag",
+    "cAMP_genes__cAMP_genes__pvalue_null__diag"
+  ],
+  "out_h5ad": "/Users/lenatrnovec/crossspecies-benchmark/data/dicty.h5ad",
+  "parameters": {
+    "allow_ambiguous": false,
+    "fdr": 0.05,
+    "gene_id_col": "gene_ids",
+    "n_null_sets": 50,
+    "null_cells": 5000,
+    "null_q": 0.99,
+    "threshold_method": "auto",
+    "topk": 1500,
+    "var_names_key": null,
+    "xor_pick": "qvalue"
+  },
+  "programs": {
+    "cAMP_genes": 60
+  },
+  "seed": 0,
+  "step": "assign_marker_labels",
+  "thresholds": {
+    "cAMP_genes": 0.23557726475082222
+  }
+}

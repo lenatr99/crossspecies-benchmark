@@ -1,0 +1,72 @@
+{
+  "dataset": "dicty",
+  "model": "scvi",
+  "h5ad_path": "/Users/lenatrnovec/crossspecies-benchmark/data/dicty.h5ad",
+  "generated_utc": "2026-05-12T15:05:33.922397+00:00",
+  "embedding_template": "X_scVI_ortholog_{variant}{representation_suffix}",
+  "embedding_keys": null,
+  "output_prefix": "scvi",
+  "output_dir_template": "{output_prefix}/{dataset}",
+  "random_state": 42,
+  "min_dist": 0.1,
+  "n_neighbors": 15,
+  "size": 5,
+  "alpha": 1.0,
+  "dpi": 180,
+  "outputs": [
+    {
+      "model": "scvi",
+      "variant": "tier1",
+      "representation": "pca50",
+      "embedding_key": "X_scVI_ortholog_tier1_50",
+      "umap_key": "X_scVI_ortholog_tier1_50_umap",
+      "color": "time",
+      "figure": "/Users/lenatrnovec/crossspecies-benchmark/results/embeddings/umaps/scvi/dicty/dicty_scVI_ortholog_tier1_50_umap_by_time.png"
+    },
+    {
+      "model": "scvi",
+      "variant": "tier1",
+      "representation": "pca50",
+      "embedding_key": "X_scVI_ortholog_tier1_50",
+      "umap_key": "X_scVI_ortholog_tier1_50_umap",
+      "color": "cell_type",
+      "figure": "/Users/lenatrnovec/crossspecies-benchmark/results/embeddings/umaps/scvi/dicty/dicty_scVI_ortholog_tier1_50_umap_by_cell_type.png"
+    },
+    {
+      "model": "scvi",
+      "variant": "tier12",
+      "representation": "pca50",
+      "embedding_key": "X_scVI_ortholog_tier12_50",
+      "umap_key": "X_scVI_ortholog_tier12_50_umap",
+      "color": "time",
+      "figure": "/Users/lenatrnovec/crossspecies-benchmark/results/embeddings/umaps/scvi/dicty/dicty_scVI_ortholog_tier12_50_umap_by_time.png"
+    },
+    {
+      "model": "scvi",
+      "variant": "tier12",
+      "representation": "pca50",
+      "embedding_key": "X_scVI_ortholog_tier12_50",
+      "umap_key": "X_scVI_ortholog_tier12_50_umap",
+      "color": "cell_type",
+      "figure": "/Users/lenatrnovec/crossspecies-benchmark/results/embeddings/umaps/scvi/dicty/dicty_scVI_ortholog_tier12_50_umap_by_cell_type.png"
+    },
+    {
+      "model": "scvi",
+      "variant": "tier123",
+      "representation": "pca50",
+      "embedding_key": "X_scVI_ortholog_tier123_50",
+      "umap_key": "X_scVI_ortholog_tier123_50_umap",
+      "color": "time",
+      "figure": "/Users/lenatrnovec/crossspecies-benchmark/results/embeddings/umaps/scvi/dicty/dicty_scVI_ortholog_tier123_50_umap_by_time.png"
+    },
+    {
+      "model": "scvi",
+      "variant": "tier123",
+      "representation": "pca50",
+      "embedding_key": "X_scVI_ortholog_tier123_50",
+      "umap_key": "X_scVI_ortholog_tier123_50_umap",
+      "color": "cell_type",
+      "figure": "/Users/lenatrnovec/crossspecies-benchmark/results/embeddings/umaps/scvi/dicty/dicty_scVI_ortholog_tier123_50_umap_by_cell_type.png"
+    }
+  ]
+}

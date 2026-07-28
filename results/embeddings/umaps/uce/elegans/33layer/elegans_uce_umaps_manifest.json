@@ -1,0 +1,323 @@
+{
+  "dataset": "elegans",
+  "model": "uce",
+  "h5ad_path": "/Users/lenatrnovec/crossspecies-benchmark/data/elegans.h5ad",
+  "generated_utc": "2026-05-22T11:27:35.394670+00:00",
+  "embedding_template": "X_geneformer_ortholog_{variant}{representation_suffix}",
+  "embedding_keys": [
+    "X_uce_4L_50",
+    "X_uce_4L_orthoT1_50",
+    "X_uce_4L_orthoT12_50",
+    "X_uce_4L_orthoT123_50",
+    "X_uce_4L_whitening_50",
+    "X_uce_4L_orthoT1_whitening_50",
+    "X_uce_4L_orthoT12_whitening_50",
+    "X_uce_4L_orthoT123_whitening_50",
+    "X_uce_33L_50",
+    "X_uce_33L_orthoT1_50",
+    "X_uce_33L_orthoT12_50",
+    "X_uce_33L_orthoT123_50",
+    "X_uce_33L_whitening_50",
+    "X_uce_33L_orthoT1_whitening_50",
+    "X_uce_33L_orthoT12_whitening_50",
+    "X_uce_33L_orthoT123_whitening_50"
+  ],
+  "output_prefix": "uce",
+  "output_dir_template": "{output_prefix}/{dataset}/{layer}",
+  "random_state": 42,
+  "min_dist": 0.1,
+  "n_neighbors": 15,
+  "size": 5,
+  "alpha": 1.0,
+  "dpi": 180,
+  "outputs": [
+    {
+      "model": "uce",
+      "variant": null,
+      "representation": "custom",
+      "embedding_key": "X_uce_4L_50",
+      "umap_key": "X_uce_4L_50_umap",
+      "color": "time",
+      "figure": "/Users/lenatrnovec/crossspecies-benchmark/results/embeddings/umaps/uce/elegans/4layer/elegans_uce_4L_50_umap_by_time.png"
+    },
+    {
+      "model": "uce",
+      "variant": null,
+      "representation": "custom",
+      "embedding_key": "X_uce_4L_50",
+      "umap_key": "X_uce_4L_50_umap",
+      "color": "cell_type",
+      "figure": "/Users/lenatrnovec/crossspecies-benchmark/results/embeddings/umaps/uce/elegans/4layer/elegans_uce_4L_50_umap_by_cell_type.png"
+    },
+    {
+      "model": "uce",
+      "variant": null,
+      "representation": "custom",
+      "embedding_key": "X_uce_4L_orthoT1_50",
+      "umap_key": "X_uce_4L_orthoT1_50_umap",
+      "color": "time",
+      "figure": "/Users/lenatrnovec/crossspecies-benchmark/results/embeddings/umaps/uce/elegans/4layer/elegans_uce_4L_orthoT1_50_umap_by_time.png"
+    },
+    {
+      "model": "uce",
+      "variant": null,
+      "representation": "custom",
+      "embedding_key": "X_uce_4L_orthoT1_50",
+      "umap_key": "X_uce_4L_orthoT1_50_umap",
+      "color": "cell_type",
+      "figure": "/Users/lenatrnovec/crossspecies-benchmark/results/embeddings/umaps/uce/elegans/4layer/elegans_uce_4L_orthoT1_50_umap_by_cell_type.png"
+    },
+    {
+      "model": "uce",
+      "variant": null,
+      "representation": "custom",
+      "embedding_key": "X_uce_4L_orthoT12_50",
+      "umap_key": "X_uce_4L_orthoT12_50_umap",
+      "color": "time",
+      "figure": "/Users/lenatrnovec/crossspecies-benchmark/results/embeddings/umaps/uce/elegans/4layer/elegans_uce_4L_orthoT12_50_umap_by_time.png"
+    },
+    {
+      "model": "uce",
+      "variant": null,
+      "representation": "custom",
+      "embedding_key": "X_uce_4L_orthoT12_50",
+      "umap_key": "X_uce_4L_orthoT12_50_umap",
+      "color": "cell_type",
+      "figure": "/Users/lenatrnovec/crossspecies-benchmark/results/embeddings/umaps/uce/elegans/4layer/elegans_uce_4L_orthoT12_50_umap_by_cell_type.png"
+    },
+    {
+      "model": "uce",
+      "variant": null,
+      "representation": "custom",
+      "embedding_key": "X_uce_4L_orthoT123_50",
+      "umap_key": "X_uce_4L_orthoT123_50_umap",
+      "color": "time",
+      "figure": "/Users/lenatrnovec/crossspecies-benchmark/results/embeddings/umaps/uce/elegans/4layer/elegans_uce_4L_orthoT123_50_umap_by_time.png"
+    },
+    {
+      "model": "uce",
+      "variant": null,
+      "representation": "custom",
+      "embedding_key": "X_uce_4L_orthoT123_50",
+      "umap_key": "X_uce_4L_orthoT123_50_umap",
+      "color": "cell_type",
+      "figure": "/Users/lenatrnovec/crossspecies-benchmark/results/embeddings/umaps/uce/elegans/4layer/elegans_uce_4L_orthoT123_50_umap_by_cell_type.png"
+    },
+    {
+      "model": "uce",
+      "variant": null,
+      "representation": "custom",
+      "embedding_key": "X_uce_4L_whitening_50",
+      "umap_key": "X_uce_4L_whitening_50_umap",
+      "color": "time",
+      "figure": "/Users/lenatrnovec/crossspecies-benchmark/results/embeddings/umaps/uce/elegans/4layer/elegans_uce_4L_whitening_50_umap_by_time.png"
+    },
+    {
+      "model": "uce",
+      "variant": null,
+      "representation": "custom",
+      "embedding_key": "X_uce_4L_whitening_50",
+      "umap_key": "X_uce_4L_whitening_50_umap",
+      "color": "cell_type",
+      "figure": "/Users/lenatrnovec/crossspecies-benchmark/results/embeddings/umaps/uce/elegans/4layer/elegans_uce_4L_whitening_50_umap_by_cell_type.png"
+    },
+    {
+      "model": "uce",
+      "variant": null,
+      "representation": "custom",
+      "embedding_key": "X_uce_4L_orthoT1_whitening_50",
+      "umap_key": "X_uce_4L_orthoT1_whitening_50_umap",
+      "color": "time",
+      "figure": "/Users/lenatrnovec/crossspecies-benchmark/results/embeddings/umaps/uce/elegans/4layer/elegans_uce_4L_orthoT1_whitening_50_umap_by_time.png"
+    },
+    {
+      "model": "uce",
+      "variant": null,
+      "representation": "custom",
+      "embedding_key": "X_uce_4L_orthoT1_whitening_50",
+      "umap_key": "X_uce_4L_orthoT1_whitening_50_umap",
+      "color": "cell_type",
+      "figure": "/Users/lenatrnovec/crossspecies-benchmark/results/embeddings/umaps/uce/elegans/4layer/elegans_uce_4L_orthoT1_whitening_50_umap_by_cell_type.png"
+    },
+    {
+      "model": "uce",
+      "variant": null,
+      "representation": "custom",
+      "embedding_key": "X_uce_4L_orthoT12_whitening_50",
+      "umap_key": "X_uce_4L_orthoT12_whitening_50_umap",
+      "color": "time",
+      "figure": "/Users/lenatrnovec/crossspecies-benchmark/results/embeddings/umaps/uce/elegans/4layer/elegans_uce_4L_orthoT12_whitening_50_umap_by_time.png"
+    },
+    {
+      "model": "uce",
+      "variant": null,
+      "representation": "custom",
+      "embedding_key": "X_uce_4L_orthoT12_whitening_50",
+      "umap_key": "X_uce_4L_orthoT12_whitening_50_umap",
+      "color": "cell_type",
+      "figure": "/Users/lenatrnovec/crossspecies-benchmark/results/embeddings/umaps/uce/elegans/4layer/elegans_uce_4L_orthoT12_whitening_50_umap_by_cell_type.png"
+    },
+    {
+      "model": "uce",
+      "variant": null,
+      "representation": "custom",
+      "embedding_key": "X_uce_4L_orthoT123_whitening_50",
+      "umap_key": "X_uce_4L_orthoT123_whitening_50_umap",
+      "color": "time",
+      "figure": "/Users/lenatrnovec/crossspecies-benchmark/results/embeddings/umaps/uce/elegans/4layer/elegans_uce_4L_orthoT123_whitening_50_umap_by_time.png"
+    },
+    {
+      "model": "uce",
+      "variant": null,
+      "representation": "custom",
+      "embedding_key": "X_uce_4L_orthoT123_whitening_50",
+      "umap_key": "X_uce_4L_orthoT123_whitening_50_umap",
+      "color": "cell_type",
+      "figure": "/Users/lenatrnovec/crossspecies-benchmark/results/embeddings/umaps/uce/elegans/4layer/elegans_uce_4L_orthoT123_whitening_50_umap_by_cell_type.png"
+    },
+    {
+      "model": "uce",
+      "variant": null,
+      "representation": "custom",
+      "embedding_key": "X_uce_33L_50",
+      "umap_key": "X_uce_33L_50_umap",
+      "color": "time",
+      "figure": "/Users/lenatrnovec/crossspecies-benchmark/results/embeddings/umaps/uce/elegans/33layer/elegans_uce_33L_50_umap_by_time.png"
+    },
+    {
+      "model": "uce",
+      "variant": null,
+      "representation": "custom",
+      "embedding_key": "X_uce_33L_50",
+      "umap_key": "X_uce_33L_50_umap",
+      "color": "cell_type",
+      "figure": "/Users/lenatrnovec/crossspecies-benchmark/results/embeddings/umaps/uce/elegans/33layer/elegans_uce_33L_50_umap_by_cell_type.png"
+    },
+    {
+      "model": "uce",
+      "variant": null,
+      "representation": "custom",
+      "embedding_key": "X_uce_33L_orthoT1_50",
+      "umap_key": "X_uce_33L_orthoT1_50_umap",
+      "color": "time",
+      "figure": "/Users/lenatrnovec/crossspecies-benchmark/results/embeddings/umaps/uce/elegans/33layer/elegans_uce_33L_orthoT1_50_umap_by_time.png"
+    },
+    {
+      "model": "uce",
+      "variant": null,
+      "representation": "custom",
+      "embedding_key": "X_uce_33L_orthoT1_50",
+      "umap_key": "X_uce_33L_orthoT1_50_umap",
+      "color": "cell_type",
+      "figure": "/Users/lenatrnovec/crossspecies-benchmark/results/embeddings/umaps/uce/elegans/33layer/elegans_uce_33L_orthoT1_50_umap_by_cell_type.png"
+    },
+    {
+      "model": "uce",
+      "variant": null,
+      "representation": "custom",
+      "embedding_key": "X_uce_33L_orthoT12_50",
+      "umap_key": "X_uce_33L_orthoT12_50_umap",
+      "color": "time",
+      "figure": "/Users/lenatrnovec/crossspecies-benchmark/results/embeddings/umaps/uce/elegans/33layer/elegans_uce_33L_orthoT12_50_umap_by_time.png"
+    },
+    {
+      "model": "uce",
+      "variant": null,
+      "representation": "custom",
+      "embedding_key": "X_uce_33L_orthoT12_50",
+      "umap_key": "X_uce_33L_orthoT12_50_umap",
+      "color": "cell_type",
+      "figure": "/Users/lenatrnovec/crossspecies-benchmark/results/embeddings/umaps/uce/elegans/33layer/elegans_uce_33L_orthoT12_50_umap_by_cell_type.png"
+    },
+    {
+      "model": "uce",
+      "variant": null,
+      "representation": "custom",
+      "embedding_key": "X_uce_33L_orthoT123_50",
+      "umap_key": "X_uce_33L_orthoT123_50_umap",
+      "color": "time",
+      "figure": "/Users/lenatrnovec/crossspecies-benchmark/results/embeddings/umaps/uce/elegans/33layer/elegans_uce_33L_orthoT123_50_umap_by_time.png"
+    },
+    {
+      "model": "uce",
+      "variant": null,
+      "representation": "custom",
+      "embedding_key": "X_uce_33L_orthoT123_50",
+      "umap_key": "X_uce_33L_orthoT123_50_umap",
+      "color": "cell_type",
+      "figure": "/Users/lenatrnovec/crossspecies-benchmark/results/embeddings/umaps/uce/elegans/33layer/elegans_uce_33L_orthoT123_50_umap_by_cell_type.png"
+    },
+    {
+      "model": "uce",
+      "variant": null,
+      "representation": "custom",
+      "embedding_key": "X_uce_33L_whitening_50",
+      "umap_key": "X_uce_33L_whitening_50_umap",
+      "color": "time",
+      "figure": "/Users/lenatrnovec/crossspecies-benchmark/results/embeddings/umaps/uce/elegans/33layer/elegans_uce_33L_whitening_50_umap_by_time.png"
+    },
+    {
+      "model": "uce",
+      "variant": null,
+      "representation": "custom",
+      "embedding_key": "X_uce_33L_whitening_50",
+      "umap_key": "X_uce_33L_whitening_50_umap",
+      "color": "cell_type",
+      "figure": "/Users/lenatrnovec/crossspecies-benchmark/results/embeddings/umaps/uce/elegans/33layer/elegans_uce_33L_whitening_50_umap_by_cell_type.png"
+    },
+    {
+      "model": "uce",
+      "variant": null,
+      "representation": "custom",
+      "embedding_key": "X_uce_33L_orthoT1_whitening_50",
+      "umap_key": "X_uce_33L_orthoT1_whitening_50_umap",
+      "color": "time",
+      "figure": "/Users/lenatrnovec/crossspecies-benchmark/results/embeddings/umaps/uce/elegans/33layer/elegans_uce_33L_orthoT1_whitening_50_umap_by_time.png"
+    },
+    {
+      "model": "uce",
+      "variant": null,
+      "representation": "custom",
+      "embedding_key": "X_uce_33L_orthoT1_whitening_50",
+      "umap_key": "X_uce_33L_orthoT1_whitening_50_umap",
+      "color": "cell_type",
+      "figure": "/Users/lenatrnovec/crossspecies-benchmark/results/embeddings/umaps/uce/elegans/33layer/elegans_uce_33L_orthoT1_whitening_50_umap_by_cell_type.png"
+    },
+    {
+      "model": "uce",
+      "variant": null,
+      "representation": "custom",
+      "embedding_key": "X_uce_33L_orthoT12_whitening_50",
+      "umap_key": "X_uce_33L_orthoT12_whitening_50_umap",
+      "color": "time",
+      "figure": "/Users/lenatrnovec/crossspecies-benchmark/results/embeddings/umaps/uce/elegans/33layer/elegans_uce_33L_orthoT12_whitening_50_umap_by_time.png"
+    },
+    {
+      "model": "uce",
+      "variant": null,
+      "representation": "custom",
+      "embedding_key": "X_uce_33L_orthoT12_whitening_50",
+      "umap_key": "X_uce_33L_orthoT12_whitening_50_umap",
+      "color": "cell_type",
+      "figure": "/Users/lenatrnovec/crossspecies-benchmark/results/embeddings/umaps/uce/elegans/33layer/elegans_uce_33L_orthoT12_whitening_50_umap_by_cell_type.png"
+    },
+    {
+      "model": "uce",
+      "variant": null,
+      "representation": "custom",
+      "embedding_key": "X_uce_33L_orthoT123_whitening_50",
+      "umap_key": "X_uce_33L_orthoT123_whitening_50_umap",
+      "color": "time",
+      "figure": "/Users/lenatrnovec/crossspecies-benchmark/results/embeddings/umaps/uce/elegans/33layer/elegans_uce_33L_orthoT123_whitening_50_umap_by_time.png"
+    },
+    {
+      "model": "uce",
+      "variant": null,
+      "representation": "custom",
+      "embedding_key": "X_uce_33L_orthoT123_whitening_50",
+      "umap_key": "X_uce_33L_orthoT123_whitening_50_umap",
+      "color": "cell_type",
+      "figure": "/Users/lenatrnovec/crossspecies-benchmark/results/embeddings/umaps/uce/elegans/33layer/elegans_uce_33L_orthoT123_whitening_50_umap_by_cell_type.png"
+    }
+  ]
+}

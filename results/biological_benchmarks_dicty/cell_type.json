@@ -1,0 +1,14 @@
+{
+    "X_uce_33L_macrogene": {
+        "NMI_cluster/label": 0.5649476440384967,
+        "ARI_cluster/label": 0.6831009443478049,
+        "ASW_label": 0.5251595620065928,
+        "ASW_label/batch": 0.9758408665657043,
+        "graph_conn": 0.9949153341352425,
+        "leiden_resolution": 0.2,
+        "n_clusters": 2,
+        "avg_bio": 0.5910693834642982,
+        "avg_batch": 0.9853781003504734,
+        "overall_score": 0.7487928702187683
+    }
+}

@@ -1,0 +1,12 @@
+# Pinned Python stack for UCE embeddings.
+# Installed after a small conda-only base env, mirroring the Geneformer wrapper.
+numpy==1.26.4
+scipy==1.14.1
+pandas==2.2.2
+tqdm==4.66.5
+torch==2.1.1
+scanpy==1.10.2
+accelerate==0.24.0
+requests==2.25.1
+urllib3==1.26.6
+gdown==5.2.0

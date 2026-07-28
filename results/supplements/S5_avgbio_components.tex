@@ -1,0 +1,49 @@
+\begin{table}[H]
+\centering
+\caption{\textbf{Component metrics underlying the main avgBIO comparisons.} NMI, ARI and label ASW are full-data descriptive point estimates; avgBIO is their unweighted mean. Geneformer and scGPT use Tier~1--2 ortholog mappings, and UCE-4L denotes the standard pretrained four-layer model.}
+\label{tab:s7}
+\scriptsize
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{@{}ll lrrrr@{}}
+\toprule
+Organism & Annotation & Method & NMI & ARI & ASW & avgBIO \\
+\midrule
+\species{D.~discoideum} & Cell type & PCA & .393 & .359 & .558 & .437 \\
+& & scVI & .362 & .258 & .583 & .401 \\
+& & Geneformer & .412 & .410 & .549 & .457 \\
+& & scGPT & .224 & .193 & .550 & .322 \\
+& & UCE-4L & .590 & .724 & .539 & .618 \\
+\addlinespace
+& cAMP-pulse-induced genes & PCA & .450 & .279 & .644 & .458 \\
+& & scVI & .357 & .148 & .581 & .362 \\
+& & Geneformer & .621 & .618 & .626 & .622 \\
+& & scGPT & .794 & .884 & .584 & .754 \\
+& & UCE-4L & .799 & .890 & .654 & .781 \\
+\addlinespace
+& Milestones & PCA & .306 & .239 & .416 & .321 \\
+& & scVI & .279 & .156 & .514 & .316 \\
+& & Geneformer & .264 & .194 & .501 & .319 \\
+& & scGPT & .206 & .184 & .490 & .293 \\
+& & UCE-4L & .230 & .170 & .494 & .298 \\
+\midrule
+\species{C.~elegans} & Cell/tissue classes & PCA & .739 & .775 & .457 & .657 \\
+& & scVI & .721 & .601 & .576 & .633 \\
+& & Geneformer & .559 & .636 & .533 & .576 \\
+& & scGPT & .575 & .633 & .538 & .582 \\
+& & UCE-4L & .725 & .821 & .550 & .699 \\
+\addlinespace
+& Lineage categories & PCA & .620 & .606 & .482 & .569 \\
+& & scVI & .529 & .299 & .567 & .465 \\
+& & Geneformer & .598 & .606 & .543 & .582 \\
+& & scGPT & .567 & .543 & .551 & .554 \\
+& & UCE-4L & .633 & .637 & .562 & .610 \\
+\addlinespace
+& Developmental markers & PCA & .410 & .467 & .526 & .468 \\
+& & scVI & .347 & .150 & .523 & .340 \\
+& & Geneformer & .460 & .496 & .511 & .489 \\
+& & scGPT & .355 & .313 & .510 & .393 \\
+& & UCE-4L & .494 & .516 & .518 & .509 \\
+\bottomrule
+\end{tabular}%
+}
+\end{table}

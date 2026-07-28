@@ -1,0 +1,72 @@
+{
+  "dataset": "dicty",
+  "model": "scgpt",
+  "h5ad_path": "/Users/lenatrnovec/crossspecies-benchmark/data/dicty.h5ad",
+  "generated_utc": "2026-05-07T06:01:08.492967+00:00",
+  "embedding_template": "X_scGPT_ortholog_{variant}{representation_suffix}",
+  "embedding_keys": null,
+  "output_prefix": "scgpt",
+  "output_dir_template": "{output_prefix}/{dataset}",
+  "random_state": 42,
+  "min_dist": 0.1,
+  "n_neighbors": 15,
+  "size": 5,
+  "alpha": 1.0,
+  "dpi": 180,
+  "outputs": [
+    {
+      "model": "scgpt",
+      "variant": "tier1",
+      "representation": "pca50",
+      "embedding_key": "X_scGPT_ortholog_tier1_50",
+      "umap_key": "X_scGPT_ortholog_tier1_50_umap",
+      "color": "time",
+      "figure": "/Users/lenatrnovec/crossspecies-benchmark/results/embeddings/umaps/scgpt/dicty/dicty_scGPT_ortholog_tier1_50_umap_by_time.png"
+    },
+    {
+      "model": "scgpt",
+      "variant": "tier1",
+      "representation": "pca50",
+      "embedding_key": "X_scGPT_ortholog_tier1_50",
+      "umap_key": "X_scGPT_ortholog_tier1_50_umap",
+      "color": "cell_type",
+      "figure": "/Users/lenatrnovec/crossspecies-benchmark/results/embeddings/umaps/scgpt/dicty/dicty_scGPT_ortholog_tier1_50_umap_by_cell_type.png"
+    },
+    {
+      "model": "scgpt",
+      "variant": "tier12",
+      "representation": "pca50",
+      "embedding_key": "X_scGPT_ortholog_tier12_50",
+      "umap_key": "X_scGPT_ortholog_tier12_50_umap",
+      "color": "time",
+      "figure": "/Users/lenatrnovec/crossspecies-benchmark/results/embeddings/umaps/scgpt/dicty/dicty_scGPT_ortholog_tier12_50_umap_by_time.png"
+    },
+    {
+      "model": "scgpt",
+      "variant": "tier12",
+      "representation": "pca50",
+      "embedding_key": "X_scGPT_ortholog_tier12_50",
+      "umap_key": "X_scGPT_ortholog_tier12_50_umap",
+      "color": "cell_type",
+      "figure": "/Users/lenatrnovec/crossspecies-benchmark/results/embeddings/umaps/scgpt/dicty/dicty_scGPT_ortholog_tier12_50_umap_by_cell_type.png"
+    },
+    {
+      "model": "scgpt",
+      "variant": "tier123",
+      "representation": "pca50",
+      "embedding_key": "X_scGPT_ortholog_tier123_50",
+      "umap_key": "X_scGPT_ortholog_tier123_50_umap",
+      "color": "time",
+      "figure": "/Users/lenatrnovec/crossspecies-benchmark/results/embeddings/umaps/scgpt/dicty/dicty_scGPT_ortholog_tier123_50_umap_by_time.png"
+    },
+    {
+      "model": "scgpt",
+      "variant": "tier123",
+      "representation": "pca50",
+      "embedding_key": "X_scGPT_ortholog_tier123_50",
+      "umap_key": "X_scGPT_ortholog_tier123_50_umap",
+      "color": "cell_type",
+      "figure": "/Users/lenatrnovec/crossspecies-benchmark/results/embeddings/umaps/scgpt/dicty/dicty_scGPT_ortholog_tier123_50_umap_by_cell_type.png"
+    }
+  ]
+}

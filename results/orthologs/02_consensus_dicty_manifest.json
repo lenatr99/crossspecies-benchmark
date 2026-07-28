@@ -1,0 +1,41 @@
+{
+  "evidence_sources": [
+    "orthofinder",
+    "orthodb_og",
+    "oma",
+    "curated"
+  ],
+  "generated_utc": "2026-04-30T20:13:20.551464+00:00",
+  "inputs": {
+    "curated_sha256": "7f96153e2ad36c1596952ab66aed79a749bd5733eed51b462595caf2aa201020",
+    "curated_tsv": "/workspace/results/orthologs/01e_curated_dicty.tsv",
+    "human_gene_info_path": "/workspace/data/Homo_sapiens.gene_info",
+    "human_gene_info_sha256": "6fa1c4a756c206ea44dc68529a566da9a0166b84ed08da578bbba96413ff2820",
+    "human_gene_info_url": "https://ftp.ncbi.nlm.nih.gov/gene/DATA/GENE_INFO/Mammalia/Homo_sapiens.gene_info.gz",
+    "human_xrefs_note": "Derived from OrthoDB gene xrefs by retaining rows for species 9606_1 with xref type NCBIgid.",
+    "human_xrefs_path": "/workspace/data/human_ncbi_annotations.txt",
+    "human_xrefs_sha256": "acda68a2ea9b697d2f334cbf721ac5c4e1f8362368e829ccff3a0c2374edac16",
+    "oma_sha256": "f465c8f593ff6bcd82d9dfa2b0efe85e8f941eb1c30b83b99b779a3fac7710bd",
+    "oma_tsv": "/workspace/results/orthologs/01d_oma_orthologs_dicty.tsv",
+    "orthodb_og_sha256": "57a0501fc762cfaf474049c798884731c97aeeec70e5dc55125e1822c892275b",
+    "orthodb_og_tsv": "/workspace/results/orthologs/01b_orthodb_og_dicty.tsv",
+    "orthofinder_sha256": "ce59df5c182b056e3438a7f3327ff16632eb10ad44fd47b537f92151b11ae66f",
+    "orthofinder_tsv": "/workspace/results/orthologs/01c_orthofinder_dicty_human.tsv"
+  },
+  "n_organism_genes_with_consensus": 5927,
+  "n_sources_distribution": {
+    "1": 2096,
+    "2": 1212,
+    "3": 1482,
+    "4": 1137
+  },
+  "organism": "dicty",
+  "orthodb_release": "odb12v1",
+  "output_tsv": "/workspace/results/orthologs/02_consensus_dicty.tsv",
+  "step": "02_consensus",
+  "tier_counts": {
+    "1": 979,
+    "2": 1371,
+    "3": 3577
+  }
+}

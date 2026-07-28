@@ -1,0 +1,62 @@
+{
+    "X_pca_pca50_supp": {
+        "NMI_cluster/label": 0.3972594406605549,
+        "ARI_cluster/label": 0.27773086245224404,
+        "ASW_label": 0.558412741869688,
+        "ASW_label/batch": 0.8118119239807129,
+        "graph_conn": 0.9972658920027342,
+        "leiden_resolution": 0.1,
+        "n_clusters": 5,
+        "avg_bio": 0.4111343483274957,
+        "avg_batch": 0.9045389079917235,
+        "overall_score": 0.6084961721931869
+    },
+    "X_scVI_pca50_supp": {
+        "NMI_cluster/label": 0.36006932016727405,
+        "ARI_cluster/label": 0.25564294778566826,
+        "ASW_label": 0.5787392854690552,
+        "ASW_label/batch": 0.9195279479026794,
+        "graph_conn": 0.9978127136021873,
+        "leiden_resolution": 0.1,
+        "n_clusters": 5,
+        "avg_bio": 0.3981505178073325,
+        "avg_batch": 0.9586703307524334,
+        "overall_score": 0.6223584429853729
+    },
+    "X_scGPT_ortholog_tier12_pca50_supp": {
+        "NMI_cluster/label": 0.17729853976064056,
+        "ARI_cluster/label": 0.09052237355839649,
+        "ASW_label": 0.5531312711536884,
+        "ASW_label/batch": 0.9296168684959412,
+        "graph_conn": 0.9927814595199012,
+        "leiden_resolution": 0.8,
+        "n_clusters": 9,
+        "avg_bio": 0.27365072815757513,
+        "avg_batch": 0.9611991640079212,
+        "overall_score": 0.5486701024977135
+    },
+    "X_geneformer_ortholog_tier12_pca50_supp": {
+        "NMI_cluster/label": 0.3818012943186181,
+        "ARI_cluster/label": 0.3890312604463677,
+        "ASW_label": 0.5548582598567009,
+        "ASW_label/batch": 0.9259229898452759,
+        "graph_conn": 0.9919648225286664,
+        "leiden_resolution": 0.2,
+        "n_clusters": 3,
+        "avg_bio": 0.4418969382072289,
+        "avg_batch": 0.9589439061869711,
+        "overall_score": 0.6487157253991258
+    },
+    "X_uce_4L_pca50_supp": {
+        "NMI_cluster/label": 0.34837932931951615,
+        "ARI_cluster/label": 0.353818375287163,
+        "ASW_label": 0.5432602353394032,
+        "ASW_label/batch": 0.964442789554596,
+        "graph_conn": 0.9914445669990288,
+        "leiden_resolution": 0.3,
+        "n_clusters": 3,
+        "avg_bio": 0.4151526466486941,
+        "avg_batch": 0.9779436782768124,
+        "overall_score": 0.6402690592999415
+    }
+}

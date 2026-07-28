@@ -1,0 +1,18 @@
+{
+  "summaries": [
+    {
+      "base_save_dir": "/Users/lenatrnovec/crossspecies-benchmark/results/pseudotime_dicty",
+      "dataset": "dicty",
+      "elapsed_seconds": 4068.4358451366425,
+      "embedding_preset": "main",
+      "k_roots": 50,
+      "n_boot": 1000,
+      "n_candidates": 500,
+      "n_embeddings_ok": 6,
+      "root_method": "uniform",
+      "save_dir": "/Users/lenatrnovec/crossspecies-benchmark/results/pseudotime_dicty/runs/20260616_125203",
+      "time_key": "time",
+      "timestamped_save_dir": true
+    }
+  ]
+}

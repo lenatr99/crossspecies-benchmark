@@ -1,0 +1,240 @@
+{
+  "generated_utc": "2026-04-30T23:29:36.267885+00:00",
+  "organisms": [
+    "dicty",
+    "elegans"
+  ],
+  "step": "99_report",
+  "tables": {
+    "dicty": {
+      "coverage_vs_tier": [
+        {
+          "cumulative_n_genes": 979,
+          "min_tier": 1
+        },
+        {
+          "cumulative_n_genes": 2350,
+          "min_tier": 2
+        },
+        {
+          "cumulative_n_genes": 5927,
+          "min_tier": 3
+        },
+        {
+          "cumulative_n_genes": 5927,
+          "min_tier": 4
+        }
+      ],
+      "legacy_diff_reason_counts": {},
+      "source_overlap": [
+        {
+          "n_genes": 1137,
+          "n_sources": 4,
+          "pattern": "orthofinder+orthodb_og+oma+curated"
+        },
+        {
+          "n_genes": 91,
+          "n_sources": 3,
+          "pattern": "orthodb_og+oma+curated"
+        },
+        {
+          "n_genes": 457,
+          "n_sources": 3,
+          "pattern": "orthofinder+oma+curated"
+        },
+        {
+          "n_genes": 806,
+          "n_sources": 3,
+          "pattern": "orthofinder+orthodb_og+curated"
+        },
+        {
+          "n_genes": 128,
+          "n_sources": 3,
+          "pattern": "orthofinder+orthodb_og+oma"
+        },
+        {
+          "n_genes": 109,
+          "n_sources": 2,
+          "pattern": "oma+curated"
+        },
+        {
+          "n_genes": 188,
+          "n_sources": 2,
+          "pattern": "orthodb_og+curated"
+        },
+        {
+          "n_genes": 26,
+          "n_sources": 2,
+          "pattern": "orthodb_og+oma"
+        },
+        {
+          "n_genes": 603,
+          "n_sources": 2,
+          "pattern": "orthofinder+curated"
+        },
+        {
+          "n_genes": 60,
+          "n_sources": 2,
+          "pattern": "orthofinder+oma"
+        },
+        {
+          "n_genes": 226,
+          "n_sources": 2,
+          "pattern": "orthofinder+orthodb_og"
+        },
+        {
+          "n_genes": 685,
+          "n_sources": 1,
+          "pattern": "curated"
+        },
+        {
+          "n_genes": 103,
+          "n_sources": 1,
+          "pattern": "oma"
+        },
+        {
+          "n_genes": 520,
+          "n_sources": 1,
+          "pattern": "orthodb_og"
+        },
+        {
+          "n_genes": 788,
+          "n_sources": 1,
+          "pattern": "orthofinder"
+        }
+      ],
+      "tier_distribution": [
+        {
+          "n_genes": 979,
+          "share": 0.16517631179348743,
+          "tier": 1
+        },
+        {
+          "n_genes": 1371,
+          "share": 0.23131432427872448,
+          "tier": 2
+        },
+        {
+          "n_genes": 3577,
+          "share": 0.6035093639277881,
+          "tier": 3
+        }
+      ]
+    },
+    "elegans": {
+      "coverage_vs_tier": [
+        {
+          "cumulative_n_genes": 1654,
+          "min_tier": 1
+        },
+        {
+          "cumulative_n_genes": 3504,
+          "min_tier": 2
+        },
+        {
+          "cumulative_n_genes": 9933,
+          "min_tier": 3
+        },
+        {
+          "cumulative_n_genes": 9933,
+          "min_tier": 4
+        }
+      ],
+      "legacy_diff_reason_counts": {},
+      "source_overlap": [
+        {
+          "n_genes": 1388,
+          "n_sources": 4,
+          "pattern": "orthofinder+orthodb_og+oma+curated"
+        },
+        {
+          "n_genes": 148,
+          "n_sources": 3,
+          "pattern": "orthodb_og+oma+curated"
+        },
+        {
+          "n_genes": 147,
+          "n_sources": 3,
+          "pattern": "orthofinder+oma+curated"
+        },
+        {
+          "n_genes": 2958,
+          "n_sources": 3,
+          "pattern": "orthofinder+orthodb_og+curated"
+        },
+        {
+          "n_genes": 77,
+          "n_sources": 3,
+          "pattern": "orthofinder+orthodb_og+oma"
+        },
+        {
+          "n_genes": 101,
+          "n_sources": 2,
+          "pattern": "oma+curated"
+        },
+        {
+          "n_genes": 1220,
+          "n_sources": 2,
+          "pattern": "orthodb_og+curated"
+        },
+        {
+          "n_genes": 7,
+          "n_sources": 2,
+          "pattern": "orthodb_og+oma"
+        },
+        {
+          "n_genes": 544,
+          "n_sources": 2,
+          "pattern": "orthofinder+curated"
+        },
+        {
+          "n_genes": 6,
+          "n_sources": 2,
+          "pattern": "orthofinder+oma"
+        },
+        {
+          "n_genes": 359,
+          "n_sources": 2,
+          "pattern": "orthofinder+orthodb_og"
+        },
+        {
+          "n_genes": 1433,
+          "n_sources": 1,
+          "pattern": "curated"
+        },
+        {
+          "n_genes": 16,
+          "n_sources": 1,
+          "pattern": "oma"
+        },
+        {
+          "n_genes": 1114,
+          "n_sources": 1,
+          "pattern": "orthodb_og"
+        },
+        {
+          "n_genes": 415,
+          "n_sources": 1,
+          "pattern": "orthofinder"
+        }
+      ],
+      "tier_distribution": [
+        {
+          "n_genes": 1654,
+          "share": 0.16651565488774792,
+          "tier": 1
+        },
+        {
+          "n_genes": 1850,
+          "share": 0.18624786066646531,
+          "tier": 2
+        },
+        {
+          "n_genes": 6429,
+          "share": 0.6472364844457867,
+          "tier": 3
+        }
+      ]
+    }
+  }
+}

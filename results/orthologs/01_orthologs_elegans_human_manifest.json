@@ -1,0 +1,15 @@
+{
+  "api_version": "v12",
+  "cache_dir": "/workspace/data/orthodb/odb12v1",
+  "clade": "2759",
+  "generated_utc": "2026-04-30T18:31:40.194832+00:00",
+  "human_orthodb_id": "9606_1",
+  "organism": "elegans",
+  "organism_orthodb_id": "6239_0",
+  "orthodb_release": "odb12v1",
+  "output_dir": "/workspace/results/orthologs",
+  "total_organism_genes": 20374,
+  "total_ortholog_pairs": 26872,
+  "unique_human_genes": 9332,
+  "unique_organism_genes_with_human_orthologs": 8800
+}

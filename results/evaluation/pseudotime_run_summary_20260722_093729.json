@@ -1,0 +1,54 @@
+{
+  "summaries": [
+    {
+      "alpha": 0.05,
+      "base_save_dir": "/Users/lenatrnovec/crossspecies-benchmark/results/pseudotime_dicty",
+      "bootstrap_consensus_roots": true,
+      "dataset": "dicty",
+      "elapsed_seconds": 498.36233496665955,
+      "embedding_preset": "custom",
+      "embeddings": [
+        "X_pca_hvg_scaled",
+        "X_uce_33L"
+      ],
+      "inference": "subsample",
+      "k_roots": 20,
+      "n_boot": 1000,
+      "n_candidates": 500,
+      "n_embeddings_ok": 2,
+      "n_repeats": 30,
+      "root_method": "uniform",
+      "save_dir": "/Users/lenatrnovec/crossspecies-benchmark/results/pseudotime_dicty/runs/20260722_093729",
+      "seed": 0,
+      "subsample_frac": 0.9,
+      "time_key": "time",
+      "timestamped_save_dir": true,
+      "write_h5ad": false
+    },
+    {
+      "alpha": 0.05,
+      "base_save_dir": "/Users/lenatrnovec/crossspecies-benchmark/results/pseudotime_elegans",
+      "bootstrap_consensus_roots": true,
+      "dataset": "elegans",
+      "elapsed_seconds": 1048.4677238464355,
+      "embedding_preset": "custom",
+      "embeddings": [
+        "X_pca_hvg_scaled",
+        "X_uce_33L"
+      ],
+      "inference": "subsample",
+      "k_roots": 20,
+      "n_boot": 1000,
+      "n_candidates": 500,
+      "n_embeddings_ok": 2,
+      "n_repeats": 30,
+      "root_method": "uniform",
+      "save_dir": "/Users/lenatrnovec/crossspecies-benchmark/results/pseudotime_elegans/runs/20260722_093729",
+      "seed": 0,
+      "subsample_frac": 0.9,
+      "time_key": "embryo.time",
+      "timestamped_save_dir": true,
+      "write_h5ad": false
+    }
+  ]
+}

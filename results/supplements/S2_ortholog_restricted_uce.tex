@@ -1,0 +1,19 @@
+\begin{table}[ht]
+\centering
+\small
+\caption{\textbf{Ortholog-pool-restricted UCE comparison.} avgBIO for full UCE, UCE restricted to the Tier 1--2 source-gene pool used before each model's vocabulary filter, and the two human-vocabulary models. Restricted UCE remains within 0.044 of full UCE on five panels but decreases by 0.276 for \textit{D.~discoideum} cell type. The best value in each row is shown in bold.}
+\label{tab:s2}
+\begin{tabular}{@{}ll cccc@{}}
+\toprule
+Organism & Panel & UCE-4L (full) & UCE-4L (Tier 1--2) & Geneformer & scGPT \\
+\midrule
+\species{D.~discoideum} & Cell type & \textbf{0.618} & 0.342 & 0.457 & 0.322 \\
+ & cAMP-pulse-induced genes & \textbf{0.781} & 0.770 & 0.622 & 0.754 \\
+ & Milestones & 0.298 & \textbf{0.332} & 0.319 & 0.293 \\
+\addlinespace
+\species{C.~elegans} & Cell/tissue classes & \textbf{0.699} & 0.655 & 0.576 & 0.582 \\
+ & Lineage categories & \textbf{0.610} & 0.593 & 0.582 & 0.554 \\
+ & Developmental markers & \textbf{0.509} & 0.491 & 0.489 & 0.393 \\
+\bottomrule
+\end{tabular}
+\end{table}

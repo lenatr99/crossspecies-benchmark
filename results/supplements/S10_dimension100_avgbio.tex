@@ -1,0 +1,34 @@
+\begin{table}[H]
+\centering
+\caption{\textbf{Common 100-component sensitivity for annotation preservation.} The native PCA and scVI representations are already 100-dimensional and are reused unchanged; scGPT, Geneformer and UCE-4L are independently reduced to 100 components by centered, unscaled PCA. Cells show native $\to$ 100-dimensional avgBIO (change). This analysis tests sensitivity to unequal representation dimensionality; it does not place the methods in a shared coordinate system.}
+\label{tab:s10}
+\scriptsize
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{@{}llccccc@{}}
+\toprule
+Organism & Annotation & PCA & scVI & scGPT & Geneformer & UCE-4L \\
+\midrule
+\species{D.~discoideum} & Cell type & 0.437 $\to$ 0.437 (+0.000) & 0.401 $\to$ 0.401 (+0.000) & 0.322 $\to$ 0.353 (+0.031) & 0.457 $\to$ 0.457 (+0.000) & 0.618 $\to$ 0.607 (-0.011) \\
+ & cAMP-pulse-induced genes & 0.458 $\to$ 0.458 (+0.000) & 0.362 $\to$ 0.362 (+0.000) & 0.754 $\to$ 0.753 (-0.001) & 0.622 $\to$ 0.639 (+0.017) & 0.781 $\to$ 0.782 (+0.001) \\
+ & Milestones & 0.321 $\to$ 0.321 (+0.000) & 0.316 $\to$ 0.316 (+0.000) & 0.293 $\to$ 0.280 (-0.014) & 0.319 $\to$ 0.321 (+0.002) & 0.298 $\to$ 0.311 (+0.013) \\
+\addlinespace
+\species{C.~elegans} & Cell/tissue classes & 0.657 $\to$ 0.657 (+0.000) & 0.633 $\to$ 0.633 (+0.000) & 0.582 $\to$ 0.573 (-0.009) & 0.576 $\to$ 0.592 (+0.016) & 0.699 $\to$ 0.698 (+0.000) \\
+ & Lineage categories & 0.569 $\to$ 0.569 (+0.000) & 0.465 $\to$ 0.465 (+0.000) & 0.554 $\to$ 0.558 (+0.005) & 0.582 $\to$ 0.580 (-0.003) & 0.610 $\to$ 0.612 (+0.002) \\
+ & Developmental markers & 0.468 $\to$ 0.468 (+0.000) & 0.340 $\to$ 0.340 (+0.000) & 0.393 $\to$ 0.394 (+0.002) & 0.489 $\to$ 0.489 (+0.000) & 0.509 $\to$ 0.510 (+0.001) \\
+\bottomrule
+\end{tabular}%
+}
+\medskip
+
+\begin{tabular}{@{}lccccc@{}}
+\toprule
+Organism & PCA & scVI & scGPT & Geneformer & UCE-4L \\
+\midrule
+\species{D.~discoideum} & 1.000 & 1.000 & 0.973 & 0.960 & 0.981 \\
+\species{C.~elegans} & 1.000 & 1.000 & 0.951 & 0.953 & 0.969 \\
+\bottomrule
+\end{tabular}
+
+\vspace{2pt}
+\begin{minipage}{0.96\textwidth}\scriptsize Values in the lower block are the fractions of variance retained by the 100 components.\end{minipage}
+\end{table}

@@ -1,0 +1,45 @@
+{
+  "extra_orthofinder_args": null,
+  "generated_utc": "2026-04-30T20:55:23.096444+00:00",
+  "human_orthodb_id": "9606_1",
+  "log_path": "/workspace/data/orthofinder/elegans/orthofinder.log",
+  "n_one_to_one_pairs": 2944,
+  "n_total_pairs": 14123,
+  "organism": "elegans",
+  "organism_orthodb_id": "6239_0",
+  "orthofinder_bin": "orthofinder",
+  "orthofinder_version": "unknown",
+  "ortholog_type_counts": {
+    "1:1": 2944,
+    "1:many": 4296,
+    "many:1": 1362,
+    "many:many": 5521
+  },
+  "output_tsv": "/workspace/results/orthologs/01c_orthofinder_elegans_human.tsv",
+  "proteome_dir": "/workspace/data/orthofinder/elegans/proteomes",
+  "proteomes": {
+    "human": {
+      "records_in": 21498,
+      "records_out": 21498,
+      "renamed_path": "/workspace/data/orthofinder/elegans/proteomes/human.fa",
+      "renamed_sha256": "ebf3e5679fbdd1728c93c9c3431fdf57ab5d69028250511396acc9147e97e8e5",
+      "species_id": "9606_1",
+      "src": "/workspace/data/orthodb/odb12v1/api_cache/fasta/9606_1.fa",
+      "src_sha256": "5934930fb80fa366f1be9aca2a6f3a6031b74def85c80fb7c210aa5aca690577"
+    },
+    "organism": {
+      "records_in": 20374,
+      "records_out": 20374,
+      "renamed_path": "/workspace/data/orthofinder/elegans/proteomes/organism.fa",
+      "renamed_sha256": "e82f5eb5e09613f9bef1ac824727e61360c8af97661cfa4906e5b6c754de49db",
+      "species_id": "6239_0",
+      "src": "/workspace/data/orthodb/odb12v1/api_cache/fasta/6239_0.fa",
+      "src_sha256": "bf592ebdc126b0013b3830e009ae0a52b45d9ecc645d515b7370c87c5f377b04"
+    }
+  },
+  "results_dir": "/workspace/data/orthofinder/elegans/run/Results_consensus",
+  "run_dir": "/workspace/data/orthofinder/elegans/run",
+  "species_tree_newick": "(human:1,organism:1);",
+  "step": "01c_orthofinder",
+  "threads": 16
+}

@@ -1,0 +1,102 @@
+{
+  "dataset": "elegans",
+  "generated_utc": "2026-05-07T19:29:22.865766+00:00",
+  "h5ad_path": "/Users/lenatrnovec/crossspecies-benchmark/data/elegans.h5ad",
+  "h5ad_sha256_before": "4f465c00b6eaa740b3ed74c43fe71750a13c13327abf20c24b784510b4699fbc",
+  "model_dir": "/Users/lenatrnovec/crossspecies-benchmark/models/scGPT",
+  "model_files_downloaded": [],
+  "runtime": {
+    "batch_size": 128,
+    "max_cells": null,
+    "overwrite": true,
+    "seed": 42
+  },
+  "step": "scgpt_embed",
+  "variants": [
+    {
+      "embedding_shape": [
+        89701,
+        512
+      ],
+      "n_cells": 89701,
+      "n_collapsed_paralog_rows": 0,
+      "n_mapped_ids": 1643,
+      "n_scgpt_vocab_size": 60697,
+      "n_selected_ortholog_symbols": 1659,
+      "n_source_genes": 20222,
+      "n_unique_ids": 1643,
+      "obsm_keys_written": [
+        "X_scGPT_ortholog_tier1",
+        "X_scGPT_ortholog_tier1_50"
+      ],
+      "pca_shape": [
+        89701,
+        50
+      ],
+      "smoke_embedding_arrays": [],
+      "temporary_h5ad_removed": "/Users/lenatrnovec/crossspecies-benchmark/data/scgpt/work/elegans/tier1/elegans_tier1.h5ad",
+      "tier_columns": [
+        "ortholog_tier_1"
+      ],
+      "variant": "tier1"
+    },
+    {
+      "embedding_shape": [
+        89701,
+        512
+      ],
+      "n_cells": 89701,
+      "n_collapsed_paralog_rows": 8,
+      "n_mapped_ids": 3525,
+      "n_scgpt_vocab_size": 60697,
+      "n_selected_ortholog_symbols": 3568,
+      "n_source_genes": 20222,
+      "n_unique_ids": 3517,
+      "obsm_keys_written": [
+        "X_scGPT_ortholog_tier12",
+        "X_scGPT_ortholog_tier12_50"
+      ],
+      "pca_shape": [
+        89701,
+        50
+      ],
+      "smoke_embedding_arrays": [],
+      "temporary_h5ad_removed": "/Users/lenatrnovec/crossspecies-benchmark/data/scgpt/work/elegans/tier12/elegans_tier12.h5ad",
+      "tier_columns": [
+        "ortholog_tier_1",
+        "ortholog_tier_2"
+      ],
+      "variant": "tier12"
+    },
+    {
+      "embedding_shape": [
+        89701,
+        512
+      ],
+      "n_cells": 89701,
+      "n_collapsed_paralog_rows": 3510,
+      "n_mapped_ids": 9529,
+      "n_scgpt_vocab_size": 60697,
+      "n_selected_ortholog_symbols": 9853,
+      "n_source_genes": 20222,
+      "n_unique_ids": 6019,
+      "obsm_keys_written": [
+        "X_scGPT_ortholog_tier123",
+        "X_scGPT_ortholog_tier123_50"
+      ],
+      "pca_shape": [
+        89701,
+        50
+      ],
+      "smoke_embedding_arrays": [],
+      "temporary_h5ad_removed": "/Users/lenatrnovec/crossspecies-benchmark/data/scgpt/work/elegans/tier123/elegans_tier123.h5ad",
+      "tier_columns": [
+        "ortholog_tier_1",
+        "ortholog_tier_2",
+        "ortholog_tier_3"
+      ],
+      "variant": "tier123"
+    }
+  ],
+  "work_dir": "/Users/lenatrnovec/crossspecies-benchmark/data/scgpt/work"
+}
