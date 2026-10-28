@@ -1,4 +1,4 @@
-# Crossing the species barrier in single-cell foundation models
+# Single-cell foundation models transfer across deep evolutionary distances
 
 <p align="center">
   <strong>A reproducible benchmark of zero-shot single-cell representations in evolutionarily distant organisms.</strong>
@@ -290,8 +290,8 @@ Citation metadata for this software and its authors is provided in
 [`CITATION.cff`](CITATION.cff). Please cite the software repository as:
 
 > Lena Trnovec, Mariko Katoh-Kurasawa, Rachel N. Arey, Gad Shaulsky, and Blaž
-> Zupan. *Crossing the species barrier in single-cell foundation models*.
-> Version 0.1.0. https://github.com/lenatr99/crossspecies-benchmark
+> Zupan. *Single-cell foundation models transfer across deep evolutionary
+> distances*. Version 0.1.0. https://github.com/lenatr99/crossspecies-benchmark
 
 ## Contributing
 
