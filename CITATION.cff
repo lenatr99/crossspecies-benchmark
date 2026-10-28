@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite the repository."
-title: "Crossing the species barrier in single-cell foundation models"
+title: "Single-cell foundation models transfer across deep evolutionary distances"
 type: software
 version: 0.1.0
 authors:

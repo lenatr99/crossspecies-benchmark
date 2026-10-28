@@ -6,7 +6,7 @@ This is the second stage of figure generation:
     xspecies figures --dataset dicty
     xspecies assemble-figures --dataset dicty
 
-The first command writes data-driven SVG panels to ``manuscript/plots``. This
+The first command writes data-driven SVG panels to ``manuscript/figures/generated``. This
 command replaces the placeholders in the tracked Illustrator master, writes a
 composed SVG, and exports PDF/PNG publication assets with Inkscape.
 """
@@ -262,13 +262,13 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--plots-root",
         type=Path,
-        default=ROOT / "manuscript" / "plots",
+        default=ROOT / "manuscript" / "figures" / "generated",
         help="Root containing rendered panel directories.",
     )
     parser.add_argument(
         "--sources-root",
         type=Path,
-        default=ROOT / "manuscript" / "figure_sources",
+        default=ROOT / "manuscript" / "figures" / "templates",
         help="Root containing tracked Illustrator master SVGs.",
     )
     parser.add_argument(

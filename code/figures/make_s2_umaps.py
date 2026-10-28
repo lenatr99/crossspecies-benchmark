@@ -10,7 +10,7 @@ and display aspect as the main-figure UMAPs.
 
 Reads the pre-computed UMAP coordinates already stored in ``data/dicty.h5ad`` (no
 re-embedding); writes clean panel PNGs plus a publication-ready composite with
-Graphik Trial titles and legend to ``manuscript/figures/``.
+Graphik Trial titles and legend to ``manuscript/figures/supplementary/``.
 
 Run (figures env):
   /opt/anaconda3/envs/crossspecies-foundation-analysis/bin/python code/figures/make_s2_umaps.py
@@ -29,7 +29,7 @@ import panels  # noqa: E402
 from figure_presets import DATASETS, DPI  # noqa: E402
 from make_figures import category_colors, reordered_codes  # noqa: E402
 
-OUT = ROOT / "manuscript" / "figures"
+OUT = ROOT / "manuscript" / "figures" / "supplementary"
 FONT_DIR = ROOT / "fonts"
 GRAPHIK_REGULAR = FONT_DIR / "Graphik-Regular-Trial.otf"
 GRAPHIK_SEMIBOLD = FONT_DIR / "Graphik-Semibold-Trial.otf"

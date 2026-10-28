@@ -147,7 +147,7 @@ For timestamped run selection and standard figures, update:
 The figure preset must define the data path, time key, axis treatment,
 categorical panels, category order, colors and avgBIO labels. If publication
 assembly is required, add a reviewed SVG master under
-`manuscript/figure_sources/`.
+`manuscript/figures/templates/`.
 
 Generate and pin reviewed results:
 

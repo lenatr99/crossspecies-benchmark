@@ -383,7 +383,7 @@ def parse_args() -> argparse.Namespace:
             "developmental_markers, lineage_markers."
         ),
     )
-    parser.add_argument("--output-root", type=Path, default=None, help="Override the manuscript/plots root.")
+    parser.add_argument("--output-root", type=Path, default=None, help="Override the manuscript/figures/generated root.")
     return parser.parse_args()
 
 

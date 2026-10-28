@@ -65,7 +65,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--protein-stem",
         default="protein_space_raw_calibrated",
-        help="Stem under manuscript/figures.",
+        help="Stem under manuscript/figures/supplementary.",
     )
     return parser.parse_args()
 
@@ -99,7 +99,7 @@ def scaled(value: float) -> float:
 
 def validate_inlined_supplement_tables() -> None:
     """Confirm generated table bodies and reader-facing supplementary order."""
-    manuscript = (ROOT / "manuscript" / "manuscript.tex").read_text(encoding="utf-8")
+    manuscript = (ROOT / "manuscript" / "main.tex").read_text(encoding="utf-8")
     assert r"\input{../results/supplements/" not in manuscript
 
     source_files = (
@@ -134,15 +134,15 @@ def validate_inlined_supplement_tables() -> None:
 
     expected_order = (
         "tab:s1b",
+        "tab:s1c",
         "tab:s8",
         "tab:s7",
+        "tab:s2",
+        "tab:s9",
         "tab:s5",
         "tab:s6",
         "tab:s10",
         "tab:s11",
-        "tab:s2",
-        "tab:s1c",
-        "tab:s9",
         "tab:s4",
         "tab:s12",
     )
@@ -308,7 +308,8 @@ def validate_headline_coverage() -> None:
         svg = (
             ROOT
             / "manuscript"
-            / "plots"
+            / "figures"
+            / "generated"
             / organism
             / "genome_coverage"
             / f"genome_coverage_{organism}.svg"
@@ -664,7 +665,7 @@ def validate_sensitivity_tables(args: argparse.Namespace) -> None:
 
 
 def validate_protein_projection(stem: str) -> None:
-    base = ROOT / "manuscript" / "figures" / stem
+    base = ROOT / "manuscript" / "figures" / "supplementary" / stem
     manifest = load_json(base.with_name(f"{stem}_manifest.json"))
     assert manifest["seed"] == 42
     assert manifest["n_proteins_per_species"] == 5000

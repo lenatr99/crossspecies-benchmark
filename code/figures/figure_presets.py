@@ -170,7 +170,7 @@ DATASETS = {
 
 def output_root(base: Path | None = None) -> Path:
     """Directory under which ``<organism>/<panel>/<method>.svg`` is written."""
-    return (base or ROOT / "manuscript" / "plots")
+    return (base or ROOT / "manuscript" / "figures" / "generated")
 
 
 def embeddings_dir() -> Path:

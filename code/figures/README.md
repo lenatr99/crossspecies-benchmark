@@ -60,11 +60,11 @@ xspecies pseudotime --dataset dicty          # writes results/pseudotime_dicty/r
 Tracked layout masters live in:
 
 ```text
-manuscript/figure_sources/dicty_1.svg
-manuscript/figure_sources/elegans_1.svg
+manuscript/figures/templates/dicty_1.svg
+manuscript/figures/templates/elegans_1.svg
 ```
 
-Assembly reads those masters plus `manuscript/plots/<organism>/` and writes:
+Assembly reads those masters plus `manuscript/figures/generated/<organism>/` and writes:
 
 ```text
 manuscript/figures/<organism>_1.svg
@@ -84,8 +84,8 @@ xspecies assemble-figures --dataset all --validate-only
 
 # Use non-default locations or an explicit Inkscape installation.
 xspecies assemble-figures --dataset dicty \
-  --plots-root manuscript/plots \
-  --sources-root manuscript/figure_sources \
+  --plots-root manuscript/figures/generated \
+  --sources-root manuscript/figures/templates \
   --output-root manuscript/figures \
   --inkscape /Applications/Inkscape.app/Contents/MacOS/inkscape
 ```

@@ -20,7 +20,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[3]
-DEFAULT_OUT = ROOT / "manuscript" / "figures"
+DEFAULT_OUT = ROOT / "manuscript" / "figures" / "supplementary"
 DEFAULT_CACHE = ROOT / "data" / "foundation_models" / ".cache"
 DEFAULT_CACHE.mkdir(parents=True, exist_ok=True)
 os.environ.setdefault("MPLCONFIGDIR", str(DEFAULT_CACHE / "matplotlib"))
